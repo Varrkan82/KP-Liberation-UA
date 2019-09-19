@@ -42,3 +42,6 @@ class CfgDebriefing
 		pictureBackground = "";
 	};
 };
+
+// MagRepack
+#include "scripts\client\outlw_magRepack\MagRepack_config.cpp"

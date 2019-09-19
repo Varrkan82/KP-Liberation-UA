@@ -71,6 +71,14 @@ player addEventHandler ["GetInMan", {[_this select 2] spawn kp_cr_checkVehicle;}
 player addEventHandler ["GetInMan", {[_this select 2] call kp_vehicle_permissions;}];
 player addEventHandler ["SeatSwitchedMan", {[_this select 2] call kp_vehicle_permissions;}];
 
+//інші скріпти
+
+[] execVM "scripts\client\GF_Earplugs\GF_Earplugs.sqf";
+[] execVM "scripts\client\outlw_magRepack\MagRepack_init.sqf";
+
+//
+
+
 {
     [_x] call BIS_fnc_drawCuratorLocations;
 } foreach allCurators;

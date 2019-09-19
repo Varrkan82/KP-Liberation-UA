@@ -34,3 +34,6 @@ if (!isDedicated && hasInterface) then {
 if ((isNil {player getVariable "bis_revive_ehHandleHeal"} || isDedicated) && !(bis_reviveParam_mode == 0)) then {
     [] call bis_fnc_reviveInit;
 };
+
+[] execVM "scripts\client\fn_advancedRappellingInit.sqf";
+[] execVM "scripts\cliient\ukr_briefing.sqf";
