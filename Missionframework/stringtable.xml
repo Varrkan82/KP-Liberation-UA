@@ -6,6 +6,7 @@
         <!-- Italian localization made by k4s0: https://github.com/k4s0 -->
         <!-- Spanish localization made by regiregi22: https://github.com/regiregi22 -->
         <!-- Russian localization made by _KOC_: Constantin.rogozin@ya.ru and DjHaski: https://github.com/DjHaski -->
+        <!-- Ukrainian localization (Russian replaced) made by varrkan82: https://github.com/varrkan82 -->
         <!-- English corrections / proofreading by Applejakerie: https://github.com/Applejakerie -->
         <!-- Chinese Simplified localization made by Nercon: https://github.com/nercon -->
         <!-- Chinese Traditional localization made by John M. Rodriguez: https://github.com/KOEI5113 -->
@@ -23,7 +24,7 @@
             <French>Déploiement</French>
             <German>Bereitstellen</German>
             <Spanish>Despliegue</Spanish>
-            <Russian>Развёртывание</Russian>
+            <Russian>Розгортання</Russian>
             <Italian>Schierati</Italian>
             <Chinesesimp>部署</Chinesesimp>
             <Chinese>佈署</Chinese>
@@ -36,7 +37,7 @@
             <French>Déploiement en cours ...</French>
             <German>Bereitstellung in Arbeit</German>
             <Spanish>Despliegue en curso ...</Spanish>
-            <Russian>Развёртывание в процессе ...</Russian>
+            <Russian>Виконується розгортання ...</Russian>
             <Italian>Schieramento in Corso ...</Italian>
             <Chinesesimp>正在部署中...</Chinesesimp>
             <Chinese>正在佈署中...</Chinese>
@@ -49,7 +50,7 @@
             <French>Fermer</French>
             <German>Schliessen</German>
             <Spanish>Cerca</Spanish>
-            <Russian>Закрыть</Russian>
+            <Russian>Закрити</Russian>
             <Italian>Chiudi</Italian>
             <Chinesesimp>关闭</Chinesesimp>
             <Chinese>關閉</Chinese>
@@ -62,7 +63,7 @@
             <French>VOUS ETES BLESSE</French>
             <German>DU BIST VERWUNDET</German>
             <Spanish>ESTAS HERIDO</Spanish>
-            <Russian>ВЫ БЕЗ СОЗНАНИЯ</Russian>
+            <Russian>ВИ НЕПРИТОМНІ</Russian>
             <Italian>SEI STATO UCCISO</Italian>
             <Chinesesimp>你受伤了</Chinesesimp>
             <Chinese>你受傷了</Chinese>
@@ -75,7 +76,7 @@
             <French>-- CONSTRUIRE --</French>
             <German>-- BAUEN --</German>
             <Spanish>-- CONSTRUIR --</Spanish>
-            <Russian>-- ПОСТРОИТЬ --</Russian>
+            <Russian>-- ПОБУДУВАТИ --</Russian>
             <Italian>-- COSTRUISCI --</Italian>
             <Chinesesimp>-- 建造 --</Chinesesimp>
             <Chinese>-- 建造 --</Chinese>
@@ -88,7 +89,7 @@
             <French>CONSTRUCTION</French>
             <German>BAUMENÜ</German>
             <Spanish>MENU DE CONSTRUCCIÓN</Spanish>
-            <Russian>СТРОИТЕЛЬСТВО</Russian>
+            <Russian>БУДЫВНИЦТВО</Russian>
             <Italian>MENU COSTRUZIONI</Italian>
             <Chinesesimp>建造菜单</Chinesesimp>
             <Chinese>建造選單</Chinese>
@@ -101,7 +102,7 @@
             <French>Construire</French>
             <German>Bauen</German>
             <Spanish>Construir</Spanish>
-            <Russian>Построить</Russian>
+            <Russian>Побудувати</Russian>
             <Italian>Costruisci</Italian>
             <Chinesesimp>建造</Chinesesimp>
             <Chinese>建造</Chinese>
@@ -114,7 +115,7 @@
             <French>Effectifs</French>
             <German>Nachschub</German>
             <Spanish>Efectivos</Spanish>
-            <Russian>Припасы</Russian>
+            <Russian>Припаси</Russian>
             <Italian>Personale</Italian>
             <Chinesesimp>补给</Chinesesimp>
             <Chinese>補給</Chinese>
@@ -127,7 +128,7 @@
             <French>Munitions</French>
             <German>Munition</German>
             <Spanish>Munición</Spanish>
-            <Russian>Вооружение</Russian>
+            <Russian>Озброєння</Russian>
             <Italian>Munizioni</Italian>
             <Chinesesimp>弹药</Chinesesimp>
             <Chinese>彈藥</Chinese>
@@ -140,7 +141,7 @@
             <French>Carburant</French>
             <German>Kraftstoff</German>
             <Spanish>Combustible</Spanish>
-            <Russian>Топливо</Russian>
+            <Russian>Паливо</Russian>
             <Italian>Carburante</Italian>
             <Chinesesimp>燃料</Chinesesimp>
             <Chinese>油料</Chinese>
@@ -153,7 +154,7 @@
             <French>Mort dans %1 secondes</French>
             <German>Ausbluten in %1 Sekunden</German>
             <Spanish>Desangrado en %1 segundos</Spanish>
-            <Russian>Вы умрёте через %1 секунд</Russian>
+            <Russian>Ви помрете через %1 секунд</Russian>
             <Italian>Morte per dissanguamento fra %1 secondi</Italian>
             <Chinesesimp>将于%1秒后失血阵亡</Chinesesimp>
             <Chinese>將於 %1 秒後失血致死</Chinese>
@@ -166,7 +167,7 @@
             <French>Stabilisé</French>
             <German>Stabilisiert</German>
             <Spanish>Estabilizado</Spanish>
-            <Russian>Стабильно</Russian>
+            <Russian>Стабілізовано</Russian>
             <Italian>Stabilizzato</Italian>
             <Chinesesimp>伤情稳定</Chinesesimp>
             <Chinese>傷勢穩定</Chinese>
@@ -179,7 +180,7 @@
             <French>-- Rotation</French>
             <German>-- Rotieren</German>
             <Spanish>-- Rotación</Spanish>
-            <Russian>-- Вращать</Russian>
+            <Russian>-- Крутити</Russian>
             <Italian>-- Ruota</Italian>
             <Chinesesimp>-- 旋转</Chinesesimp>
             <Chinese>-- 旋轉</Chinese>
@@ -192,7 +193,7 @@
             <French>-- Construire</French>
             <German>-- Bauen</German>
             <Spanish>-- Construir</Spanish>
-            <Russian>-- Поставить</Russian>
+            <Russian>-- Встановити</Russian>
             <Italian>-- Costruisci</Italian>
             <Chinesesimp>-- 建造</Chinesesimp>
             <Chinese>-- 建造</Chinese>
@@ -205,7 +206,7 @@
             <French>-- Construire et Répéter</French>
             <German>-- Bauen und Wiederholen</German>
             <Spanish>-- Construir y repetir</Spanish>
-            <Russian>-- Поставить и повторить</Russian>
+            <Russian>-- Встановити й повторити</Russian>
             <Italian>-- Costruisci e Ripeti</Italian>
             <Chinesesimp>-- 建造并重复</Chinesesimp>
             <Chinese>-- 建造並重複</Chinese>
@@ -218,7 +219,7 @@
             <French>-- Annuler</French>
             <German>-- Abbrechen</German>
             <Spanish>-- Cancelar</Spanish>
-            <Russian>-- Отмена</Russian>
+            <Russian>-- Відміна</Russian>
             <Italian>-- Annulla</Italian>
             <Chinesesimp>-- 取消</Chinesesimp>
             <Chinese>-- 取消</Chinese>
@@ -231,7 +232,7 @@
             <French>Construction annulée.</French>
             <German>Bauen abgebrochen.</German>
             <Spanish>Construcción cancelada</Spanish>
-            <Russian>Постройка отменена.</Russian>
+            <Russian>Будівництво відмінено.</Russian>
             <Italian>Costruzione cancellata.</Italian>
             <Chinesesimp>建造取消。</Chinesesimp>
             <Chinese>建造取消。</Chinese>
@@ -244,7 +245,7 @@
             <French>Construction confirmée.</French>
             <German>Bauen bestätigt.</German>
             <Spanish>Construcción confirmada.</Spanish>
-            <Russian>Постройка подтверждена.</Russian>
+            <Russian>Будівництво підтверджено.</Russian>
             <Italian>Costruzione confermata.</Italian>
             <Chinesesimp>建造完成。</Chinesesimp>
             <Chinese>建造成功。</Chinese>
@@ -257,7 +258,7 @@
             <French>Impossible de placer ici : il y a %1 objet(s) dans les %2 mètres de la position voulue.</French>
             <German>Kann hier nicht platziert werden: %1 Objekt(e) innerhalb von %2 Meter der Position</German>
             <Spanish>Imposible de colocar aqui: hay 1% objeto(s) a %2 metros de la posición del objeto</Spanish>
-            <Russian>Нельзя разместить здесь: в %2 метрах есть 1% объект(а).</Russian>
+            <Russian>Не можна розмістити тут: за %2 метр(и/ів) є 1% об’єкт(и/ів).</Russian>
             <Italian>impossibile piazzare qui: ci sono %1 oggetti vicini %2 metri dalla posizione dell'oggetto in costruzione</Italian>
             <Chinesesimp>无法安置在这里：当前位置%2米内有%1个物体阻挡。</Chinesesimp>
             <Chinese>無法在此建造：目前 %2 公尺內有 %1 個物件存在。</Chinese>
@@ -270,7 +271,7 @@
             <French>Cette position est valide.</French>
             <German>Diese Position ist gültig.</German>
             <Spanish>Esta posición es válida</Spanish>
-            <Russian>Это место подходит.</Russian>
+            <Russian>Це місце підходить.</Russian>
             <Italian>Questa posizione è valida</Italian>
             <Chinesesimp>可安置于此处。</Chinesesimp>
             <Chinese>可在此建造。</Chinese>
@@ -296,7 +297,7 @@
             <French>-- CHARGER MUNITIONS</French>
             <German>-- KISTE AUFLADEN</German>
             <Spanish>-- CARGAR CAJA DE MUNICIÓN</Spanish>
-            <Russian>-- ЗАГРУЗИТЬ В ТРАНСПОРТ</Russian>
+            <Russian>-- ЗАВАНТАЖИТИ У ТРАНСПОРТ</Russian>
             <Italian>-- CARICA CASSA</Italian>
             <Chinesesimp>-- 装载货箱</Chinesesimp>
             <Chinese>-- 裝載貨物</Chinese>
@@ -309,7 +310,7 @@
             <French>-- DECHARGER MUNITIONS</French>
             <German>-- KISTEN ABLADEN</German>
             <Spanish>-- DESCARGAR CAJA DE MUNICIÓN</Spanish>
-            <Russian>-- ВЫГРУЗИТЬ ЯЩИКИ</Russian>
+            <Russian>-- ВИВАНТАЖИТИ ЯЩИКИ</Russian>
             <Italian>-- SCARICA CASSA</Italian>
             <Chinesesimp>-- 卸载货箱</Chinesesimp>
             <Chinese>-- 卸載貨物</Chinese>
@@ -320,19 +321,19 @@
         <Key ID="STR_ACTION_LOAD_VIV">
             <Original>-- LOAD TO VEHICLE</Original>
             <German>-- AUF FAHRZEUG LADEN</German>
-            <Russian>-- ЗАГРУЗИТЬ В ТРАНСПОРТ</Russian>
+            <Russian>-- ЗАВАНТАЖИТИ У ТРАНСПОРТ</Russian>
             <Korean>-- 차량에 적재</Korean>
         </Key>
         <Key ID="STR_ACTION_UNLOAD_VIV">
             <Original>-- UNLOAD FROM VEHICLE</Original>
             <German>-- VON FAHRZEUG ABLADEN</German>
-            <Russian>-- ВЫГРУЗИТЬ ИЗ ТРАНСПОРТА</Russian>
+            <Russian>-- ВИВАНТАЖИТИ З ТРАНСПОРТА</Russian>
             <Korean>-- 차량에서 하역</Korean>
         </Key>
         <Key ID="STR_ACTION_NOTRANSPORT_VIV">
             <Original>-- NO TRANSPORT VEHICLES NEARBY</Original>
             <German>-- KEIN TRANSPORTFAHRZEUG IN DER NÄHE</German>
-            <Russian>-- НЕТ ТРАНСПОРТА ПОБЛИЗОСТИ</Russian>
+            <Russian>-- НЕМАЄ ТРАНСПОРТА ПОБЛИЗУ</Russian>
             <Korean>-- 주변에 수송차량이 없습니다.</Korean>
         </Key>
         <Key ID="STR_BOX_LOADED">
@@ -340,7 +341,7 @@
             <French>La caisse de munitions a été chargée sur le véhicule de transport.</French>
             <German>Munitionskiste erfolgreich auf das Transportfahrzeug geladen.</German>
             <Spanish>Caja de munición cargada correctamente en el vehículo de transporte</Spanish>
-            <Russian>Ящик с боеприпасами загружен в транспортное средство.</Russian>
+            <Russian>Ящик з боєприпасами завантажено до транспорта.</Russian>
             <Italian>Cassa munizioni correttamente caricata sul camion da trasporto</Italian>
             <Chinesesimp>货箱已装载到运输载具中。</Chinesesimp>
             <Chinese>貨物已上至運輸載具中。</Chinese>
@@ -353,7 +354,7 @@
             <French>La caisse de munitions a été déchargée du véhicule de transport.</French>
             <German>Munitionskiste erfolgreich vom Transportfahrzeug abgeladen.</German>
             <Spanish>Caja de munición descargada correctamente del vehículo de transporte</Spanish>
-            <Russian>Ящик с боеприпасами выгружен из транспортного средства.</Russian>
+            <Russian>Ящик з боєприпасами вивантажено з транспорта.</Russian>
             <Italian>Cassa munizioni correttamente scaricata dal camion da trasporto</Italian>
             <Chinesesimp>货箱已从运输载具中卸载。</Chinesesimp>
             <Chinese>貨物已從運輸載具中卸下。</Chinese>
@@ -366,7 +367,7 @@
             <French>Aucun véhicule à proximité capable de charger la caisse de munitions.</French>
             <German>Kein Fahrzeug in der Nähe, das die Munitionskiste aufnehmen kann.</German>
             <Spanish>No hay ningún vehículo cercano capaz de cagar la caja de munición</Spanish>
-            <Russian>Рядом нет техники способной перевозить ящики с боеприпасами.</Russian>
+            <Russian>Поряд відсутня техніка що здатна перевозити ящики з боєприпасами.</Russian>
             <Italian>Non ci sono veicoli vicino alla cassa munizioni capaci di caricarla</Italian>
             <Chinesesimp>附近没有能够装载货箱的载具。</Chinesesimp>
             <Chinese>附近沒有具備足夠空間裝載貨物的載具。</Chinese>
@@ -374,8 +375,7 @@
             <Portuguese>Não existe veículo nas proximidades capaz de carregar a caixa de munição.</Portuguese>
             <Korean>주변에 군수물자를 수송할 수 있는 차량이 없습니다.</Korean>
         </Key>
-        <Key ID="STR_FOB_ACTION">
-            <Original>-- DEPLOY FOB --</Original>
+Ящик з боєприпасами вивантажено з транспорта.- DEPLOY FOB --</Original>
             <French>-- DEPLOYER FOB --</French>
             <German>-- FOB BEREITSTELLEN --</German>
             <Spanish>-- DESPLEGAR FOB --</Spanish>
@@ -392,7 +392,7 @@
             <French>Impossible de déployer une nouvelle FOB ici, vous devez être à au moins %1 mètres de toutes les autres FOB. La FOB la plus proche est à %2 mètres d'ici.</French>
             <German>Kann hier keine FOB platzieren, du musst min. %1 Meter von der anderen FOB entfernt sein. Die nächste FOB ist %2 Meter entfernt.</German>
             <Spanish>Imposible desplegar una nueva FOB aquí, debes estar al menos a 1% metros de cualquier otra FOB. La FOB más cercana está a %2 metros.</Spanish>
-            <Russian>Нельзя развернуть FOB здесь, вы должны находится в %1 метрах от другой FOB. Ближайшая FOB в %2 метрах.</Russian>
+            <Russian>Неможливо розгорнути FOB тут, ви маєте знаходитись у %1 метрах від іншої FOB. Найближча FOB у %2 метрах.</Russian>
             <Italian>Impossibile creare la nuova FOB qui, devi essere almeno %1 metri distante dalla FOB più vicina. La FOB più vicina si trova a %2 metri.</Italian>
             <Chinesesimp>无法在此部署前哨，前哨之间的距离不得低于%1米。最近的前哨在%2米开外。</Chinesesimp>
             <Chinese>無法在這裡佈署前線基地，前線基地之間的距離不得低於 %1 公尺，最近的前線基地離此 %2 公尺。</Chinese>
@@ -405,7 +405,7 @@
             <French>Impossible de déployer une nouvelle FOB ici, vous devez être à au moins %1 mètres de toutes les zones capturables. La zone la plus proche est à %2 mètres d'ici.</French>
             <German>Kann hier keine FOB platzieren, du musst min. %1 Meter von allen Sektoren entfernt sein. Der nächste Sektor ist %2 Meter entfernt.</German>
             <Spanish>Imposible desplegar una nueva FOB aquí, debes estar al menos a %1 metros de cualquier zona capturable. La zona más cercana está a %2 metros</Spanish>
-            <Russian>Нельзя развернуть FOB здесь, вы должны находится в %1 метрах от захваченного сектора. Ближайший сектор в %2 метрах.</Russian>
+            <Russian>Неможливо розгорнути FOB тут, ви маєте знаходитись у %1 метрах від сектора, що можна захопити. Найближчий сектор у %2 метрах.</Russian>
             <Italian>Impossibile creare la nuova FOB qui, devi essere almeno %1 metri distante dalla Zona catturabile più vicina. La Zona Catturabile più vicina si trova a %2 metri.</Italian>
             <Chinesesimp>无法在此部署前哨，前哨与战区之间的距离不得低于%1米。最近的战区在%2米开外。</Chinesesimp>
             <Chinese>無法在此佈署前線基地，前線基地與戰區之間的距離不得低於 %1 公尺，最近的戰區離此 %2 公尺。</Chinese>
@@ -418,7 +418,7 @@
             <French>Impossible de construire sur l'eau.</French>
             <German>Kann nicht auf Wasser gebaut werden.</German>
             <Spanish>Imposible construir sobre el agua.</Spanish>
-            <Russian>Нельзя построить на воде.</Russian>
+            <Russian>Не можна будувати на воді.</Russian>
             <Italian>Impossibile costruire sull'acqua.</Italian>
             <Chinesesimp>无法在水面上建造。</Chinesesimp>
             <Chinese>無法建造在水面上。</Chinese>
@@ -431,7 +431,7 @@
             <French>Impossible de construire à plus de %1 mètres de la FOB.</French>
             <German>Kann nicht weiter als %1 Meter von der FOB entfernt sein.</German>
             <Spanish>Imposible construir más lejos de %1 metros de la FOB</Spanish>
-            <Russian>Нельзя строить дальше чем в %1 метрах от FOB.</Russian>
+            <Russian>Не можна будувати далі ніж у %1 метрах від FOB.</Russian>
             <Italian>Impossibile costruire a più di %1 metri dalla FOB.</Italian>
             <Chinesesimp>无法在超出前哨%1米外的区域建造。</Chinesesimp>
             <Chinese>無法在距離前線基地 %1 公尺外的區域建造</Chinese>
@@ -444,7 +444,7 @@
             <French>Container FOB</French>
             <German>FOB Container</German>
             <Spanish>Contenedor de FOB</Spanish>
-            <Russian>FOB Контейнер</Russian>
+            <Russian>Контейнер FOB</Russian>
             <Chinesesimp>前哨部署柜</Chinesesimp>
             <Chinese>前線基地貨櫃</Chinese>
             <Turkish>FOB Konternırı</Turkish>
@@ -456,7 +456,7 @@
             <French>Camion FOB</French>
             <German>FOB Lastwagen</German>
             <Spanish>Camión de FOB</Spanish>
-            <Russian>FOB Грузовик</Russian>
+            <Russian>Вантажівка FOB</Russian>
             <Italian>Camion FOB</Italian>
             <Chinesesimp>前哨部署车</Chinesesimp>
             <Chinese>前線基地車</Chinese>
@@ -469,7 +469,7 @@
             <French>Respawn mobile</French>
             <German>Mobiler Respawn</German>
             <Spanish>Respawn móvil</Spanish>
-            <Russian>Мобильная КШМ</Russian>
+            <Russian>Мобільна КШМ</Russian>
             <Italian>Respawn Mobile</Italian>
             <Chinesesimp>机动复活载具</Chinesesimp>
             <Chinese>機動復活載具</Chinese>
@@ -482,7 +482,7 @@
             <French>Caisse à arsenal</French>
             <German>Arsenalkiste</German>
             <Spanish>Caja de Arsenal</Spanish>
-            <Russian>Ящик с арсеналом</Russian>
+            <Russian>Ящик з арсеналом</Russian>
             <Italian>Cassa Arsenale</Italian>
             <Chinesesimp>军火箱</Chinesesimp>
             <Chinese>軍火箱</Chinese>
@@ -495,7 +495,7 @@
             <French>DEPLOIEMENT</French>
             <German>EINSATZ</German>
             <Spanish>DESPLIEGUE</Spanish>
-            <Russian>ДИСЛОКАЦИЯ</Russian>
+            <Russian>ДИСЛОКАЦІЯ</Russian>
             <Italian>SCHIERAMENTO</Italian>
             <Chinesesimp>部署</Chinesesimp>
             <Chinese>佈署</Chinese>
@@ -508,7 +508,7 @@
             <French>Déploiment</French>
             <German>Einsetzen</German>
             <Spanish>Desplegar</Spanish>
-            <Russian>РАЗМЕСТИТЬ</Russian>
+            <Russian>РОЗМІСТИТИ</Russian>
             <Italian>Schierati</Italian>
             <Chinesesimp>部署</Chinesesimp>
             <Chinese>佈署</Chinese>
@@ -521,7 +521,7 @@
             <French>-- REDEPLOIEMENT --</French>
             <German>-- NEU EINSETZEN --</German>
             <Spanish>-- REDESPLEGAR --</Spanish>
-            <Russian>-- ПЕРЕМЕСТИТЬСЯ --</Russian>
+            <Russian>-- ПЕРЕМІСТИТИСЯ --</Russian>
             <Italian>-- RISCHIERAMENTO --</Italian>
             <Chinesesimp>-- 重新部署 --</Chinesesimp>
             <Chinese>-- 重新佈署 --</Chinese>
@@ -534,7 +534,7 @@
             <French>Construire (Equipage)</French>
             <German>Bauen (Besatzung)</German>
             <Spanish>Construir (Equipo)</Spanish>
-            <Russian>Создать (Экипаж)</Russian>
+            <Russian>Створити (Екіпаж)</Russian>
             <Italian>Crea Equipaggio</Italian>
             <Chinesesimp>建造（含成员）</Chinesesimp>
             <Chinese>建造（包含成員）</Chinese>
@@ -547,7 +547,7 @@
             <French>Escouade Fusiliers Légère</French>
             <German>Leichter Waffentrupp</German>
             <Spanish>Escuadra de fusileros ligeros</Spanish>
-            <Russian>Легкий Стрелковый Отряд</Russian>
+            <Russian>Легкий Стрілковий Підрозділ</Russian>
             <Italian>Squadra Fucilieri Leggeri</Italian>
             <Chinesesimp>轻装步枪班</Chinesesimp>
             <Chinese>輕裝步槍班</Chinese>
@@ -560,7 +560,7 @@
             <French>Escouade Fusiliers Lourde</French>
             <German>Schwerer Waffentrupp</German>
             <Spanish>Escuadra de fusileros pesados</Spanish>
-            <Russian>Тяжёлый Стрелковый Отряд</Russian>
+            <Russian>Важкий Стрілковий Підрозділ</Russian>
             <Italian>Squadra Fucilieri Pesanti</Italian>
             <Chinesesimp>重装步枪班</Chinesesimp>
             <Chinese>重裝步槍班</Chinese>
@@ -573,7 +573,7 @@
             <French>Escouade AT</French>
             <German>Panzerbekämpfungstrupp</German>
             <Spanish>Escuadra Antitanque</Spanish>
-            <Russian>Отряд ПТ</Russian>
+            <Russian>Підрозділ ПТ</Russian>
             <Italian>Squadra Anticarro</Italian>
             <Chinesesimp>反坦克班</Chinesesimp>
             <Chinese>反坦班</Chinese>
@@ -586,7 +586,7 @@
             <French>Escouade AA</French>
             <German>Luftabwehrtrupp</German>
             <Spanish>Escuadra Antiaérea</Spanish>
-            <Russian>Отряд ПВО</Russian>
+            <Russian>Підрозділ ППО</Russian>
             <Italian>Squadra Antiaerea</Italian>
             <Chinesesimp>防空班</Chinesesimp>
             <Chinese>防空班</Chinese>
@@ -599,7 +599,7 @@
             <French>Escouade Recon</French>
             <German>Aufklärungstrupp</German>
             <Spanish>Escuadra de reconocimiento</Spanish>
-            <Russian>Отряд Разведчиков</Russian>
+            <Russian>Підрозділ Розвідників</Russian>
             <Italian>Squadra Ricognitori</Italian>
             <Chinesesimp>侦察班</Chinesesimp>
             <Chinese>偵查班</Chinese>
@@ -612,7 +612,7 @@
             <French>Escouade Parachutistes</French>
             <German>Fallschirmjägertrupp</German>
             <Spanish>Escuadra de paracaidistas</Spanish>
-            <Russian>Отряд Десантников</Russian>
+            <Russian>Підрозділ Десантників</Russian>
             <Italian>Squadra Paracadutisti</Italian>
             <Chinesesimp>空降班</Chinesesimp>
             <Chinese>傘兵班</Chinese>
@@ -625,7 +625,7 @@
             <French>Limite</French>
             <German>Einheitenbegrenzung</German>
             <Spanish>Límite de unidades</Spanish>
-            <Russian>Мобилизованных</Russian>
+            <Russian>Мобілізованих</Russian>
             <Italian>Limite delle Unità</Italian>
             <Chinesesimp>单位上限</Chinesesimp>
             <Chinese>單位上限</Chinese>
@@ -638,7 +638,7 @@
             <French>Effacer la sauvegarde</French>
             <German>Spielstand löschen</German>
             <Spanish>Borrar partida guardada</Spanish>
-            <Russian>Удалить сохранённый прогресс</Russian>
+            <Russian>Видалити збережений прогрес</Russian>
             <Italian>Elimina Salvataggi</Italian>
             <Chinesesimp>清空存档</Chinesesimp>
             <Chinese>刪除存檔</Chinese>
@@ -651,7 +651,7 @@
             <French>Confirmer : effacer la sauvegarde</French>
             <German>Bestätige: Spielstand löschen</German>
             <Spanish>Confirmar : Borrar partida guardada</Spanish>
-            <Russian>Подтвердить : Удалить сохранённый прогресс</Russian>
+            <Russian>Підтвердити : Видалити збережений прогрес</Russian>
             <Italian>Confermare : Elimina Salvataggi</Italian>
             <Chinesesimp>确认 ： 清空存档</Chinesesimp>
             <Chinese>確認：刪除存檔</Chinese>
@@ -664,7 +664,7 @@
             <French>Non</French>
             <German>Nein</German>
             <Spanish>No</Spanish>
-            <Russian>Нет</Russian>
+            <Russian>Ні</Russian>
             <Italian>No</Italian>
             <Chinesesimp>否</Chinesesimp>
             <Chinese>否</Chinese>
@@ -677,7 +677,7 @@
             <French>!! LA SAUVEGARDE SERA EFFACEE SANS RECUPERATION POSSIBLE !!</French>
             <German>!! SPIELSTAND WIRD GELÖSCHT, KEIN WIEDERHERSTELLEN MÖGLICH !!</German>
             <Spanish>!! LA PARTIDA GUARDADA SERÁ BORRADA, SIN RECUPERACIÓN POSIBLE !!</Spanish>
-            <Russian>!! СОХРАНЁННЫЙ ПРОГРЕСС БУДЕТ УДАЛЕН, ВОССТАНОВИТЬ БУДЕТ НЕВОЗМОЖНО !!</Russian>
+            <Russian>!! ЗЕРЕЖЕНИЙ ПРОГРЕС БУДЕ ВИДАЛЕНО, ВІДНОВЛЕННЯ НЕ МОЖЛИВЕ!!</Russian>
             <Italian>!! I SALVATAGGI SARANNO ELIMINATI, SENZA POSSIBILITA' DI RECUPERO !!</Italian>
             <Chinesesimp>!!存档将被移除，且无法恢复!!</Chinesesimp>
             <Chinese>！！警告，存檔將被刪除，且無法復原！！</Chinese>
@@ -690,7 +690,7 @@
             <French>-- UNFLIP</French>
             <German>-- UMDREHEN</German>
             <Spanish>-- RECOLOCAR VEHÍCULO</Spanish>
-            <Russian>-- ПЕРЕВЕРНУТЬ</Russian>
+            <Russian>-- ПЕРЕКИНУТИ</Russian>
             <Italian>-- RIADDRIZZA</Italian>
             <Chinesesimp>-- 复位</Chinesesimp>
             <Chinese>-- 翻正</Chinese>
@@ -703,7 +703,7 @@
             <French>-- Mode grille</French>
             <German>-- Rastermodus</German>
             <Spanish>-- Modo rejilla</Spanish>
-            <Russian>-- Режим сетки</Russian>
+            <Russian>-- Режим сітки</Russian>
             <Italian>-- Modalità Griglia</Italian>
             <Chinesesimp>-- 网格模式</Chinesesimp>
             <Chinese>-- 網格模式</Chinese>
@@ -716,7 +716,7 @@
             <French>-- CAPTURER</French>
             <German>-- GEFANGENNEHMEN</German>
             <Spanish>-- CAPTURAR</Spanish>
-            <Russian>-- ЗАХВАТИТЬ</Russian>
+            <Russian>-- ЗАХОПИТИ</Russian>
             <Italian>-- CATTURA</Italian>
             <Chinesesimp>-- 俘虏</Chinesesimp>
             <Chinese>-- 俘虜</Chinese>
@@ -729,7 +729,7 @@
             <French>Membre d'escouade</French>
             <German>Truppenmitglieder</German>
             <Spanish>Miembro de escuadra</Spanish>
-            <Russian>Член отряда</Russian>
+            <Russian>Член підрозділа</Russian>
             <Italian>Membri Squadra</Italian>
             <Chinesesimp>班组成员</Chinesesimp>
             <Chinese>班級成員</Chinese>
@@ -742,7 +742,7 @@
             <French>Près de</French>
             <German>Nah</German>
             <Spanish>Cerca</Spanish>
-            <Russian>Рядом</Russian>
+            <Russian>Поряд</Russian>
             <Italian>Vicino</Italian>
             <Chinesesimp>就近</Chinesesimp>
             <Chinese>附近</Chinese>
@@ -755,7 +755,7 @@
             <French>-- RECYCLER</French>
             <German>-- WIEDERVERWERTEN</German>
             <Spanish>-- RECICLAR</Spanish>
-            <Russian>-- УТИЛИЗИРОВАТЬ</Russian>
+            <Russian>-- УТИЛІЗУВАТИ</Russian>
             <Italian>-- RICICLA</Italian>
             <Chinesesimp>-- 回收</Chinesesimp>
             <Chinese>-- 回收</Chinese>
@@ -768,7 +768,7 @@
             <French>Recyclage</French>
             <German>Wiederverwerten</German>
             <Spanish>Reciclando</Spanish>
-            <Russian>Утилизация</Russian>
+            <Russian>Утилізація</Russian>
             <Italian>Riciclando</Italian>
             <Chinesesimp>正在回收</Chinesesimp>
             <Chinese>回收中</Chinese>
@@ -781,7 +781,7 @@
             <French>Le recyclage de %1 rapportera :</French>
             <German>Die Wiederverwertung von %1 erbringt:</German>
             <Spanish>Reciclando este %1 obtienes:</Spanish>
-            <Russian>Утилизируя %1 вы получите:</Russian>
+            <Russian>Утилізуючи %1 ви отримаєте:</Russian>
             <Italian>Riciclando questo %1 otterrai:</Italian>
             <Chinesesimp>回收%1将会获得：</Chinesesimp>
             <Chinese>回收%1將會獲得：</Chinese>
@@ -794,7 +794,7 @@
             <French>Recycler</French>
             <German>Wiederverwerten</German>
             <Spanish>Reciclar</Spanish>
-            <Russian>Утилизировать</Russian>
+            <Russian>Утилізувати</Russian>
             <Italian>Riciclato</Italian>
             <Chinesesimp>回收</Chinesesimp>
             <Chinese>回收</Chinese>
@@ -807,7 +807,7 @@
             <French>Annuler</French>
             <German>Abbrechen</German>
             <Spanish>Cancelar</Spanish>
-            <Russian>Отмена</Russian>
+            <Russian>Відмінити</Russian>
             <Italian>Annulla</Italian>
             <Chinesesimp>取消</Chinesesimp>
             <Chinese>取消</Chinese>
@@ -820,7 +820,7 @@
             <French>SECTEUR CAPTURE</French>
             <German>SEKTOR EINGENOMMEN</German>
             <Spanish>SECTOR CAPTURADO</Spanish>
-            <Russian>СЕКТОР ЗАХВАЧЕН</Russian>
+            <Russian>СЕКТОР ЗАХОПЛЕНО</Russian>
             <Italian>SETTORE CATTURATO</Italian>
             <Chinesesimp>战区已占领</Chinesesimp>
             <Chinese>戰區已占領</Chinese>
@@ -833,7 +833,7 @@
             <French>Nos forces ont capturé %1.</French>
             <German>Unsere Truppen haben %1 eingenommen.</German>
             <Spanish>Nuestras fuerzas han capturado %1</Spanish>
-            <Russian>Наши войска захватили %1.</Russian>
+            <Russian>Наші війска захопили %1.</Russian>
             <Italian>Le nostre unità hanno catturato %1</Italian>
             <Chinesesimp>我军部队已占领%1。</Chinesesimp>
             <Chinese>我軍已佔領 %1。</Chinese>
@@ -846,7 +846,7 @@
             <French>SECTEUR ATTAQUE</French>
             <German>SEKTOR ANGEGRIFFEN</German>
             <Spanish>SECTOR ATACADO</Spanish>
-            <Russian>СЕКТОР АТАКОВАН</Russian>
+            <Russian>СЕКТОР АТАКОВАНО</Russian>
             <Italian>SETTORE SOTTO ATTACCO</Italian>
             <Chinesesimp>战区遭到攻击</Chinesesimp>
             <Chinese>戰區遭到襲擊</Chinese>
@@ -859,7 +859,7 @@
             <French>Des forces hostiles attaquent %1!</French>
             <German>Gegnerische Truppen greifen %1 an!</German>
             <Spanish>Fuerzas hostiles están atacando %1</Spanish>
-            <Russian>Вражеские силы атакуют %1!</Russian>
+            <Russian>Ворожі сили атакують %1!</Russian>
             <Italian>Forze ostili attaccano %1!</Italian>
             <Chinesesimp>敌军部队正在进攻%1！</Chinesesimp>
             <Chinese>敵軍正在進攻 %1！</Chinese>
@@ -872,7 +872,7 @@
             <French>SECTEUR LOST</French>
             <German>SEKTOR VERLOREN</German>
             <Spanish>SECTOR PERDIDO</Spanish>
-            <Russian>СЕКТОР ПОТЕРЯН</Russian>
+            <Russian>СЕКТОР ВТРАЧЕНО</Russian>
             <Italian>SETTORE PERSO</Italian>
             <Chinesesimp>战区已丢失</Chinesesimp>
             <Chinese>已失去戰區</Chinese>
@@ -885,7 +885,7 @@
             <French>Nous avons perdu le contrôle de %1!</French>
             <German>Wir haben die Kontrolle über %1 verloren!</German>
             <Spanish>Hemos perdido el control sobre %1!</Spanish>
-            <Russian>Мы потеряли контроль над %1!</Russian>
+            <Russian>Ми втратили контроль над %1!</Russian>
             <Italian>Abbiamo perso il controllo di %1!</Italian>
             <Chinesesimp>我们失去了%1的控制权！</Chinesesimp>
             <Chinese>我們失去了 %1 ！</Chinese>
@@ -898,7 +898,7 @@
             <French>SECTEUR SECURISE</French>
             <German>SEKTOR SICHER</German>
             <Spanish>SECTOR SEGURO</Spanish>
-            <Russian>СЕКТОР В БЕЗОПАСНОСТИ</Russian>
+            <Russian>СЕКТОР В БЕЗПЕЦІ</Russian>
             <Italian>SETTORE AL SICURO</Italian>
             <Chinesesimp>战区已安全</Chinesesimp>
             <Chinese>戰區已安全</Chinese>
@@ -911,7 +911,7 @@
             <French>%1 n'est plus menacé(e).</French>
             <German>%1 ist außer Gefahr.</German>
             <Spanish>%1 ya no está bajo amenaza.</Spanish>
-            <Russian>%1 больше не под угрозой.</Russian>
+            <Russian>%1 більше нічого не загрожує.</Russian>
             <Italian>%1 non è più sotto attacco.</Italian>
             <Chinesesimp>%1脱离了危险。</Chinesesimp>
             <Chinese>%1 脫離了危險。</Chinese>
@@ -924,7 +924,7 @@
             <French>NOUVELLE FOB</French>
             <German>NEUE FOB GEBAUT</German>
             <Spanish>NUEVA FOB CONSTRUIDA</Spanish>
-            <Russian>НОВАЯ FOB ПОСТРОЕНА</Russian>
+            <Russian>НОВУ FOB ПОБУДОВАНО</Russian>
             <Italian>NUOVA FOB COSTRUITA</Italian>
             <Chinesesimp>新的前哨部署完成</Chinesesimp>
             <Chinese>新的前線基地佈署完畢</Chinese>
@@ -937,7 +937,7 @@
             <French>La FOB %1 est opérationnelle.</French>
             <German>FOB %1 nun funktionsfähig.</German>
             <Spanish>La FOB %1 es operacional</Spanish>
-            <Russian>FOB %1 теперь действует.</Russian>
+            <Russian>FOB %1 тепер діє.</Russian>
             <Italian>La FOB %1 è operativa.</Italian>
             <Chinesesimp>%1前哨现已入役。</Chinesesimp>
             <Chinese>前線基地 %1 已啟用。</Chinese>
@@ -950,7 +950,7 @@
             <French>FOB SECURISEE</French>
             <German>FOB SICHER</German>
             <Spanish>FOB SEGURA</Spanish>
-            <Russian>FOB В БЕЗОПАСНОСТИ</Russian>
+            <Russian>FOB В БЕЗПЕЦІ</Russian>
             <Italian>FOB AL SICURO</Italian>
             <Chinesesimp>前哨已安全</Chinesesimp>
             <Chinese>前線基地已安全</Chinese>
@@ -963,7 +963,7 @@
             <French>La FOB %1 n'est plus menacée.</French>
             <German>FOB %1 ist außer Gefahr.</German>
             <Spanish>FOB %1 ya no está bajo amenaza</Spanish>
-            <Russian>FOB %1 больше не находится под угрозой.</Russian>
+            <Russian>FOB %1 більше нічого не загрожує.</Russian>
             <Italian>La FOB %1 non è più in pericolo.</Italian>
             <Chinesesimp>%1前哨脱离了危险。</Chinesesimp>
             <Chinese>前線基地 %1 已脫離危險。</Chinese>
@@ -976,7 +976,7 @@
             <French>FOB ATTAQUEE</French>
             <German>FOB ANGEGRIFFEN</German>
             <Spanish>FOB ATACADA</Spanish>
-            <Russian>FOB АТАКОВАНА</Russian>
+            <Russian>FOB АТАКОВАНО</Russian>
             <Italian>FOB SOTTO ATTACCO</Italian>
             <Chinesesimp>前哨遭到攻击</Chinesesimp>
             <Turkish>FOB SALDIRI ALTINDA</Turkish>
@@ -988,7 +988,7 @@
             <French>La FOB %1 est attaquée !</French>
             <German>FOB %1 wird angegriffen !</German>
             <Spanish>FOB %1 está bajo ataque!</Spanish>
-            <Russian>FOB %1 атакована!</Russian>
+            <Russian>FOB %1 атаковано!</Russian>
             <Italian>la FOB %1 è sotto attacco!</Italian>
             <Chinesesimp>%1前哨受到了攻击！</Chinesesimp>
             <Chinese>前線基地 %1 受到攻擊！</Chinese>
@@ -1001,7 +1001,7 @@
             <French>FOB DETRUITE</French>
             <German>FOB ZERSTÖRT</German>
             <Spanish>FOB DESTRUIDA</Spanish>
-            <Russian>FOB УНИЧТОЖЕНА</Russian>
+            <Russian>FOB ЗНИЩЕНО</Russian>
             <Italian>FOB DISTRUTTA</Italian>
             <Chinesesimp>前哨被摧毁</Chinesesimp>
             <Chinese>前線基地被摧毀</Chinese>
@@ -1014,7 +1014,7 @@
             <French>La FOB %1 a été détruite !</French>
             <German>FOB %1 wurde zerstört!</German>
             <Spanish>La FOB %1 ha sido destruida!</Spanish>
-            <Russian>FOB %1 была уничтожена!</Russian>
+            <Russian>FOB %1 було знишено!</Russian>
             <Italian>La FOB %1 è stata distrutta!</Italian>
             <Chinesesimp>%1前哨被摧毁了！</Chinesesimp>
             <Turkish>FOB %1 kaybedildi!</Turkish>
@@ -1026,7 +1026,7 @@
             <French>FORCES HOSTILES EN APPROCHE</French>
             <German>GEGNERISCHE TRUPPEN TREFFEN EIN</German>
             <Spanish>FUERZAS HOSTILES ACERCÁNDOSE</Spanish>
-            <Russian>ПОДХОДЯТ ВРАЖЕСКИЕ СИЛЫ</Russian>
+            <Russian>ПІДХОДЯТЬ ВОРОЖІ СИЛИ</Russian>
             <Italian>FORZE OSTILI IN ARRIVO</Italian>
             <Chinesesimp>敌军部队接近中</Chinesesimp>
             <Chinese>敵軍靠近中</Chinese>
@@ -1039,7 +1039,7 @@
             <French>Forces hostiles repérées près de %1.</French>
             <German>Gegnerische Truppen nahe %1 gesichtet.</German>
             <Spanish>Fuerzas hosstiles avistadas cerca de %1</Spanish>
-            <Russian>Вражеские силы замечены рядом с %1.</Russian>
+            <Russian>Ворожі сили помічено поряд з %1.</Russian>
             <Italian>Forze ostili avvistate vicino %1</Italian>
             <Chinesesimp>%1附近发现了敌军部队。</Chinesesimp>
             <Chinese>%1 附近發現了敵方的部隊</Chinese>
@@ -1052,7 +1052,7 @@
             <French>NOUVEAUX RENSEIGNEMENTS</French>
             <German>NEUE INFORMATIONEN</German>
             <Spanish>NUEVA INTELIGENCIA</Spanish>
-            <Russian>НОВЫЕ РАЗВЕДДАННЫЕ</Russian>
+            <Russian>НОВІ РОЗВІД. ДАНІ</Russian>
             <Italian>NUOVO INTEL</Italian>
             <Chinesesimp>新情报</Chinesesimp>
             <Chinese>新情報</Chinese>
@@ -1065,7 +1065,7 @@
             <French>FOB hostile près de %1.</French>
             <German>Gegnerische FOB nahe %1.</German>
             <Spanish>FOB hostil cerca de %1</Spanish>
-            <Russian>Вражеская FOB около %1.</Russian>
+            <Russian>Ворожа FOB поблизу від %1.</Russian>
             <Italian>FOB ostile vicino %1.</Italian>
             <Chinesesimp>%1附近发现了敌军前哨。</Chinesesimp>
             <Chinese>%1 附近發現了敵方的前線基地。</Chinese>
@@ -1078,7 +1078,7 @@
             <French>Nous avons interroger un prisonnier.</French>
             <German>Wir haben einen Gefangenen verhört.</German>
             <Spanish>Hemos interrogado a un prisionero.</Spanish>
-            <Russian>Мы допросили пленного.</Russian>
+            <Russian>Ми допитали полоненого.</Russian>
             <Italian>Abbiamo interrogato il prigioniero.</Italian>
             <Chinesesimp>我们审讯了一名战犯。</Chinesesimp>
             <Chinese>我們審問了一名俘虜。</Chinese>
@@ -1091,7 +1091,7 @@
             <French>Nous avons trouvé des documents secrets</French>
             <German>Wir haben geheime Dokumente gefunden.</German>
             <Spanish>Hemos encontrado documentos secretos</Spanish>
-            <Russian>Мы нашли секретные документы.</Russian>
+            <Russian>Ми знайшли секретні документи.</Russian>
             <Italian>Abbiamo trovato dei documenti segreti.</Italian>
             <Chinesesimp>我们找到了机密文件。</Chinesesimp>
             <Chinese>我們找到了機密文件。</Chinese>
@@ -1104,7 +1104,7 @@
             <French>OBJECTIF SECONDAIRE</French>
             <German>SEKUNDÄRZIEL</German>
             <Spanish>OBJETIVO SECUNDARIO</Spanish>
-            <Russian>ДОПОЛНИТЕЛЬНАЯ ЗАДАЧА</Russian>
+            <Russian>ДОДАТКОВЕ ЗАВДАННЯ</Russian>
             <Italian>OBIETTIVI SECONDARI</Italian>
             <Chinesesimp>次要目标</Chinesesimp>
             <Chinese>次要任務</Chinese>
@@ -1117,7 +1117,7 @@
             <French>FOB hostile détruite.</French>
             <German>Gegnerische FOB zerstört.</German>
             <Spanish>FOB hostil destruída</Spanish>
-            <Russian>Вражеская FOB уничтожена</Russian>
+            <Russian>Ворожу FOB знищено</Russian>
             <Italian>FOB ostile distrutta.</Italian>
             <Chinesesimp>敌军前哨已摧毁</Chinesesimp>
             <Chinese>敵方前線基地已遭摧毀</Chinese>
@@ -1130,7 +1130,7 @@
             <French>RENFORTS HOSTILES</French>
             <German>GEGNERISCHER NACHSCHUB</German>
             <Spanish>REFUERZOS HOSTILES</Spanish>
-            <Russian>ВРАЖЕСКОЕ ПОДКРЕПЛЕНИЕ</Russian>
+            <Russian>ВОРОЖЕ ПІДКРІПЛЕНЯ</Russian>
             <Italian>RINFORZI OSTILI</Italian>
             <Chinesesimp>敌军增援</Chinesesimp>
             <Chinese>敵方增援</Chinese>
@@ -1143,7 +1143,7 @@
             <French>Forces hostiles en renfort à %1.</French>
             <German>Gegnerische Truppen verstärken %1.</German>
             <Spanish>Fuerzas hostiles reforzando %1</Spanish>
-            <Russian>Вражеские подкрепления подходят в %1.</Russian>
+            <Russian>Вороже підкріпленя наближається до %1.</Russian>
             <Italian>Forze ostili rinforzano le truppe su %1</Italian>
             <Chinesesimp>敌军部队正在向%1增援。</Chinesesimp>
             <Chinese>敵軍正在向 %1 增援。</Chinese>
@@ -1156,7 +1156,7 @@
             <French>== OPTIONS DE MISSION ==</French>
             <German>== MISSIONSEINSTELLUNGEN ==</German>
             <Spanish>== OPCIONES DE MISIÓN ==</Spanish>
-            <Russian>== ОПЦИИ МИССИИ ==</Russian>
+              <Russian>== ОПЦІЇ МІСІЇ ==</Russian>
             <Italian>== OPZIONI MISSIONE ==</Italian>
             <Chinesesimp>== 任务选项 ==</Chinesesimp>
             <Chinese>== 任務選項 ==</Chinese>
@@ -1168,7 +1168,7 @@
             <Original>== GAMEPLAY OPTIONS ==</Original>
             <German>== SPIELEINSTELLUNGEN ==</German>
             <Spanish>== OPCIONES DE JUEGO</Spanish>
-            <Russian>== ИГРОВЫЕ ОПЦИИ ==</Russian>
+            <Russian>== ІГРОВІ ОПЦІЇ ==</Russian>
             <Italian>==OPZIONI DI GIOCO ==</Italian>
             <Chinesesimp>== 游戏选项 ==</Chinesesimp>
             <Chinese>== 遊戲選項 ==</Chinese>
@@ -1181,7 +1181,7 @@
             <French>== OPTIONS TECHNIQUES ==</French>
             <German>== TECHNISCHE EINSTELLUNGEN ==</German>
             <Spanish>== OPCIONES TÉCNICAS ==</Spanish>
-            <Russian>== ТЕХНИЧЕСКИЕ ОПЦИИ ==</Russian>
+            <Russian>== ТЕХНІЧНІ ОПЦІЇ ==</Russian>
             <Italian>==OPZIONI TECNICHE ==</Italian>
             <Chinesesimp>== 技术选项 ==</Chinesesimp>
             <Chinese>== 技術選項 ==</Chinese>
@@ -1194,7 +1194,7 @@
             <French>Durée du jour (heures)</French>
             <German>Länge eines Tages (Stunden)</German>
             <Spanish>Duración del día (horas)</Spanish>
-            <Russian>Продолжительность дня (часов)</Russian>
+            <Russian>Довжина дня (годин)</Russian>
             <Italian>Durata del giorno (In ore)</Italian>
             <Chinesesimp>每日时长（小时）</Chinesesimp>
             <Chinese>美日時長（單位：小時）</Chinese>
@@ -1207,7 +1207,7 @@
             <French>Difficulté</French>
             <German>Schwierigkeit</German>
             <Spanish>Dificultad</Spanish>
-            <Russian>Сложность</Russian>
+            <Russian>Складність</Russian>
             <Italian>Difficoltà:</Italian>
             <Chinesesimp>难度</Chinesesimp>
             <Chinese>困難度</Chinese>
@@ -1259,7 +1259,7 @@
             <French>Modérée</French>
             <German>Moderat</German>
             <Spanish>Moderado</Spanish>
-            <Russian>Посложнее</Russian>
+            <Russian>Важкувато</Russian>
             <Italian>Moderato</Italian>
             <Chinesesimp>适中</Chinesesimp>
             <Chinese>適中</Chinese>
@@ -1272,7 +1272,7 @@
             <French>Difficile</French>
             <German>Schwer</German>
             <Spanish>Difícil</Spanish>
-            <Russian>Сложно</Russian>
+            <Russian>Важко</Russian>
             <Italian>Difficile</Italian>
             <Chinesesimp>困难</Chinesesimp>
             <Chinese>困難</Chinese>
@@ -1285,7 +1285,7 @@
             <French>Extrême</French>
             <German>Extrem</German>
             <Spanish>Extremo</Spanish>
-            <Russian>Экстремально</Russian>
+            <Russian>Екстремально</Russian>
             <Italian>Estremo</Italian>
             <Chinesesimp>极难</Chinesesimp>
             <Chinese>極難</Chinese>
@@ -1311,7 +1311,7 @@
             <French>Oh mon dieu on va tous mourir</French>
             <German>Oh mein Gott, wir werden alle sterben!</German>
             <Spanish>Oh dios mío, vamos a morir!</Spanish>
-            <Russian>Боже мой, мы все умрём!</Russian>
+            <Russian>Боже мій, ми всі помремо!</Russian>
             <Italian>Oh dio, stiamo per morire!</Italian>
             <Chinesesimp>天啦噜作死啦</Chinesesimp>
             <Chinese>菩薩救救我！</Chinese>
@@ -1321,8 +1321,7 @@
         </Key>
         <Key ID="STR_PARAMS_AI_SKILL_MANAGEMENT">
             <Original>Manage AI Skill</Original>
-            <Russian>
-            </Russian>
+            <Russian>Керування скілами AI</Russian>
             <Chinesesimp>管理AI能力</Chinesesimp>
             <Chinese>管理 AI 能力</Chinese>
             <Italian>Livello Difficoltà AI</Italian>
@@ -1335,7 +1334,7 @@
             <French>Multiplicateur de resources</French>
             <German>Ressourcenmultiplikator</German>
             <Spanish>Multiplicador de recursos</Spanish>
-            <Russian>Множитель ресурсов</Russian>
+            <Russian>Множник ресурсів</Russian>
             <Italian>Moltiplicatore di risorse</Italian>
             <Chinesesimp>资源乘数</Chinesesimp>
             <Chinese>資源乘數</Chinese>
@@ -1348,7 +1347,7 @@
             <French>Stamina</French>
             <German>Ausdauer</German>
             <Spanish>Estamina</Spanish>
-            <Russian>Усталость</Russian>
+            <Russian>Втома (стаміна)</Russian>
             <Italian>Stamina</Italian>
             <Chinesesimp>体力</Chinesesimp>
             <Chinese>體力</Chinese>
@@ -1361,7 +1360,7 @@
             <French>Introduction</French>
             <German>Einführung</German>
             <Spanish>Introducción</Spanish>
-            <Russian>Введение</Russian>
+            <Russian>Введення</Russian>
             <Italian>Introduzione</Italian>
             <Chinesesimp>开场动画</Chinesesimp>
             <Chinese>開場動畫</Chinese>
@@ -1374,7 +1373,7 @@
             <French>Cinématique de déploiement</French>
             <German>Zwischensequenz bei Einsatz</German>
             <Spanish>Cinemática de comienzo</Spanish>
-            <Russian>Кино во время размещения</Russian>
+            <Russian>Кіно під час розміщеня</Russian>
             <Italian>Filmato di Schieramento</Italian>
             <Chinesesimp>部署动画</Chinesesimp>
             <Chinese>佈署動畫</Chinese>
@@ -1387,7 +1386,7 @@
             <French>Activé</French>
             <German>Aktiviert</German>
             <Spanish>Activado</Spanish>
-            <Russian>Вкл</Russian>
+            <Russian>Увімкнено</Russian>
             <Italian>Attivo</Italian>
             <Chinesesimp>开启</Chinesesimp>
             <Chinese>開啟</Chinese>
@@ -1400,7 +1399,7 @@
             <French>Désactivé</French>
             <German>Deaktiviert</German>
             <Spanish>Desactivado</Spanish>
-            <Russian>Выкл</Russian>
+            <Russian>Вимкнено</Russian>
             <Italian>Disattivato</Italian>
             <Chinesesimp>关闭</Chinesesimp>
             <Chinese>關閉</Chinese>
@@ -1413,7 +1412,7 @@
             <French>Commencer la campagne avec une première FOB déjà construite</French>
             <German>Starte die Kampagne mit einer bereits gebauten FOB</German>
             <Spanish>Comenzar la campaña con la primera FOB ya construída</Spanish>
-            <Russian>Начать кампанию, когда первая FOB размещена</Russian>
+            <Russian>Почати кампанію, коли першу FOB розміщено</Russian>
             <Italian>Comincia la campagna costruendo la prima FOB</Italian>
             <Chinesesimp>部署起始前哨</Chinesesimp>
             <Chinese>佈署起始前線基地</Chinese>
@@ -1426,7 +1425,7 @@
             <French>Oui</French>
             <German>Ja</German>
             <Spanish>Si</Spanish>
-            <Russian>Да</Russian>
+            <Russian>Так</Russian>
             <Italian>Si</Italian>
             <Chinesesimp>是</Chinesesimp>
             <Chinese>是</Chinese>
@@ -1439,7 +1438,7 @@
             <French>Non</French>
             <German>Nein</German>
             <Spanish>No</Spanish>
-            <Russian>Нет</Russian>
+            <Russian>Ні</Russian>
             <Italian>NO</Italian>
             <Chinesesimp>否</Chinesesimp>
             <Chinese>否</Chinese>
@@ -1452,7 +1451,7 @@
             <French>Quantité maximum d'unités IA</French>
             <German>Maximale Anzahl KI-Einheiten</German>
             <Spanish>Cantidad máxima de unidades de IA</Spanish>
-            <Russian>Максимальное количество единиц AI</Russian>
+            <Russian>Максимальна кількість одиниць AI</Russian>
             <Italian>Numero massimo di unità AI</Italian>
             <Chinesesimp>AI单位最大数量</Chinesesimp>
             <Chinese>AI 單位最大數量</Chinese>
@@ -1465,7 +1464,7 @@
             <French>50% - Recommandé pour un hébergement local</French>
             <German>50 % - Empfohlen für lokal gehostete Spiele</German>
             <Spanish>50% - Recomendado para host local</Spanish>
-            <Russian>50% - Рекомендуется для локального хостинга</Russian>
+            <Russian>50% - Рекомендується для локального хостингу</Russian>
             <Italian>50% - Raccomandato per host locali</Italian>
             <Chinesesimp>50% - 适用于本地主机</Chinesesimp>
             <Chinese>50% - 適合本地 HOST 遊戲使用</Chinese>
@@ -1478,7 +1477,7 @@
             <French>75% - Serveur dédié recommandé</French>
             <German>75 % - Dezidierter Server empfohlen</German>
             <Spanish>75% - Recomendado para servidor dedicado</Spanish>
-            <Russian>75% - Выделенный сервер рекомендуется</Russian>
+            <Russian>75% - Виділений сервер рекомендується</Russian>
             <Italian>75% - Raccomandato per server dedicati</Italian>
             <Chinesesimp>75% - 适用于服务器</Chinesesimp>
             <Chinese>75% - 適合伺服器使用</Chinese>
@@ -1491,7 +1490,7 @@
             <French>100% - Serveur dédié recommandé</French>
             <German>100 % - Dezidierter Server empfohlen</German>
             <Spanish>100% - Recomendado para servidor dedicado</Spanish>
-            <Russian>100% - Выделенный сервер рекомендуется</Russian>
+            <Russian>100% - Виділений сервер рекомендується</Russian>
             <Italian>100% - Raccomandato per server dedicati</Italian>
             <Chinesesimp>100% - 适用于服务器</Chinesesimp>
             <Chinese>100% - 適合伺服器使用</Chinese>
@@ -1504,7 +1503,7 @@
             <French>125% - Serveur dédié avec headless client recommandé</French>
             <German>125 % - Dezidierter Server mit Headless Client empfohlen</German>
             <Spanish>125% - Recomendado para servidor dedicado con cliente descabezado</Spanish>
-            <Russian>125% - Выделенный сервер вместе с headless client рекомендуется</Russian>
+            <Russian>125% - Виділений сервер разом з headless client рекомендовано</Russian>
             <Italian>125% - Raccomandato per server dedicati con headless client</Italian>
             <Chinesesimp>125% - 适用于有Headless Client辅助的服务器</Chinesesimp>
             <Chinese>125% - 適合有無頭客戶端的伺服器使用</Chinese>
@@ -1517,7 +1516,7 @@
             <French>150% - Serveur dédié avec clients headless multiples recommandé</French>
             <German>150 % - Dezidierter Server mit mehreren Headless Clients empfohlen</German>
             <Spanish>150% - Recomendado para servidor dedicado con múltiples clientes descabezados</Spanish>
-            <Russian>150% - Выделенный сервер вместе с несколькими headless client рекомендуется</Russian>
+            <Russian>150% - Виділений сервер разом з кількома headless client рекомендовано</Russian>
             <Italian>150% - Raccomandato per server dedicati con molti headless client</Italian>
             <Chinesesimp>150% - 适用于有多个Headless Client辅助的服务器</Chinesesimp>
             <Chinese>150% - 適合有多個無頭客戶端的伺服器使用</Chinese>
@@ -1530,7 +1529,7 @@
             <French>200% - Serveur dédié avec clients headless multiples recommandés</French>
             <German>200 % - Dezidierter Server mit mehreren Headless Clients empfohlen</German>
             <Spanish>200% - Recomendado para servidor dedicado con múltiples clientes descabezados</Spanish>
-            <Russian>200% - Выделенный сервер вместе с несколькими headless client рекомендуется</Russian>
+            <Russian>200% - Виділений сервер разом з кількома headless client рекомендовано</Russian>
             <Italian>200% - Raccomandato per server dedicati con tanti headless client</Italian>
             <Chinesesimp>200% - 适用于有多个Headless Client辅助的服务器</Chinesesimp>
             <Chinese>200% - 適合有多個無頭客戶端的伺服器使用</Chinese>
@@ -1543,7 +1542,7 @@
             <French>Activité civile</French>
             <German>Zivile Aktivität</German>
             <Spanish>Actividad civil</Spanish>
-            <Russian>Гражданская активность</Russian>
+            <Russian>Цивільна активність</Russian>
             <Italian>Attività dei civili</Italian>
             <Chinesesimp>平民存在感</Chinesesimp>
             <Chinese>平民活動程度</Chinese>
@@ -1556,7 +1555,7 @@
             <French>Aucune</French>
             <German>Keine</German>
             <Spanish>Ninguna</Spanish>
-            <Russian>Нету</Russian>
+            <Russian>Відсутня</Russian>
             <Italian>Nessuna</Italian>
             <Chinesesimp>无</Chinesesimp>
             <Chinese>無(關閉平民活動)</Chinese>
@@ -1569,7 +1568,7 @@
             <French>Réduite</French>
             <German>Reduziert</German>
             <Spanish>Reducida</Spanish>
-            <Russian>Снижена</Russian>
+            <Russian>Низька</Russian>
             <Italian>Ridotta</Italian>
             <Chinesesimp>较少</Chinesesimp>
             <Chinese>較少</Chinese>
@@ -1582,7 +1581,7 @@
             <French>Normale</French>
             <German>Normal</German>
             <Spanish>Normal</Spanish>
-            <Russian>Нормальная</Russian>
+            <Russian>Нормальна</Russian>
             <Italian>Normale</Italian>
             <Chinesesimp>正常</Chinesesimp>
             <Chinese>正常</Chinese>
@@ -1595,7 +1594,7 @@
             <French>Augmentée</French>
             <German>Erhöht</German>
             <Spanish>Aumentada</Spanish>
-            <Russian>Увеличенная</Russian>
+            <Russian>Підвищена</Russian>
             <Italian>Aumentata</Italian>
             <Chinesesimp>较多</Chinesesimp>
             <Chinese>較多</Chinese>
@@ -1608,7 +1607,7 @@
             <French>Attention: tirs alliés</French>
             <German>Achtung: Eigenbeschuss</German>
             <Spanish>Atención: fuego amigo</Spanish>
-            <Russian>Предупреждение: дружественный огонь</Russian>
+            <Russian>Попередження: дружній вогонь</Russian>
             <Italian>Attenzione: fuoco amico</Italian>
             <Chinesesimp>警告：误击友军</Chinesesimp>
             <Chinese>警告：誤擊友軍</Chinese>
@@ -1621,7 +1620,7 @@
             <French>Pénalité pour tirs alliés</French>
             <German>Strafe für das Töten von Verbündeten</German>
             <Spanish>Penalización por fuego amigo</Spanish>
-            <Russian>Штраф за убийство своего</Russian>
+            <Russian>Штраф за вбивство свого</Russian>
             <Italian>Penalità se si uccide un compagno di squadra</Italian>
             <Chinesesimp>友军击杀惩罚</Chinesesimp>
             <Chinese>友軍擊殺懲罰</Chinese>
@@ -1634,7 +1633,7 @@
             <French>La présence hostile s'adapte au nombre de joueurs</French>
             <German>Feindpräsenz passt sich der Spielerzahl an</German>
             <Spanish>Adaptar presencia hostil según la cantidad de jugadores</Spanish>
-            <Russian>Вражеские силы адаптируются к количеству игроков</Russian>
+            <Russian>Ворожі сили адаптуюцця до кількості гравців</Russian>
             <Italian>presenza ostile adattata al numero dei giocatori</Italian>
             <Chinesesimp>随玩家数量调整敌军活动</Chinesesimp>
             <Chinese>隨玩家數量調整敵人活動程度</Chinese>
@@ -1647,7 +1646,7 @@
             <French>Unités d'infanterie</French>
             <German>Infanterie</German>
             <Spanish>Unidades de infantería</Spanish>
-            <Russian>Пехотинцы</Russian>
+            <Russian>Піхота</Russian>
             <Italian>Unità di fanteria</Italian>
             <Chinesesimp>步兵单位</Chinesesimp>
             <Chinese>步兵單位</Chinese>
@@ -1660,7 +1659,7 @@
             <French>Véhicules légers</French>
             <German>Leichte Fahrzeuge</German>
             <Spanish>Vehículos ligeros</Spanish>
-            <Russian>Легкая техника</Russian>
+            <Russian>Легка техніка</Russian>
             <Italian>Veicoli Leggeri</Italian>
             <Chinesesimp>轻型载具</Chinesesimp>
             <Chinese>輕型載具</Chinese>
@@ -1673,7 +1672,7 @@
             <French>Vehicules blindés</French>
             <German>Gepanzerte Fahrzeuge</German>
             <Spanish>Vehículos blindados</Spanish>
-            <Russian>Бронетехника</Russian>
+            <Russian>Бронетехніка</Russian>
             <Italian>Veicoli Blindati</Italian>
             <Chinesesimp>装甲载具</Chinesesimp>
             <Chinese>裝甲載具</Chinese>
@@ -1686,7 +1685,7 @@
             <French>Véhicules aériens</French>
             <German>Luftfahrzeuge</German>
             <Spanish>Vehículos aéreos</Spanish>
-            <Russian>Авиационная техника</Russian>
+            <Russian>Авиаційна техніка</Russian>
             <Italian>Veicoli Aerei</Italian>
             <Chinesesimp>空中载具</Chinesesimp>
             <Chinese>空中載具</Chinese>
@@ -1699,7 +1698,7 @@
             <French>Defenses statiques</French>
             <German>Statische Verteidigung</German>
             <Spanish>Defensas estáticas</Spanish>
-            <Russian>Стационары</Russian>
+            <Russian>Стаціонари</Russian>
             <Italian>Difese statiche</Italian>
             <Chinesesimp>固定防御</Chinesesimp>
             <Chinese>固定式防禦</Chinese>
@@ -1712,7 +1711,7 @@
             <French>Batiments</French>
             <German>Gebäude</German>
             <Spanish>Edificios</Spanish>
-            <Russian>Постройки</Russian>
+            <Russian>Будівлі</Russian>
             <Italian>Edifici</Italian>
             <Chinesesimp>建筑工事</Chinesesimp>
             <Chinese>建築工事</Chinese>
@@ -1725,7 +1724,7 @@
             <French>Logistique</French>
             <German>Logistik</German>
             <Spanish>Logística</Spanish>
-            <Russian>Логистика</Russian>
+            <Russian>Логістика</Russian>
             <Italian>Logistica</Italian>
             <Chinesesimp>后勤</Chinesesimp>
             <Chinese>後勤</Chinese>
@@ -1738,7 +1737,7 @@
             <French>Escouades d'infanterie</French>
             <German>Infanteriegruppen</German>
             <Spanish>Escuadras de infantería</Spanish>
-            <Russian>Пехотные отделения</Russian>
+            <Russian>Піхотні відділення</Russian>
             <Italian>Squadra Fanteria</Italian>
             <Chinesesimp>步兵班</Chinesesimp>
             <Chinese>步兵班</Chinese>
@@ -1751,7 +1750,7 @@
             <French>Secteurs Actifs :</French>
             <German>Aktive Sektoren:</German>
             <Spanish>Sectores activos:</Spanish>
-            <Russian>Активные Секторы:</Russian>
+            <Russian>Активні Сектори:</Russian>
             <Italian>Settori Attivi:</Italian>
             <Chinesesimp>活动中的战区：</Chinesesimp>
             <Chinese>觸發中的戰區：</Chinese>
@@ -1764,7 +1763,7 @@
             <French>La limite d'unités actives a été dépassée et l'activation de nouveaux secteurs est temporairement stoppée. Vous pouvez maintenant voir la liste des sectors déjà actifs sur lesquels vous pouvez concentrer vos efforts.</French>
             <German>Maximale Anzahl KI-Einheiten erreicht. Es können keine weitere Zonen aktiviert werden. Du kannst nun die Liste der aktiven Gebiete sehen, auf die du deine Kraft fokussieren solltest.</German>
             <Spanish>El límite de unidades activas se ha excedido, por lo que la activación de sectores queda temporalmente paralizada. Ahora puedes ver la lista de sectores activos donde concentrar tus esfuerzos</Spanish>
-            <Russian>Превышено ограничение по количеству ботов в настройках миссии и активация секторов временно приостановлена. Теперь вы можете увидеть список активных в данный момент секторов, где вы должны сконцентрировать свои усилия.</Russian>
+            <Russian>Перевищено ліміт по кількості ботів в налаштуваннях місії, тому подальша активація секторів призупинена. Тепер ви можете побачити перелік активних, на цей час, секторів, де ви маєте зконцентрувати свої зусилля.</Russian>
             <Italian>L'impostazione unitcap è stata superata e l'attivazione di ulteriori settori è interrotta temporaneamente. Ora è possibile visualizzare l'elenco dei settori attualmente attivi in ​​cui si devono concentrare i vostri sforzi.</Italian>
             <Chinesesimp>已达到单位上限，暂停其他战区的激活。你可以通过活动中的战区列表查看并确立主攻地区。</Chinesesimp>
             <Chinese>敵人生成數量已達單位上限，系統將暫時停止其他戰區的敵軍觸發功能；你可以通過觸發中的戰區來查看並確定想主要進攻的戰區。</Chinese>
