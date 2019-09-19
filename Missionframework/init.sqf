@@ -36,4 +36,4 @@ if ((isNil {player getVariable "bis_revive_ehHandleHeal"} || isDedicated) && !(b
 };
 
 [] execVM "scripts\client\fn_advancedRappellingInit.sqf";
-[] execVM "scripts\cliient\ukr_briefing.sqf";
+[] execVM "scripts\client\ukr_briefing.sqf";
