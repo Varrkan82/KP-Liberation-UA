@@ -1737,7 +1737,7 @@
             <French>Escouades d'infanterie</French>
             <German>Infanteriegruppen</German>
             <Spanish>Escuadras de infantería</Spanish>
-            <Russian>Піхотні відділення</Russian>
+            <Russian>Піхотні загони</Russian>
             <Italian>Squadra Fanteria</Italian>
             <Chinesesimp>步兵班</Chinesesimp>
             <Chinese>步兵班</Chinese>
@@ -1776,7 +1776,7 @@
             <French>VEROUILLE PAR</French>
             <German>VERSCHLOSSEN VON</German>
             <Spanish>BLOQUEADO POR</Spanish>
-            <Russian>ЗАБЛОКИРОВАНО</Russian>
+            <Russian>ЗАБЛОКОВАНО</Russian>
             <Italian>BLOCCATO DA</Italian>
             <Chinesesimp>锁定于</Chinesesimp>
             <Chinese>鎖定於</Chinese>
@@ -1789,7 +1789,7 @@
             <French>DEVEROUILLE PAR</French>
             <German>GEÖFFNET VON</German>
             <Spanish>DESBLOQUEADO POR</Spanish>
-            <Russian>РАЗБЛОКИРОВАНО</Russian>
+            <Russian>РОЗБЛОКОВАНО</Russian>
             <Italian>SBLOCCATO DA</Italian>
             <Chinesesimp>解锁于</Chinesesimp>
             <Chinese>解鎖於</Chinese>
@@ -1802,7 +1802,7 @@
             <French>GESTION D'ESCOUADE</French>
             <German>GRUPPENVERWALTUNG</German>
             <Spanish>GESTIÓN DE ESCUADRA</Spanish>
-            <Russian>УПРАВЛЕНИЕ ОТРЯДОМ</Russian>
+            <Russian>КЕРУВАННЯ ЗАГОНОМ</Russian>
             <Italian>GESTIONE SQUADRA</Italian>
             <Chinesesimp>班组管理</Chinesesimp>
             <Chinese>班級管理</Chinese>
@@ -1815,7 +1815,7 @@
             <French>-- GESTION D'ESCOUADE</French>
             <German>-- GRUPPENVERWALTUNG</German>
             <Spanish>-- GESTIÓN DE ESCUADRA</Spanish>
-            <Russian>-- УПРАВЛЕНИЕ ОТРЯДОМ</Russian>
+            <Russian>-- КЕРУВАННЯ ЗАГОНОМ</Russian>
             <Italian>-- GESTIONE SQUADRA</Italian>
             <Chinesesimp>-- 班组管理</Chinesesimp>
             <Chinese>-- 班級管理</Chinese>
@@ -1828,7 +1828,7 @@
             <French>Remplacer</French>
             <German>Ersetzen</German>
             <Spanish>Reemplazar</Spanish>
-            <Russian>Заменить</Russian>
+            <Russian>Замінити</Russian>
             <Italian>Sostituisci</Italian>
             <Chinesesimp>附身</Chinesesimp>
             <Chinese>取代</Chinese>
@@ -1841,7 +1841,7 @@
             <French>Vous allez vous déployer à la place du member d'escouade selectionné tout en conservant votre équipement actuel.</French>
             <German>Du wirst das ausgewählte Gruppenmitglied ersetzen, während du deine Ausrüstung behältst.</German>
             <Spanish>Reaparecerás en el miembro de la escuadra seleccionado, manteniendo tu equipación actual</Spanish>
-            <Russian>Вы будете развёрнуты на выбранном AI-солдате группы, и замените его, сохранив текущее снаряжение.</Russian>
+            <Russian>Вас буде розгорнуто на обраному AI-солдаті загону з заміною його але зі збереженняв вашого поточного набору спорядження.</Russian>
             <Italian>Verrai schierato sul membro della squadra selezionata e lo rimpiazzerai mantenendo il loadout corrente.</Italian>
             <Chinesesimp>你将附身到所选班组成员身上并保留你当前的装备</Chinesesimp>
             <Chinese>你將使用你目前的身上裝備並取代選定的班級成員。</Chinese>
@@ -1853,7 +1853,7 @@
             <French>Supprimer</French>
             <German>Entfernen</German>
             <Spanish>Suprimir</Spanish>
-            <Russian>Удалить</Russian>
+            <Russian>Видалити</Russian>
             <Italian>Rimuovi</Italian>
             <Chinesesimp>移除</Chinesesimp>
             <Chinese>移除</Chinese>
@@ -1865,7 +1865,7 @@
             <French>Le membre d'escouade sélectionné sera supprimé.</French>
             <German>Das ausgewählte Gruppenmitglied löschen.</German>
             <Spanish>El miembro de la escuadra seleccionado será eliminado</Spanish>
-            <Russian>Выбранный член группы будет удалён.</Russian>
+            <Russian>Обраного члена загону буде видалено.</Russian>
             <Italian>Il soldato attualmente selezionato è stato rimosso</Italian>
             <Chinesesimp>所选班组成员将会被移除。</Chinesesimp>
             <Chinese>所選的班級成員將被移除</Chinese>
@@ -1877,7 +1877,7 @@
             <French>Réapprovisionner</French>
             <German>Versorgen</German>
             <Spanish>Reabastecer</Spanish>
-            <Russian>Переснарядить</Russian>
+            <Russian>Переспорядити</Russian>
             <Italian>Riapprovvigionamento</Italian>
             <Chinesesimp>补给</Chinesesimp>
             <Chinese>補給</Chinese>
@@ -1889,7 +1889,7 @@
             <French>Si le membre d'escouade sélectionné est assez près d'un point d'approvisionnement (spawn mobile ou FOB) il recevra un nouvel équipement complet.</French>
             <German>Wenn das gewählte Gruppenmitglied nahe genug bei einem Versorgungspunkt (mobiler Spawn oder FOB) ist, erhält es eine brandneue, vollständige Ausrüstung</German>
             <Spanish>Si el miembro de la escuadra se encuentra cerca de un punto de abastecimiento (spawn móvil o FOB) obtendrá el equipamiento completo nuevo</Spanish>
-            <Russian>Если выбранный член группы находится достаточно близко от точки пополнения запасов (мобильный КШМ или FOB), он будет заменён новым, полностью снаряжённым.</Russian>
+            <Russian>Якщо обраний член загону знаходиться досить близько від точки поповнення запасів (мобілньа КШМ або FOB), його буде замінено новим, повныстю спорядженим.</Russian>
             <Italian>Se il membro di una squadra è nei pressi di una FOB o Respwan Mobile potrà ricaricare il suo loadout.</Italian>
             <Chinesesimp>如果选择的班组成员距离补给点（机动复活点或前哨）够近时，他们将获得一套全新完整的装备。</Chinesesimp>
             <Chinese>如果選定的班級乘員距離補給點（機動重生點或前線基地）夠近時，他們將獲得一套全新的完整裝備。</Chinese>
@@ -1902,7 +1902,7 @@
             <French>Confirmer</French>
             <German>Bestätigen</German>
             <Spanish>Confirmar</Spanish>
-            <Russian>Подтвердить</Russian>
+            <Russian>Підтвердити</Russian>
             <Italian>Conferma</Italian>
             <Chinesesimp>确认</Chinesesimp>
             <Chinese>確認</Chinese>
@@ -1915,7 +1915,7 @@
             <French>Santé :</French>
             <German>Leben:</German>
             <Spanish>Salud:</Spanish>
-            <Russian>Здоровье:</Russian>
+            <Russian>Здоров’я:</Russian>
             <Italian>Salute:</Italian>
             <Chinesesimp>血量：</Chinesesimp>
             <Chinese>血量：</Chinese>
@@ -1928,7 +1928,7 @@
             <French>Distance :</French>
             <German>Distanz:</German>
             <Spanish>Distancia:</Spanish>
-            <Russian>Дистанция:</Russian>
+            <Russian>Дистанція:</Russian>
             <Italian>Distanza:</Italian>
             <Chinesesimp>距离：</Chinesesimp>
             <Chinese>距離：</Chinese>
@@ -1941,7 +1941,7 @@
             <French>Principale</French>
             <German>Primär</German>
             <Spanish>Principal</Spanish>
-            <Russian>Основное</Russian>
+            <Russian>Основне</Russian>
             <Italian>Primaria</Italian>
             <Chinesesimp>主要</Chinesesimp>
             <Chinese>主要</Chinese>
@@ -1954,7 +1954,7 @@
             <French>Secondaire</French>
             <German>Sekundär</German>
             <Spanish>Secundaria</Spanish>
-            <Russian>Дополнительное</Russian>
+            <Russian>Додаткове</Russian>
             <Italian>Secondaria</Italian>
             <Chinesesimp>次要</Chinesesimp>
             <Chinese>次要</Chinese>
@@ -1967,7 +1967,7 @@
             <French>Aucune</French>
             <German>Keine</German>
             <Spanish>Ninguno</Spanish>
-            <Russian>Нету</Russian>
+            <Russian>Немає</Russian>
             <Italian>Nessuno</Italian>
             <Chinesesimp>无</Chinesesimp>
             <Chinese>無</Chinese>
@@ -1980,7 +1980,7 @@
             <French>Conducteur</French>
             <German>Fahrer</German>
             <Spanish>Conductor</Spanish>
-            <Russian>Водитель</Russian>
+            <Russian>Водій</Russian>
             <Italian>Guidatore</Italian>
             <Chinesesimp>驾驶员</Chinesesimp>
             <Chinese>駕駛</Chinese>
@@ -1993,7 +1993,7 @@
             <French>Tireur</French>
             <German>Schütze</German>
             <Spanish>Artillero</Spanish>
-            <Russian>Стрелок</Russian>
+            <Russian>Стрілок</Russian>
             <Italian>Artigliere</Italian>
             <Chinesesimp>炮手</Chinesesimp>
             <Chinese>砲手</Chinese>
@@ -2019,7 +2019,7 @@
             <French>Passager</French>
             <German>Passagier</German>
             <Spanish>Pasajero</Spanish>
-            <Russian>Пассажир</Russian>
+            <Russian>Пасажир</Russian>
             <Italian>Passeggero</Italian>
             <Chinesesimp>乘客</Chinesesimp>
             <Chinese>乘客</Chinese>
@@ -2032,7 +2032,7 @@
             <French>Déploiement d'escouade</French>
             <German>Gruppeneinsatz</German>
             <Spanish>Despliegue de escuadra</Spanish>
-            <Russian>Мобилизовать отряд</Russian>
+            <Russian>Мобилізувати загін</Russian>
             <Italian>Schieramento Squadra</Italian>
             <Chinesesimp>班组部署</Chinesesimp>
             <Chinese>班級佈署</Chinese>
@@ -2045,7 +2045,7 @@
             <French>Vous avez supprimé le membre de l'escouade sélectionné.</French>
             <German>Du hast das ausgewählte Gruppenmitglied gelöscht.</German>
             <Spanish>Has eliminado al miebro de la escuadra.</Spanish>
-            <Russian>Вы демобилизовали выбранного члена группы.</Russian>
+            <Russian>Ви демобілізували обраного члена загону.</Russian>
             <Italian>Hai eliminato il membro della squadra selezionato.</Italian>
             <Chinesesimp>所选班组成员已移除。</Chinesesimp>
             <Chinese>所選的班級乘員已移除。</Chinese>
@@ -2058,7 +2058,7 @@
             <French>Le membre de l'escouade sélectionné a été réapprovisionné.</French>
             <German>Das ausgewählte Gruppenmitglied wurde versorgt.</German>
             <Spanish>El miembro seleccionado de la escuadra ha sido reamunicionado</Spanish>
-            <Russian>Выбранный член группы был переснаряжён.</Russian>
+            <Russian>Обраного члена загону було переспорялдено.</Russian>
             <Italian>Il membro della squadra selezionato è stato rifornito</Italian>
             <Chinesesimp>所选班组成员已补给。</Chinesesimp>
             <Chinese>所選的班級成員以補給。</Chinese>
@@ -2071,7 +2071,7 @@
             <French>Le membre de l'escouade sélectionné n'est pas assez proche d'une FOB ou d'un spawn mobile.</French>
             <German>Das ausgewählte Gruppenmitglied ist nicht nahe genug an einer FOB oder an einem mobilen Spawn.</German>
             <Spanish>El miembro seleccionado de la escuadra no está suficientemente cerca de una FOB o spawn móvil.</Spanish>
-            <Russian>Выбранный член группы находится далеко от КШМ или FOB</Russian>
+            <Russian>Обраний член загону знаходиться делаеко від КШМ або FOB</Russian>
             <Italian>Il membro della squadra non è sufficentemente vicino alla FOB o Respawn Mobile.</Italian>
             <Chinesesimp>所选班组成员距离前哨或机动复活点太远。</Chinesesimp>
             <Chinese>所選的班級成員距離前線基地或機動重生點太遠。</Chinese>
@@ -2084,7 +2084,7 @@
             <French>GESTION DES PERMISSIONS</French>
             <German>Rechteverwaltung</German>
             <Spanish>GESTIÓN DE PERMISOS</Spanish>
-            <Russian>УПРАВЛЕНИЕ РАЗРЕШЕНИЯМИ</Russian>
+            <Russian>КЕРУВАННЯ ДОЗВОЛАМИ</Russian>
             <Italian>GESTIONE PERMESSI</Italian>
             <Chinesesimp>权限管理</Chinesesimp>
             <Chinese>權限管理</Chinese>
@@ -2097,7 +2097,7 @@
             <French>Véhicules légers</French>
             <German>Leichte Fahrzeuge</German>
             <Spanish>Vehículos ligeros</Spanish>
-            <Russian>Лёгкая техника</Russian>
+            <Russian>Легка техніка</Russian>
             <Italian>Veicoli Leggeri</Italian>
             <Chinesesimp>轻型载具</Chinesesimp>
             <Chinese>輕型載具</Chinese>
@@ -2110,7 +2110,7 @@
             <French>Véhicules blindés</French>
             <German>Gepanzerte Fahrzeuge</German>
             <Spanish>Vehículos blindados</Spanish>
-            <Russian>Бронированная техника</Russian>
+            <Russian>Броньована техніка</Russian>
             <Italian>veicoli Blindati</Italian>
             <Chinesesimp>装甲载具</Chinesesimp>
             <Chinese>裝甲載具</Chinese>
@@ -2123,7 +2123,7 @@
             <French>Véhicules aériens</French>
             <German>Luftfahrzeuge</German>
             <Spanish>Vehículos aéreos</Spanish>
-            <Russian>Авиация</Russian>
+            <Russian>Авіація</Russian>
             <Italian>Aerei</Italian>
             <Chinesesimp>空中载具</Chinesesimp>
             <Chinese>空中載具</Chinese>
@@ -2136,7 +2136,7 @@
             <French>Construction</French>
             <German>Konstruktionen</German>
             <Spanish>Construcción</Spanish>
-            <Russian>Постройка</Russian>
+            <Russian>БУдівництво</Russian>
             <Italian>Costruzione</Italian>
             <Chinesesimp>建造</Chinesesimp>
             <Chinese>建造</Chinese>
@@ -2149,7 +2149,7 @@
             <French>Recyclage</French>
             <German>Wiederverwerten</German>
             <Spanish>Reciclar</Spanish>
-            <Russian>Утилизация</Russian>
+            <Russian>Утилізація</Russian>
             <Italian>Riciclaggio</Italian>
             <Chinesesimp>回收</Chinesesimp>
             <Chinese>回收</Chinese>
@@ -2162,7 +2162,7 @@
             <French>Autres</French>
             <German>Andere</German>
             <Spanish>Otros</Spanish>
-            <Russian>Остальное</Russian>
+            <Russian>Решта</Russian>
             <Italian>Altro</Italian>
             <Chinesesimp>其它</Chinesesimp>
             <Chinese>其他</Chinese>
@@ -2175,7 +2175,7 @@
             <French>Toutes</French>
             <German>Alle</German>
             <Spanish>Todos</Spanish>
-            <Russian>Всё</Russian>
+            <Russian>Все</Russian>
             <Italian>Tutto</Italian>
             <Chinesesimp>全部</Chinesesimp>
             <Chinese>全部</Chinese>
@@ -2188,7 +2188,7 @@
             <French>Aucune</French>
             <German>Keine</German>
             <Spanish>Ninguno</Spanish>
-            <Russian>Ничего</Russian>
+            <Russian>Нічого</Russian>
             <Italian>Nessuno</Italian>
             <Chinesesimp>无</Chinesesimp>
             <Chinese>無</Chinese>
@@ -2201,7 +2201,7 @@
             <French>Autorise le joueur à utiliser les véhicules légers en tant que conducteur ou tireur.</French>
             <German>Erlaubt es dem Spieler, leichte Fahrzeuge als Fahrer und Schütze zu bedienen.</German>
             <Spanish>Permite al jugador utilizar vehículos ligeros como conductor y artillero</Spanish>
-            <Russian>Позволить игроку быть водителем и стрелком лёгкой техники.</Russian>
+            <Russian>Дозволити гравцю будти водієм та стрілком легкої техніки.</Russian>
             <Italian>Permetti al giocatore di entrare nei veicoli leggeri come guidatore e artigliere</Italian>
             <Chinesesimp>允许玩家进入轻型载具的驾驶和炮手位。</Chinesesimp>
             <Chinese>允許玩家進入輕型載具的駕駛與砲手位置。</Chinese>
@@ -2214,7 +2214,7 @@
             <French>Autorise le joueur à utiliser les véhicules blindés en tant que conducteur, tireur ou commandant.</French>
             <German>Erlaubt es dem Spieler, gepanzerte Fahrzeuge als Fahrer, Schütze und Kommandant zu bedienen.</German>
             <Spanish>Permite al jugador utilizar vehículos blindados como conductor, artillero y comandante</Spanish>
-            <Russian>Позволить игроку быть командиром, водителем и стрелком бронированной техники.</Russian>
+            <Russian>Дозволити гравцю бути командиром, водієм та стрілком броньованої техніки.</Russian>
             <Italian>Permetti al giocatore di entrare nei veicoli blindati come guidatore e artigliere e comandante</Italian>
             <Chinesesimp>允许玩家进入装甲载具的驾驶、炮手和车长位。</Chinesesimp>
             <Chinese>允許玩家進入裝甲載具的駕駛、砲手、車長位置。</Chinese>
@@ -2227,7 +2227,7 @@
             <French>Autorise le joueur à utiliser les véhicules aériens en tant que conducteur ou tireur.</French>
             <German>Erlaubt es dem Spieler, Luftfahrzeuge als Pilot und Schütze zu bedienen.</German>
             <Spanish>Permite al jugador utilizar vehículos aéreos como conductor y artillero</Spanish>
-            <Russian>Позволить игроку быть пилотом и стрелком авиации.</Russian>
+            <Russian>Дозволити гравцю бути пілотом та стрілком авіації.</Russian>
             <Italian>Permetti al giocatore di entrare negli aerei come guidatore e artigliere</Italian>
             <Chinesesimp>允许玩家进入空中载具的驾驶和炮手位。</Chinesesimp>
             <Chinese>允許玩家進入空中載具的駕駛和砲手位置。</Chinese>
@@ -2240,7 +2240,7 @@
             <French>Autorise le joueur à utiliser le menu CONSTRUCTION.</French>
             <German>Erlaubt es dem Spieler, das Baumenü zu benutzen.</German>
             <Spanish>Permite al jugador utilizar el menú de CONSTRUCCIÓN</Spanish>
-            <Russian>Позволить игроку использовать меню постройки.</Russian>
+            <Russian>Дозволити гравцю користуватися меню будівництва.</Russian>
             <Italian>Permetti al giocatore di Costruire</Italian>
             <Chinesesimp>允许玩家使用建造菜单</Chinesesimp>
             <Chinese>允許玩家使用建造選單。</Chinese>
@@ -2253,7 +2253,7 @@
             <French>Autorise le joueur à utiliser l'action RECYCLER.</French>
             <German>Erlaubt es dem Spieler, die "WIEDERVERWERTEN"-Aktion zu benutzen.</German>
             <Spanish>Permite al jugador utilizar la acción de RECICLAR</Spanish>
-            <Russian>Позволить игроку утилизировать постройки и технику.</Russian>
+            <Russian>Дозволити гравцю утилізувати будівлі і техніку.</Russian>
             <Italian>Permetti al giocatore di Riciclare</Italian>
             <Chinesesimp>允许玩家使用回收功能。</Chinesesimp>
             <Chinese>允許玩家使用回收功能。</Chinese>
@@ -2266,7 +2266,7 @@
             <French>Autorise le joueur à utiliser les autres actions : retournement de véhicule, manipulation des boites de munition, capture de prisoniers, etc.</French>
             <German>Erlaubt es dem Spieler, andere Aktionen durchzuführen: Umdrehen, Interaktion mit Munitionskisten, Gefangennahme, usw.</German>
             <Spanish>Permite al jugador usar otras acciones: Recolocar vehículo, manipulación de cajas de munición, captura de prisioneros, etc.</Spanish>
-            <Russian>Позволить игроку остальные действия: перевернуть, манипуляции с ящиками боеприпасов, захват пленных, итп.</Russian>
+            <Russian>Дозволити гравцю решту дійЖ перекинути, маніпуляції з ящиками боєприпасів, захоплення полонених, т.і.</Russian>
             <Italian>Permetti al giocatore di usare le altre funzioni come , catturare prigionieri,raddrizzare veicoli ecc.</Italian>
             <Chinesesimp>允许玩家使用其他功能：翻正、货箱控制、俘虏战俘，等等。</Chinesesimp>
             <Chinese>允許玩家使用其他功能，如：翻正、貨物控制（裝載、卸載、倉儲等）、俘虜戰俘，等等。</Chinese>
@@ -2279,7 +2279,7 @@
             <French>Donne toutes les permissions au joueur.</French>
             <German>Gibt dem Spieler alle Rechte</German>
             <Spanish>Darle todos los permisos al jugador</Spanish>
-            <Russian>Разрешить всё игроку.</Russian>
+            <Russian>Дозволити гравцю все.</Russian>
             <Italian>Permetti tutto al giocatore.</Italian>
             <Chinesesimp>给予玩家所有权限。</Chinesesimp>
             <Chinese>給予玩家所有權限。</Chinese>
@@ -2292,7 +2292,7 @@
             <French>Supprime toutes les permissions du joueur.</French>
             <German>Nimmt dem Spieler alle Rechte weg.</German>
             <Spanish>Quitar todos los permisos al jugador</Spanish>
-            <Russian>Запретить всё игроку.</Russian>
+            <Russian>Заборонити гравцю все.</Russian>
             <Italian>Rimuovi tutti i permessi al giocatore.</Italian>
             <Chinesesimp>移除玩家所有权限。</Chinesesimp>
             <Chinese>移除玩家所有權限。</Chinese>
@@ -2305,7 +2305,7 @@
             <French>-- PERMISSIONS</French>
             <German>-- RECHTE</German>
             <Spanish>-- PERMISOS</Spanish>
-            <Russian>-- РАЗРЕШЕНИЯ</Russian>
+            <Russian>-- ДОЗВОЛИ</Russian>
             <Italian>-- PERMESSI</Italian>
             <Chinesesimp>-- 权限</Chinesesimp>
             <Chinese>-- 權限</Chinese>
@@ -2318,7 +2318,7 @@
             <French>Sauvegarder</French>
             <German>Änderungen speichern</German>
             <Spanish>Guardar cambios</Spanish>
-            <Russian>Сохранить Изменения</Russian>
+            <Russian>Зберегти зміни</Russian>
             <Italian>Salva Modifiche</Italian>
             <Chinesesimp>保存更改</Chinesesimp>
             <Chinese>儲存變更</Chinese>
@@ -2331,7 +2331,7 @@
             <French>Gestion des Permissions</French>
             <German>Rechteverwaltung</German>
             <Spanish>Gestión de permisos</Spanish>
-            <Russian>Управление Разрешениями</Russian>
+            <Russian>Керування Дозволами</Russian>
             <Italian>Permessi Gestione</Italian>
             <Chinesesimp>权限管理</Chinesesimp>
             <Chinese>權限管理</Chinese>
@@ -2344,7 +2344,7 @@
             <French>Vous n'avez pas la permission du commandant pour utiliser les véhicules légers.</French>
             <German>Du hast keine Rechte zur Nutzung leichter Fahrzeuge.</German>
             <Spanish>No tienes permiso del comandante para usar vehículos ligeros</Spanish>
-            <Russian>У тебя нет разрешения от командира использовать легкую технику.</Russian>
+            <Russian>В тебе немає дозволу від командира використовувати легку техніку.</Russian>
             <Italian>Non hai il permesso di usare veicoli leggeri</Italian>
             <Chinesesimp>指挥官没有给你使用轻型载具的权限。</Chinesesimp>
             <Chinese>指揮官並沒有提供你輕型載具機組員權限。</Chinese>
@@ -2357,7 +2357,7 @@
             <French>Vous n'avez pas la permission du commandant pour utiliser les véhicules blindés.</French>
             <German>Du hast keine Rechte zur Nutzung gepanzerter Fahrzeuge</German>
             <Spanish>No tienes permiso del comandante para usar vehículos blindados</Spanish>
-            <Russian>У тебя нет разрешения от командира использовать бронированную технику.</Russian>
+            <Russian>У тебе немає дозволу від командира використовувати броньовану техніку.</Russian>
             <Italian>Non hai il permesso di usare veicoli pesanti</Italian>
             <Chinesesimp>指挥官没有给你使用装甲载具的权限。</Chinesesimp>
             <Chinese>指揮官並沒有提供你裝甲載具機組員權限。</Chinese>
@@ -2370,7 +2370,7 @@
             <French>Vous n'avez pas la permission du commandant pour utiliser les véhicules aériens.</French>
             <German>Du hast keine Rechte zur Nutzung von Luftfahrzeugen</German>
             <Spanish>No tienes permiso del comandante para usar vehículos aéreos</Spanish>
-            <Russian>У тебя нет разрешения от командира использовать авиацию.</Russian>
+            <Russian>У тебе немає дозволу від командира використовувати авіацію.</Russian>
             <Italian>Non hai il permesso di usare veivoli</Italian>
             <Chinesesimp>指挥官没有给你使用空中载具的权限。</Chinesesimp>
             <Chinese>指揮官並沒有提供你空中載具機組員權限。</Chinese>
@@ -2383,7 +2383,7 @@
             <French>Aucune permission n'a été définie. Le commandant doit configurer les permissions pour permettre aux joueurs d'effectuer des actions et d'utiliser les véhicules. Sinon, le système de permissions peut être désactivé dans les options de mission.</French>
             <German>Keine Rechte wurden vergeben. Der Kommandant muss die Rechte verwalten, um Spielern Aktionen und die Nutzung von Fahrzeugen zu erlaubne. Alternativ kann das Rechtesystem in den Missionsoptionen deaktiviert werden.</German>
             <Spanish>No hay permisos definidos. El comandante debe asignar los permisos para permitir a los jugadores el uso de los vehículos y acciones. Alternativamente, puede desactivarse el sistema de permisos desde las opciones de misión</Spanish>
-            <Russian>Разрешения не были даны. Командир должен настроить разрешения, чтобы позволить игроку действия и использование техники. Кроме того, система разрешений может быть отключена в настройках миссии.</Russian>
+            <Russian>Дозволи не було надано. Командир має налаштувати дозволи щоб дозволити гравцю дії та використання техніки. Окрім того - система дозволів може бути вимкнена в налаштуваннях місії.</Russian>
             <Italian>I permessi non sono settati.Il comandante deve entrare nel menu e attribuire i permessi ai giocatori.</Italian>
             <Chinesesimp>没有设定任何权限。指挥官必须为玩家设定可用功能和载具。另外，权限系统可以在任务选项中关闭。</Chinesesimp>
             <Chinese>沒有設定任何權限。指揮官必須為玩家指定可使用的功能與載具類型。另外，權限系統可以在任務選項中關閉。</Chinese>
@@ -2409,7 +2409,7 @@
             <French>Modifier équipement</French>
             <German>Ausrüstung bearbeiten</German>
             <Spanish>Modificar equipamiento</Spanish>
-            <Russian>Редактировать</Russian>
+            <Russian>Редагувати</Russian>
             <Italian>Modifica Equipaggiamneto</Italian>
             <Chinesesimp>编辑装备</Chinesesimp>
             <Chinese>編輯裝備</Chinese>
@@ -2422,7 +2422,7 @@
             <French>Charger l'équipement</French>
             <German>Ausrüstung laden</German>
             <Spanish>Coger equipamiento</Spanish>
-            <Russian>Загрузить</Russian>
+            <Russian>Завантажити</Russian>
             <Italian>Prendi Equipaggiamento</Italian>
             <Chinesesimp>拿取装备</Chinesesimp>
             <Chinese>領取裝備</Chinese>
@@ -2435,7 +2435,7 @@
             <French>Par défaut</French>
             <German>Standard</German>
             <Spanish>Por defecto</Spanish>
-            <Russian>По умолчанию</Russian>
+            <Russian>За замовчуванням</Russian>
             <Italian>Default</Italian>
             <Chinesesimp>默认</Chinesesimp>
             <Chinese>預設</Chinese>
@@ -2448,7 +2448,7 @@
             <French>-- REPLIER FOB --</French>
             <German>-- FOB EINPACKEN --</German>
             <Spanish>-- EMPAQUETAR FOB --</Spanish>
-            <Russian>-- СВЕРНУТЬ FOB --</Russian>
+            <Russian>-- ЗГОРНУТИ FOB --</Russian>
             <Italian>-- SMONTA FOB --</Italian>
             <Chinesesimp>-- 收起前哨 --</Chinesesimp>
             <Chinese>-- 收起前線基地 --</Chinese>
@@ -2461,7 +2461,7 @@
             <French>REPLIER FOB</French>
             <German>FOB EINPACKEN</German>
             <Spanish>EMPAQUETAR FOB</Spanish>
-            <Russian>СВЕРНУТЬ FOB</Russian>
+            <Russian>ЗГОРНУТИ FOB</Russian>
             <Italian>SMONTA FOB</Italian>
             <Chinesesimp>收起前哨</Chinesesimp>
             <Chinese>收起前線基地</Chinese>
@@ -2474,7 +2474,7 @@
             <French>Etes-vous sur de vouloir replier cette fob?</French>
             <German>Bist du dir sicher, dass du deine FOB einpacken willst?</German>
             <Spanish>¿Estas seguro de querer reempaquetar esta FOB?</Spanish>
-            <Russian>Вы уверены что вы хотите свернуть эту FOB?</Russian>
+            <Russian>Ви впевнені що хочете згорнути цю FOB?</Russian>
             <Italian>Sei sicuro di voler smontare la FOB?</Italian>
             <Chinesesimp>你确定要收起这个前哨？</Chinesesimp>
             <Chinese>你確定要收起這個前線基地？</Chinese>
@@ -2487,7 +2487,7 @@
             <French>Saut HALO</French>
             <German>HALO-Sprung</German>
             <Spanish>Salto HALO</Spanish>
-            <Russian>HALO прыжок</Russian>
+            <Russian>HALO стрибок</Russian>
             <Italian>PARACADUTARSI</Italian>
             <Chinesesimp>伞降</Chinesesimp>
             <Chinese>跳傘</Chinese>
@@ -2500,7 +2500,7 @@
             <French>Activé - Pas de cooldown</French>
             <German>Aktiviert - Keine Abklingzeit</German>
             <Spanish>Activado - Sin tiempo de espera</Spanish>
-            <Russian>Вкл - без перерыва</Russian>
+            <Russian>Увімкнено - без перерви</Russian>
             <Italian>Attivato - Senza attesa</Italian>
             <Chinesesimp>开启 - 无冷却</Chinesesimp>
             <Chinese>開啟 - 無冷卻</Chinese>
@@ -2513,7 +2513,7 @@
             <French>Activé - Cooldown de 5 minutes</French>
             <German>Aktiviert - 5 Minuten Abklingzeit</German>
             <Spanish>Activado - 5 minutos de espera</Spanish>
-            <Russian>Вкл - 5 минут перерыв</Russian>
+            <Russian>Увімкнено - 5 хвилин перева</Russian>
             <Italian>Attivato - 5 minuti di attesa</Italian>
             <Chinesesimp>开启 - 5分钟冷却</Chinesesimp>
             <Chinese>開啟 - 5 分鐘冷卻</Chinese>
@@ -2526,7 +2526,7 @@
             <French>Activé - Cooldown de 10 minutes</French>
             <German>Aktiviert - 10 Minuten Abklingzeit</German>
             <Spanish>Activado - 10 minutos de espera</Spanish>
-            <Russian>Вкл - 10 минут перерыв</Russian>
+            <Russian>Увімкнено- 10 хвилин перерва</Russian>
             <Italian>Attivato - 10 minuti di attesa</Italian>
             <Chinesesimp>开启 - 10分钟冷却</Chinesesimp>
             <Chinese>開啟 - 10 分鐘冷卻</Chinese>
@@ -2539,7 +2539,7 @@
             <French>Activé - Cooldown de 15 minutes</French>
             <German>Aktiviert - 15 Minuten Abklingzeit</German>
             <Spanish>Activado - 15 minutos de espera</Spanish>
-            <Russian>Вкл - 15 минут перерыв</Russian>
+            <Russian>Увімкнено - 15 хвилин перерва</Russian>
             <Italian>Attivato - 15 minuti di attesa</Italian>
             <Chinesesimp>开启 - 15分钟冷却</Chinesesimp>
             <Chinese>開啟 - 15 分鐘冷卻</Chinese>
@@ -2552,7 +2552,7 @@
             <French>Activé - Cooldown de 20 minutes</French>
             <German>Aktiviert - 20 Minuten Abklingzeit</German>
             <Spanish>Activado - 20 minutos de espera</Spanish>
-            <Russian>Вкл - 20 минут перерыв</Russian>
+            <Russian>Увімкнено - 20 хвилин перерва</Russian>
             <Italian>Attivato - 20 minuti di attesa</Italian>
             <Chinesesimp>开启 - 20分钟冷却</Chinesesimp>
             <Chinese>開啟 - 20 分鐘冷卻</Chinese>
@@ -2565,7 +2565,7 @@
             <French>Activé - Cooldown de 30 minutes</French>
             <German>Aktiviert - 30 Minuten Abklingzeut</German>
             <Spanish>Activado - 30 minutos de espera</Spanish>
-            <Russian>Вкл - 30 минут перерыв</Russian>
+            <Russian>Увімкнено - 30 хвилин перерва</Russian>
             <Italian>Attivato - 30 minuti di attesa</Italian>
             <Chinesesimp>开启 - 30分钟冷却</Chinesesimp>
             <Chinese>開啟 - 30 分鐘冷卻</Chinese>
@@ -2578,7 +2578,7 @@
             <French>Impossible d'effectuer un suat HALO, vous êtes en cooldown pour encore %1 minute(s).</French>
             <German>HALO Sprung noch nicht möglich. Verbleibende Abklingzeit von %1 Minuten.</German>
             <Spanish>No puedes saltar en HALO, te quedan %1 minuto(s) de espera.</Spanish>
-            <Russian>HALO прыжок недоступен, подождите %1 минут</Russian>
+            <Russian>HALO стрибок не досяжний, зачекайте %1 хвилин</Russian>
             <Italian>Non puoi paracadutarti, hai un attesa di %1 minuti.</Italian>
             <Chinesesimp>无法进行伞降，剩余冷却时间为%1分钟。</Chinesesimp>
             <Chinese>無法進行跳傘，還需要 %1 分鐘的冷卻時間。</Chinese>
@@ -2591,7 +2591,7 @@
             <French>-- SAUT HALO</French>
             <German>-- HALO-SPRUNG</German>
             <Spanish>-- SALTO HALO</Spanish>
-            <Russian>-- HALO прыжок</Russian>
+            <Russian>-- HALO стрибок</Russian>
             <Italian>-- PARACADUTARSI</Italian>
             <Chinesesimp>-- 伞降</Chinesesimp>
             <Chinese>-- 跳傘</Chinese>
@@ -2604,7 +2604,7 @@
             <French>SAUT HALO</French>
             <German>HALO-SPRUNG</German>
             <Spanish>SALTO HALO</Spanish>
-            <Russian>HALO ПРЫЖОК</Russian>
+            <Russian>HALO стрибок</Russian>
             <Italian>PARACADUTARSI</Italian>
             <Chinesesimp>伞降</Chinesesimp>
             <Chinese>跳傘</Chinese>
@@ -2615,23 +2615,27 @@
         <Key ID="STR_PARAM_CLEAR_CARGO">
             <Original>Clear spawned vehicle cargo</Original>
             <German>Inventar gespawnter Fahrzeuge leeren</German>
-            <Russian>Очистить созданный инвентарь транспорта</Russian>
+            <Russian>Очистити створений інвентар транспорта</Russian>
             <Italian>Cancella il carico del veicolo creato</Italian>
             <Portuguese>Remover carga do veículo requisitado</Portuguese>
             <Chinese>移除載具上的物品</Chinese>
             <Korean>장비 배치(생산)시 화물칸 비우기.</Korean>
         </Key>
         <Key ID="STR_PARAM_DELAY_DESPAWN_MAX">
-            <Original>Maximum sector deactivation delay (starts increasing after 5th activation minute)</Original>
+            <Original>Maximum sector deactivation delay (starts increasing after 5th activation
+            minute)</Original>
+            <Russian>Максимальна затримка деактивації сектора (починає зростати після 5 хвилин активиації)</Russian>
             <German>Maximale Verzögerung zur Sektor Deaktivierung (Beginnt nach 5 Minuten seit Aktivierung)</German>
         </Key>
         <Key ID="STR_PARAM_LIMITEDZEUS">
             <Original>Limited Zeus interface</Original>
+            <Russian>Обмежений інтерфейс Зевса</Russian>
             <German>Eingeschränkte Zeus Funktionen</German>
             <Korean>제한된 제우스 인터페이스</Korean>
         </Key>
         <Key ID="STR_PARAM_ALLOW_ENEMIES_IN_IMMOBILE">
             <Original>Chance that enemies will stay in immobile/damaged vehicles</Original>
+            <Russian>Шанс на те, що противник залишиться в пошкодженому транспорті</Russian>
             <German>Chance, dass Feinde in fahrunfähigen/beschädigten Fahrzeugen verbleiben</German>
         </Key>
         <Key ID="STR_DEPLOY_IN_PROGRESS">
@@ -2640,7 +2644,7 @@
             <French>Déploiement en cours...</French>
             <German>Verlegung im Gange</German>
             <Spanish>Despliegue en curso...</Spanish>
-            <Russian>В процессе выполнения...</Russian>
+            <Russian>Розгортання виконується...</Russian>
             <Italian>In attesa del lancio ...</Italian>
             <Chinesesimp>正在部署中...</Chinesesimp>
             <Chinese>正在佈署中...</Chinese>
@@ -2652,7 +2656,7 @@
             <French>Utiliser la whitelist pour le commandant</French>
             <German>Nutze die Whitelist für den Kommandanten</German>
             <Spanish>Utilizar la lista blanca para Comandantes</Spanish>
-            <Russian>Использование "белого" списка командиров</Russian>
+            <Russian>Використання "білого" списка командирів</Russian>
             <Italian>Usa la whitelist del comandante</Italian>
             <Chinesesimp>使用指挥官白名单</Chinesesimp>
             <Chinese>使用指揮官白名單</Chinese>
@@ -2665,7 +2669,7 @@
             <German>Aktiviert - Nur benutzen, wenn du deine whitelist.sqf verändert hast!</German>
             <French>Activé - A n'utiliser que si vous avez modifié votre whitelist.sqf !</French>
             <Spanish>Activado - ¡Sólo utilizar si has modificado tu whitelist.sqf</Spanish>
-            <Russian>Вкл - Использовать только если вы редактировали файл whitelist.sqf!</Russian>
+            <Russian>Увімкнено - Використовувати тільки якщо ви редагували файл whitelist.sqf!</Russian>
             <Italian>Attiva - Solo se hai modificato la tua whitelist.sqf!</Italian>
             <Chinesesimp>开启 - 只有在设立了whitelist.sqf时才能用这个选项！</Chinesesimp>
             <Chinese>開啟 - 只有在設立了whitelist.sqf時才能使用這個選項！</Chinese>
@@ -2678,7 +2682,7 @@
             <French>Impossible de construire: forces hostiles à proximité.</French>
             <German>Kann nicht gebaut werden: Feindkräfte in der Nähe</German>
             <Spanish>No se puede construir: fuerzas hostiles cercanas</Spanish>
-            <Russian>Постройка невозможна: враги рядом.</Russian>
+            <Russian>Будівництво неможливе: вороги поряд.</Russian>
             <Italian>Impossibile costruire: forze ostili nelle vicinanze</Italian>
             <Chinesesimp>无法建造：附近有敌军部队。</Chinesesimp>
             <Chinese>目前無法建造：附近有敵軍部隊。</Chinese>
@@ -2691,7 +2695,7 @@
             <French>Nettoyer les véhicules abandonnés loin d'une FOB</French>
             <German>Räumt verlassene Fahrzeuge auserhalb von FOBs weg</German>
             <Spanish>Limpieza de vehículos abandonados fuera de FOBs</Spanish>
-            <Russian>Удаление брошенной техники вне FOB</Russian>
+            <Russian>Видалення покинутої техніки поза FOB</Russian>
             <Italian>Eliminazione di veicoli abbandonati fuori le FOB</Italian>
             <Chinesesimp>清理前哨外的废弃载具</Chinesesimp>
             <Chinese>清理前線基地外的廢棄載具</Chinese>
@@ -2704,7 +2708,7 @@
             <French>Activé - 1 heure de délai</French>
             <German>Aktiv - 1 Stunde Verzögerung</German>
             <Spanish>Activado- abandonados durante 1 hora</Spanish>
-            <Russian>Вкл - Задержка 1 час</Russian>
+            <Russian>Увімкнено - Затримка 1 годину</Russian>
             <Italian>Attivato - eliminazione ogni ora</Italian>
             <Chinesesimp>开启 - 1小时延迟</Chinesesimp>
             <Chinese>開啟 - 延遲 1 小時</Chinese>
@@ -2717,7 +2721,7 @@
             <French>Activé - 2 heures de délai</French>
             <German>Aktiv - 2 Stunde Verzögerung</German>
             <Spanish>Activado - abandonados durante 2 horas</Spanish>
-            <Russian>Вкл - Задержка 2 часа</Russian>
+            <Russian>Увімкнено - Затримка 2 години</Russian>
             <Italian>Attivato - eliminazione ogni 2 ore</Italian>
             <Chinesesimp>开启 - 2小时延迟</Chinesesimp>
             <Chinese>開啟 - 延遲 2 小時</Chinese>
@@ -2730,7 +2734,7 @@
             <French>Activé - 4 heures de délai</French>
             <German>Aktiv - 4 Stunden Verzögerung</German>
             <Spanish>Activado - abandonados durante 4 horas</Spanish>
-            <Russian>Вкл - Задержка 4 часа</Russian>
+            <Russian>Увімкнено - Затримка 4 години</Russian>
             <Italian>Attivato - eliminazione ogni 4 ore</Italian>
             <Chinesesimp>开启 - 4小时延迟</Chinesesimp>
             <Chinese>開啟 - 延遲 4 小時</Chinese>
@@ -2743,7 +2747,7 @@
             <French>Désolé !</French>
             <German>Entschuldigung!</German>
             <Spanish>Lo siento!</Spanish>
-            <Russian>Извини!</Russian>
+            <Russian>Вибач!</Russian>
             <Italian>Scusa!</Italian>
             <Chinesesimp>抱歉！</Chinesesimp>
             <Chinese>抱歉！</Chinese>
@@ -2756,7 +2760,7 @@
             <French>Vous n'êtes pas authorizé à utiliser la place de commandant sur ce serveur.</French>
             <German>Du bist auf diesem Server nicht als Kommandant autorisiert.</German>
             <Spanish>No estás autorizado para usar el slot de comandante en este servidor.</Spanish>
-            <Russian>Вы не авторизованы, чтобы использовать слот коммандира на этом сервере.</Russian>
+            <Russian>Ви не авторизовані щоб використовувати слот командира на цьому сервері.</Russian>
             <Italian>Non sei autorizzato ad usare lo slot comandante in questo server.</Italian>
             <Chinesesimp>你没有使用这个服务器指挥官栏位的权限。</Chinesesimp>
             <Chinese>你並沒有使用這個伺服器指揮官欄位的權限。</Chinese>
@@ -2769,7 +2773,7 @@
             <French>Equipement de respawn</French>
             <German>Ausrüstung bei Respawn festlegen</German>
             <Spanish>Guardar el equipamiento para respawn</Spanish>
-            <Russian>Всегда загружать</Russian>
+            <Russian>Завжди завантажувати</Russian>
             <Italian>Salva Equipaggiamento</Italian>
             <Chinesesimp>保存重生装备</Chinesesimp>
             <Chinese>設定為重生裝備</Chinese>
@@ -2782,7 +2786,7 @@
             <French>Votre equipement actuel sera restauré à chaque respawn.</French>
             <German>Deine Ausrüstung wird bei jedem Respwan wiederhergestellt.</German>
             <Spanish>Tu actual equipamiento seá mantenido en cada respawn.</Spanish>
-            <Russian>Ваше текущее снаряжение будет загружаться после каждого возрождения.</Russian>
+            <Russian>Ваше поточне спорядження буде завантажуватися після кожного відродження.</Russian>
             <Italian>Il tuo equipaggiamneto sarà ricaricato ad ogni respawn</Italian>
             <Chinesesimp>你的装备将在重生时恢复到现有状态。</Chinesesimp>
             <Chinese>重生後，你的裝備將恢復到現有狀態。</Chinese>
@@ -2795,7 +2799,7 @@
             <French>Charger depuis joueur</French>
             <German>Von Spieler laden</German>
             <Spanish>Cargar desde jugador</Spanish>
-            <Russian>Из игрока</Russian>
+            <Russian>З іншого гравця</Russian>
             <Italian>Carica da giocatore</Italian>
             <Chinesesimp>读取其他玩家装备</Chinesesimp>
             <Chinese>複製其他玩家裝備</Chinese>
@@ -2808,7 +2812,7 @@
             <French>Transfer d'équipement réussi depuis %1.</French>
             <German>Erfolgreich Ausrüstung von %1 übertragen.</German>
             <Spanish>Transferencia de equipamiento de %1 terminada.</Spanish>
-            <Russian>Успешная загрузка снаряжения игрока %1.</Russian>
+            <Russian>Спорядження вдало завантажено з гравця %1.</Russian>
             <Italian>Equipaggiamento traferito correttamente da %1</Italian>
             <Chinesesimp>成功从%1读取了装备</Chinesesimp>
             <Chinese>成功複製了 %1 的裝備</Chinese>
@@ -2821,7 +2825,7 @@
             <French>Equipement :</French>
             <German>Ausrüstung:</German>
             <Spanish>Equipamiento:</Spanish>
-            <Russian>Снаряжение:</Russian>
+            <Russian>Спорядження:</Russian>
             <Italian>Equipaggiamento:</Italian>
             <Chinesesimp>装备：</Chinesesimp>
             <Chinese>裝備</Chinese>
@@ -2834,7 +2838,7 @@
             <French>Lieu de déploiement :</French>
             <German>Einsatzposition:</German>
             <Spanish>Lugar para el despliegue:</Spanish>
-            <Russian>Позиция размещения:</Russian>
+            <Russian>Позиція розташування:</Russian>
             <Italian>Luogo di Schieramento:</Italian>
             <Chinesesimp>部署地点：</Chinesesimp>
             <Chinese>佈署地點：</Chinese>
@@ -2847,7 +2851,7 @@
             <French>Aggressivité de l'OPFOR</French>
             <German>OPFOR Aggressivität</German>
             <Spanish>Agresividad del OPFOR</Spanish>
-            <Russian>Уровень обеспокоенности OPFOR</Russian>
+            <Russian>Рівень стурбованості OPFOR</Russian>
             <Italian>Aggressività OPFOR</Italian>
             <Chinesesimp>敌军进攻性</Chinesesimp>
             <Chinese>敵軍侵略度</Chinese>
@@ -2860,7 +2864,7 @@
             <French>Anémique</French>
             <German>Mutlos</German>
             <Spanish>Anémica</Spanish>
-            <Russian>Вяло</Russian>
+            <Russian>В’яло</Russian>
             <Italian>Anemico</Italian>
             <Chinesesimp>可悲</Chinesesimp>
             <Chinese>可悲</Chinese>
@@ -2873,7 +2877,7 @@
             <French>Faible</French>
             <German>Schwach</German>
             <Spanish>Floja</Spanish>
-            <Russian>Слабо</Russian>
+            <Russian>Слабко</Russian>
             <Italian>Debole</Italian>
             <Chinesesimp>弱小</Chinesesimp>
             <Chinese>弱小</Chinese>
@@ -2912,7 +2916,7 @@
             <French>Extreme</French>
             <German>Extrem</German>
             <Spanish>Extrema</Spanish>
-            <Russian>Экстремально</Russian>
+            <Russian>Екстримально</Russian>
             <Italian>Estremo</Italian>
             <Chinesesimp>噩梦</Chinesesimp>
             <Chinese>惡夢</Chinese>
@@ -2938,7 +2942,7 @@
             <French>Soleil permanent</French>
             <German>Immer sonnig</German>
             <Spanish>Siempre soleado</Spanish>
-            <Russian>Всегда солнечно</Russian>
+            <Russian>Завжди сонячно</Russian>
             <Italian>Semopre Soleggiato</Italian>
             <Chinesesimp>永远晴天</Chinesesimp>
             <Chinese>永遠晴天</Chinese>
@@ -2951,7 +2955,7 @@
             <French>Aléatoire sans pluie</French>
             <German>Zufällig ohne Regen</German>
             <Spanish>Aleatorio sin lluvia</Spanish>
-            <Russian>Случайно, без дождя</Russian>
+            <Russian>Випадково, без дощу</Russian>
             <Italian>Casuale senza pioggia</Italian>
             <Chinesesimp>随机但无雨</Chinesesimp>
             <Chinese>隨機但無雨</Chinese>
@@ -2964,7 +2968,7 @@
             <French>Aléatoire</French>
             <German>Zufällig</German>
             <Spanish>Aleatorio</Spanish>
-            <Russian>Случайно</Russian>
+            <Russian>Випадково</Russian>
             <Italian>Casuale</Italian>
             <Chinesesimp>随机</Chinesesimp>
             <Chinese>完全隨機</Chinese>
@@ -2977,7 +2981,7 @@
             <French>Nuits plus courtes</French>
             <German>Kürzere Nächte</German>
             <Spanish>Noches más cortas</Spanish>
-            <Russian>Короткие ночи</Russian>
+            <Russian>Короткі ночі</Russian>
             <Italian>Notte Breve</Italian>
             <Chinesesimp>短暂夜晚</Chinesesimp>
             <Chinese>短暫夜晚</Chinese>
@@ -3029,7 +3033,7 @@
             <French>-- PRENDRE INTEL</French>
             <German>-- GEHEIMDIENSTINFORMATIONEN AUFNEHMEN</German>
             <Spanish>-- COGER INTELIGENCIA</Spanish>
-            <Russian>-- ВЗЯТЬ РАЗВЕДДАННЫЕ</Russian>
+            <Russian>-- ВЗЯТИ РОЗВІД.ДАНІ</Russian>
             <Italian>-- PREDI INTEL</Italian>
             <Chinesesimp>-- 拿取情报</Chinesesimp>
             <Chinese>-- 拿取情報</Chinese>
@@ -3042,7 +3046,7 @@
             <French>-- OBJECTIFS SECONDAIRES</French>
             <German>-- SEKUNDÄRE ZIELE</German>
             <Spanish>-- OBJETIVOS SECUNDARIOS</Spanish>
-            <Russian>-- ДОПОЛНИТЕЛЬНЫЕ ЗАДАЧИ</Russian>
+            <Russian>-- ДОДАТКОВІ ЗАВДАННЯ</Russian>
             <Italian>-- OBIETTIVI SECONDARI</Italian>
             <Chinesesimp>-- 次要目标</Chinesesimp>
             <Chinese>-- 次要目標</Chinese>
@@ -3055,7 +3059,7 @@
             <French>OBJECTIFS SECONDAIRES</French>
             <German>SEKUNDÄRE ZIELE</German>
             <Spanish>OBJETIVOS SECUNDARIOS</Spanish>
-            <Russian>ДОПОЛНИТЕЛЬНЫЕ ЗАДАЧИ</Russian>
+            <Russian>ДОДАТКОВІ ЗАВДАННЯ</Russian>
             <Italian>OBIETTIVI SECONDARI</Italian>
             <Chinesesimp>次要目标</Chinesesimp>
             <Chinese>次要目標</Chinese>
@@ -3081,7 +3085,7 @@
             <French>Intel actuelle : %1</French>
             <German>Aktuelle Geheimdienstinformationen: %1</German>
             <Spanish>Inteligencia actual: %1</Spanish>
-            <Russian>Разведданные: %1</Russian>
+            <Russian>Розвід.дані: %1</Russian>
             <Italian>Intel Attuale: %1</Italian>
             <Chinesesimp>当前情报：%1</Chinesesimp>
             <Chinese>目前情報：%1</Chinese>
@@ -3094,7 +3098,7 @@
             <French>Points d'intel insuffisants</French>
             <German>Zu wenige Geheimdienstinformationen</German>
             <Spanish>Puntos de inteligencia insuficientes</Spanish>
-            <Russian>Недостаточно разведданных</Russian>
+            <Russian>Недостатньо розвід.даних</Russian>
             <Italian>Punti intel insufficenti</Italian>
             <Chinesesimp>情报点不足</Chinesesimp>
             <Chinese>情報點不足</Chinese>
@@ -3107,7 +3111,7 @@
             <French>Mission secondaire déjà en cours</French>
             <German>Sekundäre Mission läuft bereits</German>
             <Spanish>Misión secundaria ya en curso</Spanish>
-            <Russian>Дополнительная задача уже запущена</Russian>
+            <Russian>Додаткове завдання вже запущено</Russian>
             <Italian>Missione secondaria attualmente in progresso</Italian>
             <Chinesesimp>次要任务正在进行中</Chinesesimp>
             <Chinese>次要目標正在進行中</Chinese>
@@ -3120,7 +3124,7 @@
             <French>Les forces hostiles se dirigent vers %1.</French>
             <German>Feindliche Streitkräfte bewegen sich auf %1 zu.</German>
             <Spanish>Fuerzas hostiles acercándose a %1.</Spanish>
-            <Russian>Замечена вражеская группа рядом с %1.</Russian>
+            <Russian>Помічено ворожий підрозділ поруч з %1.</Russian>
             <Italian>Forze ostili sono in avvicinamento su %1.</Italian>
             <Chinesesimp>敌军部队正在前往%1</Chinesesimp>
             <Chinese>敵軍正在前往 %1</Chinese>
@@ -3146,7 +3150,7 @@
             <French>Point de passage</French>
             <German>Wegpunkt</German>
             <Spanish>Punto de ruta</Spanish>
-            <Russian>Путевая точка</Russian>
+            <Russian>Путьова точка</Russian>
             <Italian>Punto di Passaggio</Italian>
             <Chinesesimp>路径点</Chinesesimp>
             <Chinese>路徑點</Chinese>
@@ -3159,7 +3163,7 @@
             <French>Convoi OPFOR neutralisé.</French>
             <German>OPFOR Konvoi neutralisiert.</German>
             <Spanish>Convoy OPFOR neutralizado</Spanish>
-            <Russian>Конвой OPFOR нейтрализован.</Russian>
+            <Russian>Конвой OPFOR нейтралізовано.</Russian>
             <Italian>Convoglio OPFOR neutralizzato.</Italian>
             <Chinesesimp>敌军车队已被消灭</Chinesesimp>
             <Chinese>敵方車隊已被殲滅</Chinese>
@@ -3172,7 +3176,7 @@
             <French>Convoi OPFOR près de %1.</French>
             <German>OPFOR Konvoi nahe %1.</German>
             <Spanish>Convoy OPFOR cerca de 1%</Spanish>
-            <Russian>Конвой OPFOR рядом с %1.</Russian>
+            <Russian>Конвой OPFOR поряд з %1.</Russian>
             <Italian>Convoglio OPFOR vicino %1.</Italian>
             <Chinesesimp>敌军车队接近%1</Chinesesimp>
             <Chinese>敵方車隊接近 %1</Chinese>
@@ -3185,7 +3189,7 @@
             <French>J'ai pigé!</French>
             <German>Verstanden!</German>
             <Spanish>Lo tengo!</Spanish>
-            <Russian>Вас понял!</Russian>
+            <Russian>Прийнято!</Russian>
             <Italian>Ricevuto!</Italian>
             <Chinesesimp>明白了！</Chinesesimp>
             <Chinese>收到！</Chinese>
@@ -3199,7 +3203,7 @@
             <German>-- TUTORIAL</German>
             <Italian>-- TUTORIAL</Italian>
             <Spanish>-- TUTORIAL</Spanish>
-            <Russian>-- РУКОВОДСТВО</Russian>
+            <Russian>-- ІНСТРУКЦІЯ</Russian>
             <Chinesesimp>-- 教程</Chinesesimp>
             <Chinese>-- 教學</Chinese>
             <Turkish>-- EĞİTİM</Turkish>
@@ -3212,7 +3216,7 @@
             <German>TUTORIAL</German>
             <Italian>TUTORIAL</Italian>
             <Spanish>TUTORIAL</Spanish>
-            <Russian>РУКОВОДСТВО</Russian>
+            <Russian>ІНСТРУКЦІЯ</Russian>
             <Chinesesimp>教程</Chinesesimp>
             <Chinese>教學</Chinese>
             <Turkish>EĞİTİM</Turkish>
@@ -3224,7 +3228,7 @@
             <French>Chasse à la FOB</French>
             <German>FOB Jagd</German>
             <Spanish>Caza de FOB</Spanish>
-            <Russian>Охота на FOB</Russian>
+            <Russian>Полювання на FOB</Russian>
             <Italian>Caccia alla FOB</Italian>
             <Chinesesimp>狩猎前哨</Chinesesimp>
             <Chinese>獵殺前線基地</Chinese>
@@ -6241,7 +6245,7 @@
         <Key ID="STR_PARAM_RESPAWN_COOLDOWN">
             <Original>Mobile Respawn Cooldown (minutes)</Original>
             <German>Mobiler Respawn Cooldown (Minuten)</German>
-            <Russian>Задержка дислокации на КШМ (минуты)</Russian>
+            <Russian>Затримка дислокации на КШМ (минуты)</Russian>
             <Italian>Attesa Respawn Mobile (Minuti)</Italian>
             <Chinesesimp>机动复活点冷却时间（分钟）</Chinesesimp>
             <Chinese>機動重生點每次重生所需冷卻時間（分鐘）</Chinese>
