@@ -79,7 +79,8 @@
 #define LB_TEXTURES       0x10
 #define LB_MULTI          0x20
 
-#define FontM             "puristaMedium"
+// #define FontM             "puristaMedium"
+#define FontM             "robotoCondensed"
 
 #define COLOR_BROWN { 0.30, 0.25, 0.2, 0.75 }
 #define COLOR_GREEN { 0.2, 0.23, 0.18, 0.75 }

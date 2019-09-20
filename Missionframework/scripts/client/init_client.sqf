@@ -74,7 +74,6 @@ player addEventHandler ["SeatSwitchedMan", {[_this select 2] call kp_vehicle_per
 //інші скріпти
 
 [] execVM "scripts\client\GF_Earplugs\GF_Earplugs.sqf";
-[] execVM "scripts\client\outlw_magRepack\MagRepack_init.sqf";
 
 //
 

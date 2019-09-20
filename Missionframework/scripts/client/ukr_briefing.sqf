@@ -78,6 +78,7 @@ player createDiaryRecord ["ourcommand",
     <br/><font color='#ff6666'>** Адміністратор сервера **</font>
     <br/>
     <br/><font color='#dcf441'>varrkan_ua</font>
+    <br/><font color='#dcf441'>Barmalei</font>
     <br/>
 "
 ]
@@ -92,7 +93,6 @@ player createDiaryRecord ["translaters",
     <br/>
     <br/><font color='#dcf441'>varrkan_ua</font>
     <br/><font color='#dcf441'>Barmalei</font>
-    <br/><font color='#dcf441'>breatheonthesebones</font>
     <br/>
 "
 ]
@@ -128,7 +128,7 @@ player createDiaryRecord ["forrussians",
 <br/>
     <br/><font color='#ff6666'>** Москалям **</font>
     <br/>
-    <br/><img image='bandera.jpg' width='250' height='283' />
+    <br/><img image='scripts\client\bandera.jpg' width='250' height='283' />
     <br/>
     <br/><font color='#ff6666'>** Postscriptum: **</font>
     <br/>

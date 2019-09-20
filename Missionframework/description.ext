@@ -44,4 +44,4 @@ class CfgDebriefing
 };
 
 // MagRepack
-#include "scripts\client\outlw_magRepack\MagRepack_config.cpp"
+#include "scripts\shared\outlw_magRepack\MagRepack_config.cpp"
