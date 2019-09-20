@@ -32,6 +32,8 @@ minPlayerDistance = 1000;
 #include "ui\liberation_notifications.hpp"
 #include "ui\mission_params.hpp"
 
+#include "outlw_magRepack\MagRepack_config.cpp"
+
 class CfgDebriefing
 {
 	class End1
@@ -42,6 +44,3 @@ class CfgDebriefing
 		pictureBackground = "";
 	};
 };
-
-// MagRepack
-#include "scripts\shared\outlw_magRepack\MagRepack_config.cpp"

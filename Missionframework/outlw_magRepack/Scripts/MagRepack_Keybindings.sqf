@@ -43,11 +43,11 @@ outlw_MR_applyKeybinding =
 	
 	if (count _this > 1 && {_this select 1}) then
 	{
-		_systemString = "Mag Repack keybinding has been reset to ";
+		_systemString = "Сполучення клавіш Mag Repack скинуто до ";
 	}
 	else
 	{
-		_systemString = "Mag Repack keybinding has been updated to ";
+		_systemString = "Сполучення клавіш Mag Repack оновлено до ";
 		closeDialog 0;
 	};
 	
