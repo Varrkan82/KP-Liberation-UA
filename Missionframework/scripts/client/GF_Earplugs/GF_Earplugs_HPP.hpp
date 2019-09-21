@@ -36,7 +36,7 @@ COPY this in the desrcription.ext :
 //__________________________ ***  C O P Y   T H I S  *** __________________________
 class RscTitles
 {
-	#include "GF_Earplugs\GF_Earplugs_HPP.hpp"		
+	#include "GF_Earplugs\GF_Earplugs_HPP.hpp"
 };
 //__________________________ ***  C O P Y   E N D  *** __________________________
 
@@ -82,35 +82,35 @@ class RscTitles
 
 //	https://community.bistudio.com/wiki/Dialog_Control
 
-class Rsc_GF_Earplugs { 
-idd = -1; 
+class Rsc_GF_Earplugs {
+idd = -1;
 duration = 1000000000;
 fadein = 0;
 fadeout = 0;
-	class controls { 
-		class Rsc_GF_Earplugs_Control { 
-			idc = -1; 
-			type = 0; 
+	class controls {
+		class Rsc_GF_Earplugs_Control {
+			idc = -1;
+			type = 0;
 			style = ST_PICTURE;
 			tileH = 1;
 			tileW = 1;
-	
+
 			//	Axis
 			x = 0.93 * safezoneW + safezoneX;	//	horizontal
 			y = 0.17  * safezoneH + safezoneY;	//	vertical
-			
+
 			//	Size
-			w = 0.05 * safezoneW;	
+			w = 0.05 * safezoneW;
 			h = 0.05 * safezoneH;
-	
-			font = "EtelkaNarrowMediumPro"; 
-			sizeEx = 1; 
-			colorBackground[] = {0,0,0,0}; 
+
+			font = "EtelkaNarrowMediumPro";
+			sizeEx = 1;
+			colorBackground[] = {0,0,0,0};
 			colorText[] = {1,1,1,1};
-			
+
 			//	Image
-			text = "GF_Earplugs\images\Earmuffs_3.paa"; 
-			lineSpacing = 0; 
-		}; 
-	}; 
+			text = "scripts\client\GF_Earplugs\images\Earmuffs_3.paa"; 
+			lineSpacing = 0;
+		};
+	};
 };
