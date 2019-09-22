@@ -63,7 +63,7 @@ class RscTitles
 			w = 0.35 * safezoneW;
 			y = 0.2 * safezoneH + safezoneY;
 			h = 0.6 * safezoneH;
-			text = "res\splash_libe2.paa";
+			text = "$STR_SPLASH_UILOGO";
 		};
 		class VersionLabel {
 			idc = -1;
@@ -157,7 +157,7 @@ class RscTitles
 			LabelPoint, CentralShadow, CentralLabel,
 			ActiveSectors, AlertBGPicture, AlertLabel, AlertTimer
 		};
-		
+
 		class BGPicture {
 			idc = 758001;
 			type =  CT_STATIC;
@@ -404,7 +404,7 @@ class RscTitles
 			y = (0.39 + ( ICONE_SPACY * 9 ) ) * safezoneH + safezoneY;
 			colorText[] = {0, 0.45, 0.95, 1};
 		};
-		
+
 		class CaptureFrameStandard {
 			idc = -1;
 			type =  CT_STATIC;

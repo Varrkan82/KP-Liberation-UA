@@ -6918,5 +6918,35 @@
             <German>FOB LKW</German>
             <Korean>전초기지 설치트럭</Korean>
         </Key>
+        <Key ID="STR_SPLASH_UILOGO">
+            <Original>res\splash_libe2.paa</Original>
+            <Russian>res\ua-splash_libe2.paa</Russian>
+            <German>res\splash_libe2.paa</German>
+            <Korean>res\splash_libe2.paa</Korean>
+        </Key>
+        <Key ID="STR_LIBMENU_HTP_BTN">
+            <Original>res\btn_htp_spl_idl3.paa</Original>
+            <Russian>res\ua-btn_htp_spl_idl3.paa</Russian>
+            <German>res\btn_htp_spl_idl3.paa</German>
+            <Korean>res\btn_htp_spl_idl3.paa</Korean>
+        </Key>
+        <Key ID="STR_LIBMENU_HTPBTN_HOVER">
+            <Original>res\btn_htp_spl_hov3.paa</Original>
+            <Russian>res\ua-btn_htp_spl_hov3.paa</Russian>
+            <German>res\btn_htp_spl_hov3.paa</German>
+            <Korean>res\btn_htp_spl_hov3.paa</Korean>
+        </Key>
+        <Key ID="STR_LIBMENU_JOINBTN">
+            <Original>res\btn_join_spl_idl3.paa</Original>
+            <Russian>res\ua-btn_join_spl_idl3.paa</Russian>
+            <German>res\btn_join_spl_idl3.paa</German>
+            <Korean>res\btn_join_spl_idl3.paa</Korean>
+        </Key>
+        <Key ID="STR_LIBMENU_JOINBTN_HOVER">
+            <Original>res\btn_join_spl_hov3.paa</Original>
+            <Russian>res\ua-btn_join_spl_hov3.paa</Russian>
+            <German>res\btn_join_spl_hov3.paa</German>
+            <Korean>res\btn_join_spl_hov3.paa</Korean>
+        </Key>
     </Package>
 </Project>
