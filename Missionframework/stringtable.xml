@@ -2266,7 +2266,7 @@
             <French>Autorise le joueur à utiliser les autres actions : retournement de véhicule, manipulation des boites de munition, capture de prisoniers, etc.</French>
             <German>Erlaubt es dem Spieler, andere Aktionen durchzuführen: Umdrehen, Interaktion mit Munitionskisten, Gefangennahme, usw.</German>
             <Spanish>Permite al jugador usar otras acciones: Recolocar vehículo, manipulación de cajas de munición, captura de prisioneros, etc.</Spanish>
-            <Russian>Дозволити гравцю решту дійЖ перекинути, маніпуляції з ящиками боєприпасів, захоплення полонених, т.і.</Russian>
+            <Russian>Дозволити гравцю решту дій: перекинути, маніпуляції з ящиками боєприпасів, захоплення полонених, т.і.</Russian>
             <Italian>Permetti al giocatore di usare le altre funzioni come , catturare prigionieri,raddrizzare veicoli ecc.</Italian>
             <Chinesesimp>允许玩家使用其他功能：翻正、货箱控制、俘虏战俘，等等。</Chinesesimp>
             <Chinese>允許玩家使用其他功能，如：翻正、貨物控制（裝載、卸載、倉儲等）、俘虜戰俘，等等。</Chinese>
@@ -3299,7 +3299,7 @@
             </Spanish>
             <Russian>
             &lt;t size='1.3' color='#ffa000'&gt;ПОЛЮВАННЯ НА FOB&lt;/t&gt;
-            &lt;br/&gt;&lt;br/&gt;&lt;t size='1'&gt;Силы OPFOR використовують невеликі бази постачання, що розташовані за лінією фронта. Знищення матеріальних засобів цих баз значно погіршить зв'язки постачання OPFOR та погіршить їх можливість реагувати на ваші дії.&lt;/t&gt;&lt;br/&gt;	&lt;t size='1'&gt;
+            &lt;br/&gt;&lt;br/&gt;&lt;t size='1'&gt;Сили OPFOR використовують невеликі бази постачання, що розташовані за лінією фронта. Знищення матеріальних засобів цих баз значно погіршить зв'язки постачання OPFOR та погіршить їх можливість реагувати на ваші дії.&lt;/t&gt;&lt;br/&gt;	&lt;t size='1'&gt;
             Ваша місія полягає в тому, щоб знищити на базах усі засоби постачання (вантажівки, контейнери) будь якими засобами що є у вашому розпоряджені. На жаль наша розвідка не в змозі надати вам точне розташування цих баз, вам доведеться знайти їх самостійно. Шукайте бази постачання в районі червоної зони, що відміена на вашій мапі.&lt;/t&gt;
             &lt;br/&gt;&lt;br/&gt;
             &lt;t size='1.15' color='#00a0ff'&gt;Вартість: 15&lt;img image='\A3\Ui_f\data\GUI\Cfg\Ranks\general_gs.paa'/&gt;&lt;/t&gt;
@@ -3484,7 +3484,7 @@
             <Russian>&lt;t size='1.3' color='#ffa000'&gt;ПЕРЕХОПЛЕННЯ КОНВОЯ&lt;/t&gt;
             &lt;br/&gt;&lt;br/&gt;
             &lt;t size='1'&gt;
-            Сили OPFOR використовують автоколони для постачання своїх оборонних позицій. Перехоплення одного з таких конвоїв міг би ефективно зруйнувати їх зв'язок постачання. Також ми б могли використати цю можливість для отримання більшої кількості зброї.&lt;/t&gt;
+            Сили OPFOR використовують автоколони для постачання своїх оборонних позицій. Перехоплення одного з таких конвоїв могло б ефективно зруйнувати їх зв'язок постачання. Також ми б могли використати цю можливість для отримання більшої кількості зброї.&lt;/t&gt;
             &lt;br/&gt;&lt;br/&gt;
             &lt;t size='1'&gt;
             Ваша задача полягає у зупинці конвоя за будь яку ціну. Ви можете знищити його або захопити для отримання ресурсів озброєння. Ціль буде відмічено на вашій мапі.&lt;/t&gt;
@@ -3752,7 +3752,7 @@
             &lt;br/&gt;&lt;br/&gt;
             &lt;t size='1.15' color='#00a0ff'&gt;Вартість: 8&lt;img image='\A3\Ui_f\data\GUI\Cfg\Ranks\general_gs.paa'/&gt;&lt;/t&gt;
             &lt;br/&gt;
-            &lt;t size='1.15' color='#ffa000'&gt;Нагорода: 20 розвед.даних (10 за кожного живого члена екіпажу вертольота)&lt;/t&gt;
+            &lt;t size='1.15' color='#ffa000'&gt;Нагорода: 20 розвід.даних (10 за кожного живого члена екіпажу вертольота)&lt;/t&gt;
             &lt;br/&gt;&lt;br/&gt;
             &lt;t size='10'&gt;&lt;img image='res\secondary\fob_obj.jpg'/&gt;&lt;/t&gt;
             </Russian>
