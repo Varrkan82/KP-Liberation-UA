@@ -2266,7 +2266,7 @@
             <French>Autorise le joueur à utiliser les autres actions : retournement de véhicule, manipulation des boites de munition, capture de prisoniers, etc.</French>
             <German>Erlaubt es dem Spieler, andere Aktionen durchzuführen: Umdrehen, Interaktion mit Munitionskisten, Gefangennahme, usw.</German>
             <Spanish>Permite al jugador usar otras acciones: Recolocar vehículo, manipulación de cajas de munición, captura de prisioneros, etc.</Spanish>
-            <Russian>Дозволити гравцю решту дійЖ перекинути, маніпуляції з ящиками боєприпасів, захоплення полонених, т.і.</Russian>
+            <Russian>Дозволити гравцю решту дій: перекинути, маніпуляції з ящиками боєприпасів, захоплення полонених, т.і.</Russian>
             <Italian>Permetti al giocatore di usare le altre funzioni come , catturare prigionieri,raddrizzare veicoli ecc.</Italian>
             <Chinesesimp>允许玩家使用其他功能：翻正、货箱控制、俘虏战俘，等等。</Chinesesimp>
             <Chinese>允許玩家使用其他功能，如：翻正、貨物控制（裝載、卸載、倉儲等）、俘虜戰俘，等等。</Chinese>
@@ -3299,7 +3299,7 @@
             </Spanish>
             <Russian>
             &lt;t size='1.3' color='#ffa000'&gt;ПОЛЮВАННЯ НА FOB&lt;/t&gt;
-            &lt;br/&gt;&lt;br/&gt;&lt;t size='1'&gt;Силы OPFOR використовують невеликі бази постачання, що розташовані за лінією фронта. Знищення матеріальних засобів цих баз значно погіршить зв'язки постачання OPFOR та погіршить їх можливість реагувати на ваші дії.&lt;/t&gt;&lt;br/&gt;	&lt;t size='1'&gt;
+            &lt;br/&gt;&lt;br/&gt;&lt;t size='1'&gt;Сили OPFOR використовують невеликі бази постачання, що розташовані за лінією фронта. Знищення матеріальних засобів цих баз значно погіршить зв'язки постачання OPFOR та погіршить їх можливість реагувати на ваші дії.&lt;/t&gt;&lt;br/&gt;	&lt;t size='1'&gt;
             Ваша місія полягає в тому, щоб знищити на базах усі засоби постачання (вантажівки, контейнери) будь якими засобами що є у вашому розпоряджені. На жаль наша розвідка не в змозі надати вам точне розташування цих баз, вам доведеться знайти їх самостійно. Шукайте бази постачання в районі червоної зони, що відміена на вашій мапі.&lt;/t&gt;
             &lt;br/&gt;&lt;br/&gt;
             &lt;t size='1.15' color='#00a0ff'&gt;Вартість: 15&lt;img image='\A3\Ui_f\data\GUI\Cfg\Ranks\general_gs.paa'/&gt;&lt;/t&gt;
@@ -3484,7 +3484,7 @@
             <Russian>&lt;t size='1.3' color='#ffa000'&gt;ПЕРЕХОПЛЕННЯ КОНВОЯ&lt;/t&gt;
             &lt;br/&gt;&lt;br/&gt;
             &lt;t size='1'&gt;
-            Сили OPFOR використовують автоколони для постачання своїх оборонних позицій. Перехоплення одного з таких конвоїв міг би ефективно зруйнувати їх зв'язок постачання. Також ми б могли використати цю можливість для отримання більшої кількості зброї.&lt;/t&gt;
+            Сили OPFOR використовують автоколони для постачання своїх оборонних позицій. Перехоплення одного з таких конвоїв могло б ефективно зруйнувати їх зв'язок постачання. Також ми б могли використати цю можливість для отримання більшої кількості зброї.&lt;/t&gt;
             &lt;br/&gt;&lt;br/&gt;
             &lt;t size='1'&gt;
             Ваша задача полягає у зупинці конвоя за будь яку ціну. Ви можете знищити його або захопити для отримання ресурсів озброєння. Ціль буде відмічено на вашій мапі.&lt;/t&gt;
@@ -3752,7 +3752,7 @@
             &lt;br/&gt;&lt;br/&gt;
             &lt;t size='1.15' color='#00a0ff'&gt;Вартість: 8&lt;img image='\A3\Ui_f\data\GUI\Cfg\Ranks\general_gs.paa'/&gt;&lt;/t&gt;
             &lt;br/&gt;
-            &lt;t size='1.15' color='#ffa000'&gt;Нагорода: 20 розвед.даних (10 за кожного живого члена екіпажу вертольота)&lt;/t&gt;
+            &lt;t size='1.15' color='#ffa000'&gt;Нагорода: 20 розвід.даних (10 за кожного живого члена екіпажу вертольота)&lt;/t&gt;
             &lt;br/&gt;&lt;br/&gt;
             &lt;t size='10'&gt;&lt;img image='res\secondary\fob_obj.jpg'/&gt;&lt;/t&gt;
             </Russian>
@@ -5355,9 +5355,9 @@
             Dopo essere andato lì dovrai trovare la posizione esatta del tuo bersaglio, quindi utilizzare qualsiasi mezzo a tua disposizione per completare il tuo obiettivo. Eseguire questo compito sarà premiato, riducendo così il livello di allarme e con essa l'efficienza di tutte le forze ostili.&lt;br/&gt; &lt;br/&gt;
             </Italian>
             <Russian>&lt;br/&gt;&lt;br/&gt;
-            Когда вы захватываете сектора, иногда несколько оставшихся сил противника будут сдаваться. Затем вы можете захватить этих пленных и отвезти их в соседний FOB для допроса.&lt;br/&gt; &lt;br/&gt;
-            Этот допрос, выполненный в полном уважении Женевской конвенции, позволит вам получить точную информацию, которая может быть использована для выявления грубой позиции базы материально-технического обеспечения противника, конвоя противника или дружественного поиска и спасения.&lt;br/&gt; &lt;br/&gt;
-            Побывав там, вам нужно будет найти точное положение вашей цели, а затем использовать любые имеющиеся в вашем распоряжении средства для достижения своей цели. Достижение этой цели будет вознаграждено, следовательно, будет уменьшаться уровень оповещения, а вместе с ним и эффективность всех враждебных сил.&lt;br/&gt; &lt;br/&gt;
+            Коли ви захоплюєте сектори, инколи декілька ворогів, що залишилися, будуть здаватися у полон. Потім ви можете захопити цих полонених і відвезти їх на сусідню FOB для допита.&lt;br/&gt; &lt;br/&gt;
+            Цей допит, що буде виконано з повною повагою до Женевської конвенції, дозволить вам отримати точну інформацію, що може бути використана для вияву призблизної позиції бази матеріально-технічного забезпечення противника, конвоя противника чи дружнього пошуку та порятунку.&lt;br/&gt; &lt;br/&gt;
+            Вам потрібно буде знайти точну позицію вашої цілі, а потім використати будь які наявні засоби для досягнення вашої мети. Досягнення цієї мети буде винагороджено, відповідно, буде зменшуватись рівень сповіщень, а разом із ни і ефективність ворожих сил.&lt;br/&gt; &lt;br/&gt;
             </Russian>
             <Chinesesimp>&lt;br/&gt;&lt;br/&gt;
             有时候当你占领战区时，一些敌军残部会选择投降。你可以将他们抓到就近的前哨去审问。&lt;br/&gt; &lt;br/&gt;
@@ -5384,7 +5384,7 @@
             <French>10. Commandement</French>
             <German>10. Oberkommando</German>
             <Spanish>10. Comandancia</Spanish>
-            <Russian>10. Командование</Russian>
+            <Russian>10. Командування</Russian>
             <Italian>10. Comando</Italian>
             <Chinesesimp>10. 指挥</Chinesesimp>
             <Chinese>10. 指挥</Chinese>
@@ -5409,9 +5409,9 @@
             Questo ruolo è ora obbligatorio in quanto fornisce accesso diretto alla gestione dei settori produttivi e alla logistica AI. Dato che sei posizionato da una FOB, vedrai le opzioni "Impostazioni di produzione" e "Panoramica logistica".&lt;br/&gt; &lt;br/&gt; Il primo consente di decidere quali PDI o Fabbriche producono  risorse specifiche, così come una panoramica corrente dettagliata.&lt;br/&gt; &lt;br/&gt; Quest'ultimo ti permette di comandare un convoglio logistico di AI, dove puoi "aggiungere" gruppi logistici, acquistare qualsiasi quantità di camion per gruppo e mandarli a spostare determinate risorse in tutta la regione per te.&lt;br/&gt; &lt;br/&gt;
             </Italian>
             <Russian>&lt;br/&gt;&lt;br/&gt;
-            Когда игрок использует роль Commander, он получает специальный доступ к интерфейсу Zeus, нажав соответствующую клавишу (по умолчанию Y). Этот интерфейс позволяет управлять дружественными силами в трехмерном режиме или в режиме карты. &lt;br/&gt; &lt;br/&gt;
-            Кроме того, командир получает дополнительные варианты сборки, которые позволят ему создавать технику с экипажем или готовые отряды. &lt;br/&gt; &lt;br/&gt;
-            Эта роль в настоящее время является обязательной, поскольку она обеспечивает прямой доступ к управлению производственными секторами и логистикой ИИ. Учитывая, что вы позиционируетесь по FOB, вы увидите варианты «Настройки производства» и «Обзор логистики». &lt;br/&gt; &lt;br/&gt; Первое позволяет определить, какой PoI или Завод создает конкретные ресурсы, а также подробный текущий обзор.&lt;br/&gt; &lt;br/&gt; Последний позволяет вам управлять логическим конвоем AI, в котором вы можете «Добавить» логистические группы, приобрести любое количество грузовиков на группу и приказать им перемещать определенные объемы ресурсов в регионе для вас. &lt;br/&gt; &lt;br/&gt;
+            Коли гравець використовує роль Commander, він отримує спеціальний доступ до інтерфейса Zeus, натиснувши відповідну клавішу (Y за замовчуванням). Цей інтерфейс дозволяє керувати дружніми силами у тривимірному режимі або у режимі мапи. &lt;br/&gt; &lt;br/&gt;
+            Окрім того командир отримує додаткові варіанти здірки, котрі дозволяють йому створювати техніку з екіпажем або готові загони. &lt;br/&gt; &lt;br/&gt;
+            Ця роль на даний момент є обов'язковою, тому що вона забезпечує прямий доступ до керування виробничими секторами та логістичним ІІ. Враховуючи, що ви позиціонуєтесь по FOB, ви побачете варіанти «Налаштування виробництва» та «Огляд логістики». &lt;br/&gt; &lt;br/&gt; Перше дозволяє визначити, який PoI чи Завод виробляє конкретні ресурси, а також детальний поточний огляд.&lt;br/&gt; &lt;br/&gt; Останній дозволяє вам керувати логістичним конфоєм AI, в котрому ви можете «Додати» логістичні групи, придбати будь яку кількість вантажівок на групу і наказати їм переміщувати визначені об'єми вантажів в регіоні для вас. &lt;br/&gt; &lt;br/&gt;
             </Russian>
             <Chinesesimp>&lt;br/&gt;&lt;br/&gt;
             当一名玩家扮演指挥官角色时，他将会得到按指定按键（默认为Y）打开宙斯（Zeus）界面的权限。该界面让玩家可以在3D或地图视角中指挥友军部队。&lt;br/&gt; &lt;br/&gt;
@@ -5446,7 +5446,7 @@
         <Key ID="STR_PARAMS_ARSENALUSEPRESET">
             <Original>Arsenal mode</Original>
             <German>Arsenalmodus</German>
-            <Russian>Режим арсенала</Russian>
+            <Russian>Режим арсеналу</Russian>
             <Italian>Modalità Arsenale</Italian>
             <Chinesesimp>军火库模式</Chinesesimp>
             <Chinese>軍火庫模式</Chinese>
@@ -5457,7 +5457,7 @@
         <Key ID="STR_PARAMS_NORESTRICTIONS">
             <Original>No restrictions</Original>
             <German>Keine Einschränkungen</German>
-            <Russian>Без ограничений</Russian>
+            <Russian>Без обмежень</Russian>
             <Italian>Senza Restrizioni</Italian>
             <Chinesesimp>无限制</Chinesesimp>
             <Chinese>無限制</Chinese>
@@ -5468,7 +5468,7 @@
         <Key ID="STR_PARAMS_USEPRESET">
             <Original>Use preset from config</Original>
             <German>Benutze Preset aus Konfiguration</German>
-            <Russian>Использовать предустановки из конфига</Russian>
+            <Russian>Використовувати переналаштування з конфігу</Russian>
             <Italian>Usa il file config.sqf</Italian>
             <Chinesesimp>使用配置文件中的预设内容</Chinesesimp>
             <Chinese>使用設定文件中的預設內容</Chinese>
@@ -5479,7 +5479,7 @@
         <Key ID="STR_ACTION_CRATE_PUSH">
             <Original>-- PUSH CRATE</Original>
             <German>-- KISTE SCHIEBEN</German>
-            <Russian>-- ТОЛКНУТЬ ЯЩИК</Russian>
+            <Russian>-- ШТОВХНУТИ ЯЩИК</Russian>
             <Italian>-- SPINGI CASSA</Italian>
             <Chinesesimp>-- 推货箱</Chinesesimp>
             <Chinese>-- 推貨物</Chinese>
@@ -5490,7 +5490,7 @@
         <Key ID="STR_ACTION_SORT_STORAGE">
             <Original>-- STACK AND SORT</Original>
             <German>-- STAPELN UND SORTIEREN</German>
-            <Russian>-- СОБРАТЬ И ОТСОРТИРОВАТЬ</Russian>
+            <Russian>-- ЗІБРАТИ ТА ВІДСОРТУВАТИ</Russian>
             <Italian>-- IMPILA E ORDINA</Italian>
             <Chinesesimp>-- 排列并分类</Chinesesimp>
             <Chinese>-- 排列並分類</Chinese>
@@ -5502,6 +5502,7 @@
         <Key ID="STR_PARAMS_SUPPMOD">
             <Original>BI Support Module System access</Original>
             <German>BI Support Module System Zugriff</German>
+            <Russian>-- Доступ до модуля підтримки BI</Russian>
             <Italian>Accesso Modulo Di Supporto BI</Italian>
             <Chinesesimp>BI支援模块系统权限</Chinesesimp>
             <Chinese>BI支援模塊系統權限</Chinese>
@@ -5511,7 +5512,7 @@
         <Key ID="STR_PARAMS_COMMANDER">
             <Original>Commander only</Original>
             <German>Nur Kommandant</German>
-            <Russian>Только командир</Russian>
+            <Russian>Тільки командир</Russian>
             <Italian>Solo per il Comandante</Italian>
             <Chinesesimp>仅指挥官</Chinesesimp>
             <Chinese>僅指揮官</Chinese>
@@ -5522,7 +5523,7 @@
         <Key ID="STR_PARAMS_WHITELISTONLY">
             <Original>Whitelisted only</Original>
             <German>Nur Whitelist</German>
-            <Russian>Только из Whitelist</Russian>
+            <Russian>Тільки з Whitelist</Russian>
             <Italian>Con Whitelist</Italian>
             <Chinesesimp>仅白名单</Chinesesimp>
             <Chinese>僅白名單</Chinese>
@@ -5533,7 +5534,7 @@
         <Key ID="STR_PARAMS_EVERYONE">
             <Original>Everyone</Original>
             <German>Jeder</German>
-            <Russian>Все</Russian>
+            <Russian>Всі</Russian>
             <Italian>Tutti</Italian>
             <Chinesesimp>所有人</Chinesesimp>
             <Chinese>所有人</Chinese>
@@ -5544,7 +5545,7 @@
         <Key ID="STR_GREUH_EXTENDED_OPTIONS_ACTIONMENU">
             <Original>-- Extended Options --</Original>
             <German>-- Erweiterte Optionen --</German>
-            <Russian>-- Расширенные Опции --</Russian>
+            <Russian>-- Розширені Параметри --</Russian>
             <Italian>-- Opzioni Avanzate --</Italian>
             <Chinesesimp>-- 扩展选项 --</Chinesesimp>
             <Chinese>-- 擴增選項 --</Chinese>
@@ -5555,7 +5556,7 @@
         <Key ID="STR_GREUH_EXTENDED_OPTIONS">
             <Original>Extended Options</Original>
             <German>Erweiterte Optionen</German>
-            <Russian>Расширенные Опции</Russian>
+            <Russian>Розширені Параметри</Russian>
             <Italian>Opzioni Avanzate</Italian>
             <Chinesesimp>扩展选项</Chinesesimp>
             <Chinese>擴增選項</Chinese>
@@ -5566,7 +5567,7 @@
         <Key ID="STR_GREUH_DISABLED">
             <Original>- disabled -</Original>
             <German>- deaktiviert -</German>
-            <Russian>- выключен -</Russian>
+            <Russian>- вимкнуто -</Russian>
             <Italian>- disabilitato -</Italian>
             <Chinesesimp>- 已禁用 -</Chinesesimp>
             <Chinese>- 已禁用 -</Chinese>
@@ -5577,7 +5578,7 @@
         <Key ID="STR_GREUH_SQUAD_MANAGEMENT">
             <Original>Squad Management</Original>
             <German>Truppmanagement</German>
-            <Russian>Управление Отрядами</Russian>
+            <Russian>Керування Загонами</Russian>
             <Italian>Gestione Squadra</Italian>
             <Chinesesimp>班组管理</Chinesesimp>
             <Chinese>班級管理</Chinese>
@@ -5588,7 +5589,7 @@
         <Key ID="STR_GREUH_JOIN">
             <Original>Join</Original>
             <German>Beitreten</German>
-            <Russian>Войти</Russian>
+            <Russian>Увійти</Russian>
             <Italian>Unisciti</Italian>
             <Chinesesimp>加入</Chinesesimp>
             <Chinese>加入</Chinese>
@@ -5599,7 +5600,7 @@
         <Key ID="STR_GREUH_CREATE">
             <Original>Create</Original>
             <German>Erstellen</German>
-            <Russian>Создать</Russian>
+            <Russian>Створити</Russian>
             <Italian>Crea</Italian>
             <Chinesesimp>创建</Chinesesimp>
             <Chinese>建立</Chinese>
@@ -5610,7 +5611,7 @@
         <Key ID="STR_GREUH_RENAME">
             <Original>Rename</Original>
             <German>Umbenennen</German>
-            <Russian>Переим.</Russian>
+            <Russian>Переймен.</Russian>
             <Italian>Rinomina</Italian>
             <Chinesesimp>重命名</Chinesesimp>
             <Chinese>重新命名</Chinese>
@@ -5621,7 +5622,7 @@
         <Key ID="STR_GREUH_LEADER">
             <Original>Leader</Original>
             <German>Anführer</German>
-            <Russian>Лидер</Russian>
+            <Russian>Лідер</Russian>
             <Italian>Capo Squadra</Italian>
             <Chinesesimp>班长</Chinesesimp>
             <Chinese>班長</Chinese>
@@ -5632,7 +5633,7 @@
         <Key ID="STR_GREUH_CANCEL">
             <Original>Cancel</Original>
             <German>Abbrechen</German>
-            <Russian>Отмена</Russian>
+            <Russian>Відміна</Russian>
             <Italian>Cancella</Italian>
             <Chinesesimp>取消</Chinesesimp>
             <Chinese>取消</Chinese>
@@ -5643,7 +5644,7 @@
         <Key ID="STR_GREUH_CHOOSE">
             <Original>Choose</Original>
             <German>Wählen</German>
-            <Russian>Выбрать</Russian>
+            <Russian>Обрати</Russian>
             <Italian>Scegli</Italian>
             <Chinesesimp>选择</Chinesesimp>
             <Chinese>選擇</Chinese>
@@ -5654,7 +5655,7 @@
         <Key ID="STR_GREUH_PLATOON_SQUAD_AWARENESS">
             <Original>Platoon and Squad Awareness</Original>
             <German>Sichthilfen und Kartenmarkierungen</German>
-            <Russian>Информирование о Взводах и Группах</Russian>
+            <Russian>Інформування про Взводи та Групи</Russian>
             <Italian>Indicatori di Mappa</Italian>
             <Chinesesimp>班排警戒</Chinesesimp>
             <Chinese>班排警戒</Chinese>
@@ -5665,7 +5666,7 @@
         <Key ID="STR_GREUH_SHOW_PLATOON_OVERLAY">
             <Original>Show platoon overlay:</Original>
             <German>Platoon Overlay:</German>
-            <Russian>Показ. оверлей взводов:</Russian>
+            <Russian>Показ. оверлей взводів:</Russian>
             <Italian>Indicatore Plotone:</Italian>
             <Chinesesimp>显示排界面：</Chinesesimp>
             <Chinese>顯示排介面：</Chinese>
@@ -5687,7 +5688,7 @@
         <Key ID="STR_GREUH_SHOW_PLAYER_NAMETAGS">
             <Original>Show player nametags:</Original>
             <German>Spielernamen:</German>
-            <Russian>Показ. имена игроков:</Russian>
+            <Russian>Показ. імена гравців:</Russian>
             <Italian>Indicatore Nomi:</Italian>
             <Chinesesimp>显示玩家铭牌：</Chinesesimp>
             <Chinese>顯示玩家名牌：</Chinese>
@@ -5698,7 +5699,7 @@
         <Key ID="STR_GREUH_YES">
             <Original>Yes</Original>
             <German>Ja</German>
-            <Russian>Да</Russian>
+            <Russian>Так</Russian>
             <Italian>Si</Italian>
             <Chinesesimp>是</Chinesesimp>
             <Chinese>是</Chinese>
@@ -5709,7 +5710,7 @@
         <Key ID="STR_GREUH_NO">
             <Original>No</Original>
             <German>Nein</German>
-            <Russian>Нет</Russian>
+            <Russian>Ні</Russian>
             <Italian>No</Italian>
             <Chinesesimp>否</Chinesesimp>
             <Chinese>否</Chinese>
@@ -5720,7 +5721,7 @@
         <Key ID="STR_GREUH_ADJUST_VIEW_DISTANCE">
             <Original>Adjust View Distance</Original>
             <German>Sichtweite ändern</German>
-            <Russian>Настройка Дистанции Прорисовки</Russian>
+            <Russian>Налаштування Дистанції Промалювання</Russian>
             <Italian>Aggiusta Distanza Visiva</Italian>
             <Chinesesimp>调整视距</Chinesesimp>
             <Chinese>調整視距</Chinese>
@@ -5731,7 +5732,7 @@
         <Key ID="STR_GREUH_VIEW_DISTANCE">
             <Original>View Distance</Original>
             <German>Sichtweite</German>
-            <Russian>Дистанции Прорисовки</Russian>
+            <Russian>Дистанція Промалювання</Russian>
             <Italian>Distanza Visuale</Italian>
             <Chinesesimp>视野距离</Chinesesimp>
             <Chinese>視野距離</Chinese>
@@ -5742,7 +5743,7 @@
         <Key ID="STR_GREUH_INFANTRY">
             <Original>Infantry</Original>
             <German>Infanterie</German>
-            <Russian>Пехота</Russian>
+            <Russian>Піхота</Russian>
             <Italian>Fanteria</Italian>
             <Chinesesimp>步兵</Chinesesimp>
             <Chinese>步兵</Chinese>
@@ -5764,7 +5765,7 @@
         <Key ID="STR_GREUH_OBJECTS">
             <Original>Objects</Original>
             <German>Objekte</German>
-            <Russian>Объекты</Russian>
+            <Russian>Об'єкти</Russian>
             <Italian>Oggetti</Italian>
             <Chinesesimp>物体</Chinesesimp>
             <Chinese>物件</Chinese>
@@ -5775,7 +5776,7 @@
         <Key ID="STR_GREUH_ADJUST_VIEW_DISTANCE_TO_KEEP_FPS_ABOVE">
             <Original>Adjust view distance to keep FPS above</Original>
             <German>Automatische Sichtweite für FPS über</German>
-            <Russian>Настроить дист. прорисовки для FPS более</Russian>
+            <Russian>Налаштувати дист. промалювання для FPS більше</Russian>
             <Italian>Aggiusta distanza in base agli FPS</Italian>
             <Chinesesimp>动态调整视距令FPS高于</Chinesesimp>
             <Chinese>自動調整視距並確保 FPS 高於</Chinese>
@@ -5786,7 +5787,7 @@
         <Key ID="STR_GREUH_ADJUST_TERRAIN_DETAILS">
             <Original>Adjust Terrain Details</Original>
             <German>Landschaftdetails</German>
-            <Russian>Настройка Детализации Земли</Russian>
+            <Russian>Налаштування Деталізації Землі</Russian>
             <Italian>Aggiusta Dettagli Terreno</Italian>
             <Chinesesimp>调整地形细节</Chinesesimp>
             <Chinese>調整地形細節</Chinese>
@@ -5797,7 +5798,7 @@
         <Key ID="STR_GREUH_VERY_LOW">
             <Original>Very Low</Original>
             <German>Sehr niedrig</German>
-            <Russian>Очень низко</Russian>
+            <Russian>Дуже низько</Russian>
             <Italian>Molto Basso</Italian>
             <Chinesesimp>极低</Chinesesimp>
             <Chinese>極低</Chinese>
@@ -5808,7 +5809,7 @@
         <Key ID="STR_GREUH_LOW">
             <Original>Low</Original>
             <German>Niedrig</German>
-            <Russian>Низко</Russian>
+            <Russian>Низько</Russian>
             <Italian>Basso</Italian>
             <Chinesesimp>低</Chinesesimp>
             <Chinese>低</Chinese>
@@ -5830,7 +5831,7 @@
         <Key ID="STR_GREUH_HIGH">
             <Original>High</Original>
             <German>Hoch</German>
-            <Russian>Высоко</Russian>
+            <Russian>Високо</Russian>
             <Italian>Alto</Italian>
             <Chinesesimp>高</Chinesesimp>
             <Chinese>高</Chinese>
@@ -5841,7 +5842,7 @@
         <Key ID="STR_GREUH_SHOW_TEAMMATES_ON_MAP">
             <Original>Show teammates on map:</Original>
             <German>Truppmitglieder auf Karte:</German>
-            <Russian>Отобр. напарников на карте:</Russian>
+            <Russian>Відобр. напарників на мапі:</Russian>
             <Italian>Mostra compagni in mappa:</Italian>
             <Chinesesimp>在地图上显示友军：</Chinesesimp>
             <Chinese>在地圖上顯示友軍單位：</Chinese>
@@ -5852,7 +5853,7 @@
         <Key ID="STR_GREUH_INVEHICLE_SOUND_VOLUME">
             <Original>In-Vehicle Sound Volume</Original>
             <German>Fahrzeug Innenlautstärke</German>
-            <Russian>Громкость звука в транспорте</Russian>
+            <Russian>Гучність звука в транспорті</Russian>
             <Italian>Suono veicolo a bordo</Italian>
             <Chinesesimp>载具内音量</Chinesesimp>
             <Chinese>載具內音量</Chinese>
@@ -5874,7 +5875,7 @@
         <Key ID="STR_GREUH_RESPAWN">
             <Original>Respawn</Original>
             <German>Respawn</German>
-            <Russian>Возродиться</Russian>
+            <Russian>Відродитися</Russian>
             <Italian>Riapparizione</Italian>
             <Chinesesimp>重生</Chinesesimp>
             <Chinese>重生</Chinese>
@@ -5885,7 +5886,7 @@
         <Key ID="STR_GREUH_REPLACE_NEAREST_AI">
             <Original>Replace nearest AI</Original>
             <German>Ersetze nächste KI</German>
-            <Russian>Заменить ближайшие ИИ</Russian>
+            <Russian>Замінити найближчі ІІ</Russian>
             <Italian>Rimpiazza AI</Italian>
             <Chinesesimp>就近附身AI</Chinesesimp>
             <Chinese>就近附身 AI</Chinese>
@@ -5896,7 +5897,7 @@
         <Key ID="STR_CR_KILLMSG">
             <Original>A civilian named %1 was killed!</Original>
             <German>Ein Zivilist mit Namen %1 wurde getötet!</German>
-            <Russian>Гражданский %1 был убит!</Russian>
+            <Russian>Цивільного %1 було вбито!</Russian>
             <Italian>Un civile di nome %1 è stato ucciso!</Italian>
             <Chinesesimp>一个名叫%1的平民被击杀了！</Chinesesimp>
             <Chinese>一個名叫 %1 的平民被擊殺了！</Chinese>
@@ -5907,7 +5908,7 @@
         <Key ID="STR_CR_VEHICLEMSG">
             <Original>A civilian's vehicle was seized!</Original>
             <German>Ein Zivilfahrzeug wurde beschlagnahmt!</German>
-            <Russian>Транспорт гражданского был захвачен!</Russian>
+            <Russian>Транспорт цивільного був захоплений!</Russian>
             <Italian>Un veicolo civile è stato confiscato!</Italian>
             <Chinesesimp>一辆平民载具被强征了！</Chinesesimp>
             <Chinese>一輛平民載具備強徵了！</Chinese>
@@ -5918,7 +5919,7 @@
         <Key ID="STR_CR_BUILDINGMSG">
             <Original>Civilians are complaining about %1 lost buildings.</Original>
             <German>Die Zivilisten beklagen sich über %1 verlorene Gebäude.</German>
-            <Russian>Гражданские жалуются из-за %1 разрушенных зданий.</Russian>
+            <Russian>Цивільні жаліються із-за %1 знищених будівель.</Russian>
             <Italian>Civili si lamentano della perdita di %1 edifici.</Italian>
             <Chinesesimp>平民们对%1建筑的损坏有所怨言。</Chinesesimp>
             <Chinese>平民們對 %1 的建築物戰損有所怨言。</Chinese>
@@ -5929,7 +5930,7 @@
         <Key ID="STR_CR_HEALMSG">
             <Original>Civilian named %1 is thankful for your help.</Original>
             <German>Der Zivilist %1 ist dankbar für die Hilfe.</German>
-            <Russian>Гражданский %1 благодарен за вашу помощь.</Russian>
+            <Russian>Цивільний %1 вдячний за вашу допомогу.</Russian>
             <Italian>Il civile di nome %1 ti ringrazia per l'aiuto.</Italian>
             <Portuguese>Um civil chamado %1 agradeceu sua ajuda.</Portuguese>
             <Chinese>平民 %1 感謝你的幫助。</Chinese>
@@ -5938,7 +5939,7 @@
         <Key ID="STR_PARAM_CR_BUILDING">
             <Original>Civil Reputation penalty for buildings if building is</Original>
             <German>Ziviles Ansehen sinkt, wenn Gebäude</German>
-            <Russian>Штраф к Репутации Гражданских, если постройка</Russian>
+            <Russian>Штраф до Репутації цивільних, якщо будівлю</Russian>
             <Italian>Penalità nella reputazione coi civili , se l'edeficio è</Italian>
             <Chinesesimp>当建筑_____时，民间声望会降低</Chinesesimp>
             <Chinese>當建築物＿＿時，民間聲望會降低。</Chinese>
@@ -5949,7 +5950,7 @@
         <Key ID="STR_PARAM_CR_DAMAGED">
             <Original>damaged</Original>
             <German>beschädigt</German>
-            <Russian>повреждена</Russian>
+            <Russian>пошкоджено</Russian>
             <Italian>danneggiato</Italian>
             <Chinesesimp>受损</Chinesesimp>
             <Chinese>受損</Chinese>
@@ -5960,7 +5961,7 @@
         <Key ID="STR_PARAM_CR_DESTROYED">
             <Original>fully destroyed</Original>
             <German>komplett zerstört</German>
-            <Russian>полностью уничтожена</Russian>
+            <Russian>повністю знищено</Russian>
             <Italian>completamente distrutto</Italian>
             <Chinesesimp>完全损毁</Chinesesimp>
             <Chinese>完全損毀</Chinese>
@@ -5971,7 +5972,7 @@
         <Key ID="STR_NOTIFICATION_RESTART_TITLE">
             <Original>SERVER RESTART NOTIFICATION</Original>
             <German>SERVER RESTART HINWEIS</German>
-            <Russian>НАПОМИНАНИЕ О ПЕРЕЗАПУСКЕ СЕРВЕРА</Russian>
+            <Russian>НАГАДУВАННЯ ПРО ПЕРЕЗАПУСК СЕРВЕРА</Russian>
             <Italian>NOTIFICA RESTART SERVER</Italian>
             <Turkish>SERVER YENİDEN BAŞLATMA BİLDİRİMİ</Turkish>
             <Chinesesimp>服务器重启提醒</Chinesesimp>
@@ -5982,7 +5983,7 @@
         <Key ID="STR_NOTIFICATION_RESTART_SECOND">
             <Original>The server will restart in less than 60 seconds!</Original>
             <German>Server Restart in weniger als 60 Sekunden!</German>
-            <Russian>Сервер перезапустится меньше чем через 60 секунд!</Russian>
+            <Russian>Сервер буде автоматично перезапущено менш ніж за 60 секунд!</Russian>
             <Italian>Il server si riavvierà tra meno di 60 secodni!</Italian>
             <Turkish>SERVER 60 SANİYE İÇİNDE YENİDEN BAŞLATILACAK!</Turkish>
             <Chinesesimp>服务器将在60秒内重启！</Chinesesimp>
@@ -5993,7 +5994,7 @@
         <Key ID="STR_NOTIFICATION_RESTART_FIVE">
             <Original>The server will restart in less than 5 minutes!</Original>
             <German>Server Restart in weniger als 5 Minuten!</German>
-            <Russian>Сервер перезапустится меньше чем через 5 минут!</Russian>
+            <Russian>Сервер буде автоматично перезапущено менш ніж за 5 хвилин!</Russian>
             <Italian>Il server si riavvierà tra meno di 5 minuti!</Italian>
             <Turkish>SERVER 5 DAKIKA İÇİNDE TEKRAR BAŞLATILACAK!</Turkish>
             <Chinesesimp>服务器将在5分钟内重启！</Chinesesimp>
@@ -6004,7 +6005,7 @@
         <Key ID="STR_NOTIFICATION_RESTART_FIFTEEN">
             <Original>The server will restart in less than 15 minutes!</Original>
             <German>Server Restart in weniger als 15 Minuten!</German>
-            <Russian>Сервер перезапустится меньше чем через 15 минут!</Russian>
+            <Russian>Сервер буде автоматично перезапущено менш ніж за 15 хвилин!</Russian>
             <Italian>Il server si riavvierà tra meno di 15 minuti!</Italian>
             <Turkish>SERVER 15 DAKIKA İÇİNDE TEKRAR BAŞLATILACAK!</Turkish>
             <Chinesesimp>服务器将在15分钟内重启！</Chinesesimp>
@@ -6015,7 +6016,7 @@
         <Key ID="STR_NOTIFICATION_RESTART_THIRTY">
             <Original>The server will restart in less than 30 minutes!</Original>
             <German>Server Restart in weniger als 30 Minuten!</German>
-            <Russian>Сервер перезапустится меньше чем через 30 минут!</Russian>
+            <Russian>Сервер буде автоматично перезапущено менш ніж за 30 хвилин!</Russian>
             <Italian>Il server si riavvierà tra meno di 30 minuti!</Italian>
             <Turkish>SERVER 30 DAKIKA İÇİNDE TEKRAR BAŞLATILACAK!</Turkish>
             <Chinesesimp>服务器将在30分钟内重启！</Chinesesimp>
@@ -6026,7 +6027,7 @@
         <Key ID="STR_RESTART_PARAM">
             <Original>Automatic Server Restart after (hours)</Original>
             <German>Automatischer Server Restart nach (Stunden)</German>
-            <Russian>Автоматический перезапуск сервера после (часов)</Russian>
+            <Russian>Автоматичний перезапуск сервера після (годин)</Russian>
             <Italian>Restart Automatico del Server ogni (ore)</Italian>
             <Turkish>Otomatik server yeniden başlat (saat)</Turkish>
             <Chinesesimp>自动重启服务器时间（小时）</Chinesesimp>
@@ -6037,7 +6038,7 @@
         <Key ID="STR_PARAMS_DEBUGOPTIONS">
             <Original>== DEBUG MESSAGES ==</Original>
             <German>== DEBUG NACHRICHTEN ==</German>
-            <Russian>== ОТЛАДОЧНЫЕ СООБЩЕНИЯ ==</Russian>
+            <Russian>== ВІДЛАДОЧНІ СПОВІЩЕННЯ ==</Russian>
             <Italian>== MESSAGGI DI DEBUG ==</Italian>
             <Turkish>== DEBUG MESAJLARI ==</Turkish>
             <Chinesesimp>== 除错信息 ==</Chinesesimp>
@@ -6068,7 +6069,7 @@
         <Key ID="STR_NOTIFICATION_CIV_INFORMANT_START">
             <Original>A civilian from %1 says he has some information for us.</Original>
             <German>Ein Zivilist aus %1 sagt, er hätte Informationen für uns.</German>
-            <Russian>Гражданский из %1 говорит, что у него есть информация для нас.</Russian>
+            <Russian>Цивільний з %1 говорить, що у нього є інформація для нас.</Russian>
             <Italian>Un civile a %1 dice di avere informazioni per noi.</Italian>
             <Turkish>%1 adında ki bir sivil bize vereceği bir bilgisi olduğunu söylüyor.</Turkish>
             <Chinesesimp>来自%1的一位平民说他有情报要交给我们。</Chinesesimp>
@@ -6079,7 +6080,7 @@
         <Key ID="STR_NOTIFICATION_CIV_INFORMANT_SUCCESS">
             <Original>The civilian gave us some important information.</Original>
             <German>Der Zivilist gab uns wichtige Informationen.</German>
-            <Russian>Гражданский передал нам важную информацию.</Russian>
+            <Russian>Цивільний передав нам важливу інформацію.</Russian>
             <Italian>Il civile ha fornito informazioni importatnti.</Italian>
             <Turkish>Sivil bize çok önemli bilgiler verdi.</Turkish>
             <Chinesesimp>平民给了我们一些重要情报。</Chinesesimp>
@@ -6090,7 +6091,7 @@
         <Key ID="STR_NOTIFICATION_CIV_INFORMANT_FAIL">
             <Original>The civilian has disappeared.</Original>
             <German>Der Zivilist ist wieder untergetaucht.</German>
-            <Russian>Гражданский пропал.</Russian>
+            <Russian>Цивільний зник.</Russian>
             <Italian>Il civile è scomparso.</Italian>
             <Turkish>Sivil ortadan kayboldu.</Turkish>
             <Chinesesimp>平民消失了。</Chinesesimp>
@@ -6101,7 +6102,7 @@
         <Key ID="STR_NOTIFICATION_CIV_INFORMANT_DEATH">
             <Original>The civilian died.</Original>
             <German>Der Zivilist wurde getötet.</German>
-            <Russian>Гражданский умер.</Russian>
+            <Russian>Цивільний помер.</Russian>
             <Italian>Il civile è morto.</Italian>
             <Turkish>Sivil öldü.</Turkish>
             <Chinesesimp>平民死亡了。</Chinesesimp>
@@ -6122,7 +6123,7 @@
         <Key ID="STR_PARAMS_DEBUG_LOGISTIC">
             <Original>Logistic</Original>
             <German>Logistik</German>
-            <Russian>Логистика</Russian>
+            <Russian>Логістика</Russian>
             <Italian>Logistica</Italian>
             <Turkish>Lojistik</Turkish>
             <Chinesesimp>后勤</Chinesesimp>
@@ -6133,7 +6134,7 @@
         <Key ID="STR_NOTIFICATION_ASYMMCONVOYAMBUSH_TITLE">
             <Original>Logistic Convoy Ambush</Original>
             <German>Logistikkonvoi Überfall</German>
-            <Russian>Засада на конвой</Russian>
+            <Russian>Засідка на конвой</Russian>
             <Italian>Convoglio Sotto Attacco</Italian>
             <Turkish>Lojistik Konvoyu Baskını</Turkish>
             <Chinesesimp>后勤车队受袭</Chinesesimp>
@@ -6144,7 +6145,7 @@
         <Key ID="STR_NOTIFICATION_ASYMMCONVOYAMBUSH_TEXT">
             <Original>Guerilla forces attacking our convoy near %1.</Original>
             <German>Guerillakräfte greifen unseren Konvoi nahe %1 an.</German>
-            <Russian>Партизанские войска атакуют наш конвой около %1.</Russian>
+            <Russian>Партизанські війська атакують наш конвой біля %1.</Russian>
             <Italian>Guerriglieri attaccano il nostro convoglio vicino %1</Italian>
             <Turkish>Gerilla kuvvetleri bizim konvoyumuza saldırıyor, %1 yakınında.</Turkish>
             <Chinesesimp>游击队正在%1附近攻击我们的车队</Chinesesimp>
@@ -6155,7 +6156,7 @@
         <Key ID="STR_NOTIFICATION_ASYMMCONVOYAMBUSH_SUCCESS">
             <Original>The ambush was successfully repelled.</Original>
             <German>Der Hinterhalt konnte erfolgreich zurückgeschlagen werden.</German>
-            <Russian>Засада успешно отражена.</Russian>
+            <Russian>Засідку успішно відбито.</Russian>
             <Italian>L'attacco è stato neutralizzato.</Italian>
             <Turkish>Baskın başarıyla püskürtüldü.</Turkish>
             <Chinesesimp>成功击退了来犯者。</Chinesesimp>
@@ -6166,7 +6167,7 @@
         <Key ID="STR_NOTIFICATION_ASYMMCONVOYAMBUSH_FAIL">
             <Original>The guerilla forces escaped with the convoy resources.</Original>
             <German>Die Guerillakräfte konnten mit den Konvoiressourcen verschwinden.</German>
-            <Russian>Партизанские войска сбежали с ресурсами конвоя.</Russian>
+            <Russian>Партизанські війська втекли з ресурсми конвоя.</Russian>
             <Italian>I Guerriglieri scappano con le risorse del nostro convoglio.</Italian>
             <Turkish>Gerilla kuvvetleri malzemelerimizle beraber kaçtılar.</Turkish>
             <Chinesesimp>游击队抢走了车队物资。</Chinesesimp>
@@ -6195,7 +6196,7 @@
         <Key ID="STR_CR_ACE_ACTION">
             <Original>Treat the civilian (field dressing)</Original>
             <German>Zivilisten versorgen (einfache Bandage)</German>
-            <Russian>Перевязать гражданского (полевая перевязка)</Russian>
+            <Russian>Перев'язати цивільного (польова перев'язка)</Russian>
             <Italian>Soccorso Civili</Italian>
             <Chinesesimp>治疗平民（战地绷带）</Chinesesimp>
             <Chinese>治療平民（基礎繃帶）</Chinese>
@@ -6205,7 +6206,7 @@
         <Key ID="STR_CR_ACE_ACTION_FAIL">
             <Original>You need a field dressing.</Original>
             <German>Du brauchst eine einfache Bandage.</German>
-            <Russian>Вам необходима полевая перевязка.</Russian>
+            <Russian>Вам потрібна польова перев'язка.</Russian>
             <Italian>Hai bisogno di un bendaggio semplice.</Italian>
             <Chinesesimp>你需要一个战地绷带。</Chinesesimp>
             <Chinese>你需要一個基礎繃帶。</Chinese>
@@ -6215,7 +6216,7 @@
         <Key ID="STR_NOTIFICATION_CIV_HVT_START">
             <Original>There is a high ranked officer near %1.</Original>
             <German>Ein hochrangiger Offizier befindet sich in der Nähe von %1.</German>
-            <Russian>Высокопоставленный офицер находится около %1.</Russian>
+            <Russian>Високопоставлений офіцер знаходиться біля %1.</Russian>
             <Italian>C'è un ufficiale di altro grado vicino %1.</Italian>
             <Chinesesimp>%1附近有一名高级军官。</Chinesesimp>
             <Chinese>%1 附近有一名高級軍官。</Chinese>
@@ -6225,7 +6226,7 @@
         <Key ID="STR_NOTIFICATION_CIV_HVT_SUCCESS">
             <Original>The officer was successfully killed.</Original>
             <German>Der Offizier konnte erfolgreich getötet werden.</German>
-            <Russian>Офицер успешно убит.</Russian>
+            <Russian>Офіцер успішно вбито.</Russian>
             <Italian>L'ufficiale è stato ucciso.</Italian>
             <Chinesesimp>成功刺杀了军官。</Chinesesimp>
             <Chinese>成功刺殺了軍官。</Chinese>
@@ -6235,7 +6236,7 @@
         <Key ID="STR_NOTIFICATION_CIV_HVT_FAIL">
             <Original>The officer has moved on.</Original>
             <German>Der Offizier ist weitergezogen.</German>
-            <Russian>Офицер ушел.</Russian>
+            <Russian>Офіцер втік.</Russian>
             <Italian>L'ufficiale è scappato.</Italian>
             <Chinesesimp>军官逃离了。</Chinesesimp>
             <Chinese>軍官逃離了。</Chinese>
@@ -6245,7 +6246,7 @@
         <Key ID="STR_PARAM_RESPAWN_COOLDOWN">
             <Original>Mobile Respawn Cooldown (minutes)</Original>
             <German>Mobiler Respawn Cooldown (Minuten)</German>
-            <Russian>Затримка дислокации на КШМ (минуты)</Russian>
+            <Russian>Затримка дислокації на КШМ (хвилини)</Russian>
             <Italian>Attesa Respawn Mobile (Minuti)</Italian>
             <Chinesesimp>机动复活点冷却时间（分钟）</Chinesesimp>
             <Chinese>機動重生點每次重生所需冷卻時間（分鐘）</Chinese>
@@ -6255,7 +6256,7 @@
         <Key ID="STR_RESPAWN_COOLDOWN_HINT">
             <Original>%1 minutes mobile respawn cooldown left.</Original>
             <German>%1 Minuten Mobiler Respawn Cooldown übrig.</German>
-            <Russian>Осталось %1 минут(-ы) задержки дислокации на КШМ.</Russian>
+            <Russian>Залишилось %1 хвилин затримки дислокації на КШМ.</Russian>
             <Italian>Mancano ancora %1 minuti al respawn.</Italian>
             <Chinesesimp>机动复活点还需要%1分钟冷却。</Chinesesimp>
             <Chinese>機動重生點還需要 %1 分鐘冷卻。</Chinese>
@@ -6265,7 +6266,7 @@
         <Key ID="STR_CR_RESISTANCE_KILLMSG">
             <Original>An allied resistance fighter named %1 was killed!</Original>
             <German>Ein verbündeter Widerstandskämpfer mit Namen %1 wurde getötet!</German>
-            <Russian>Союзный боец сопротивления %1 был убит!</Russian>
+            <Russian>Союзний боєць спротиву %1 був вбитий!</Russian>
             <Italian>Un'alleato della resistenza di nome %1 è stato ucciso!</Italian>
             <Chinesesimp>一位名叫%1的友军抵抗军战士阵亡了！</Chinesesimp>
             <Chinese>一名叫做 %1 的友軍抵抗軍戰士陣亡了！</Chinese>
@@ -6294,56 +6295,56 @@
         <Key ID="STR_PARAMS_LOADSAVEPARAMS">
             <Original>Load/Save Parameters</Original>
             <German>Laden/Speichern der Parameter</German>
-            <Russian>Сохранить/Загрузить параметры</Russian>
+            <Russian>Зберегти/Завантажити параметри</Russian>
             <Italian>Carica/Salva Parametri</Italian>
             <Korean>매개변수설정 저장/불러오기</Korean>
         </Key>
         <Key ID="STR_PARAMS_LOADSAVEPARAMS_SAVE">
             <Original>SAVE selected parameters</Original>
             <German>SPEICHERN der momentanen Parameter</German>
-            <Russian>Сохранить выбранные параметры</Russian>
+            <Russian>Зберегти обрані параметри</Russian>
             <Italian>SALVA i parametri</Italian>
             <Korean>매개변수설정 저장</Korean>
         </Key>
         <Key ID="STR_PARAMS_LOADSAVEPARAMS_LOAD">
             <Original>LOAD parameters or use selected if no saved value found</Original>
             <German>LADEN der gespeicherten Parameter oder momentane nutzen, wenn keine gespeicherten vorhanden sind</German>
-            <Russian>Загрузить параметры или использовать выбранные, если не найдено сохранненого значения</Russian>
+            <Russian>Завантажити параметри або використовувати обрані, якщо не знайдено збереженого значення</Russian>
             <Italian>CARICA parametri o utilizza selezionati se non è stato trovato alcun valore salvato</Italian>
             <Korean>매개변수설정 불러오기/ 저장된 설정이 없는 경우 현재 선택된 설정 사용</Korean>
         </Key>
         <Key ID="STR_PARAMS_LOADSAVEPARAMS_SELECTED">
             <Original>Use selected parameters without saving</Original>
             <German>Momentane Parametereinstellung ohne Speicherung</German>
-            <Russian>Использовать выбранные параметры без сохранения</Russian>
+            <Russian>Використовувати обрані параметри без збереження</Russian>
             <Italian>Usa i parametri selezionati senza salvare</Italian>
             <Korean>현재 설정을 저장하지 않고 선택한 설정을 사용</Korean>
         </Key>
         <Key ID="STR_RAISE">
             <Original>-- Raise</Original>
             <German>-- Höher</German>
-            <Russian>-- Поднять</Russian>
+            <Russian>-- Підняти</Russian>
             <Italian>-- Aumenta</Italian>
             <Korean>-- 높이 올리기</Korean>
         </Key>
         <Key ID="STR_LOWER">
             <Original>-- Lower</Original>
             <German>-- Niedriger</German>
-            <Russian>-- Опустить</Russian>
+            <Russian>-- Опустити</Russian>
             <Italian>-- Abbassa</Italian>
             <Korean>-- 높이 내리기</Korean>
         </Key>
         <Key ID="STR_NOTIFICATION_GUER_INC_TITLE">
             <Original>Guerilla forces on the way.</Original>
             <German>Widerstandskämpfer sind unterwegs.</German>
-            <Russian>Партизанские силы в пути.</Russian>
+            <Russian>Партизанські сили вирушили.</Russian>
             <Italian>Guerriglieri in arrivo.</Italian>
             <Korean>도로에 적군 민병대 세력 발견!</Korean>
         </Key>
         <Key ID="STR_NOTIFICATION_GUER_INC">
             <Original>Guerilla forces are incoming to %1 from the %2.</Original>
             <German>Widerstandskämpfer nähern sich %1 aus %2.</German>
-            <Russian>Партизанские силы идут в %1 из %2.</Russian>
+            <Russian>Партизанські сили рухаються до %1 з %2.</Russian>
             <Italian>Guerriglieri in arrivo su %1 da %2.</Italian>
             <Korean>적군 민병대가 %2 에서 %1 로 이동중입니다.</Korean>
         </Key>
@@ -6351,7 +6352,7 @@
             <Original>== REVIVE OPTIONS (Disregarded, if you play with ACE Medical) ==</Original>
             <German>== WIEDERBELEBUNGSEINSTELLUNGEN (Nicht berücksichtigt, wenn mit ACE Medical gespielt wird) ==</German>
             <Spanish>== OPCIONES DE REVIVE ==</Spanish>
-            <Russian>== ОПЦИИ ВОЗРОЖДЕНИЯ (Игнорируются, если вы играете с ACE Medical) ==</Russian>
+            <Russian>== ОПЦІЇ ВІДРОДЖЕННЯ (Ігноруються, фкщо ви граєте з ACE Medical) ==</Russian>
             <Italian>== OPZIONI RIANIMAZIONE ==</Italian>
             <Chinesesimp>== 复活选项 ==</Chinesesimp>
             <Chinese>== 昏迷甦醒選項 ==</Chinese>
@@ -6383,55 +6384,55 @@
         <Key ID="STR_PARAMS_VICTORYCONDITION">
             <Original>Victory Condition</Original>
             <German>Siegesbedingung</German>
-            <Russian>Условие для победы</Russian>
+            <Russian>Умови для перемоги</Russian>
             <Korean>승리 조건</Korean>
         </Key>
         <Key ID="STR_PARAMS_VICTORYCONDITION_0">
             <Original>All capitals</Original>
             <German>Alle Hauptstädte</German>
-            <Russian>Все столицы</Russian>
+            <Russian>Всі столиці</Russian>
             <Korean>모든 대도시</Korean>
         </Key>
         <Key ID="STR_PARAMS_VICTORYCONDITION_1">
             <Original>All capitals and military bases</Original>
             <German>Alle Hauptstädte und Militärbasen</German>
-            <Russian>Все столицы и военные базы</Russian>
+            <Russian>Всі столиці і військові бази</Russian>
             <Korean>모든 대도시 및 군사기지</Korean>
         </Key>
         <Key ID="STR_PARAMS_VICTORYCONDITION_2">
             <Original>All capitals and 60% of the sectors</Original>
             <German>Alle Hauptstädte und 60% der Sektoren</German>
-            <Russian>Все столицы и 60% секторов</Russian>
+            <Russian>Всі столиці і 60% секторів</Russian>
             <Korean>모든 대도시 및 60%의 거점</Korean>
         </Key>
         <Key ID="STR_PARAMS_VICTORYCONDITION_3">
             <Original>All capitals and 80% of the sectors</Original>
             <German>Alle Hauptstädte und 80% der Sektoren</German>
-            <Russian>Все столицы и 80% секторов</Russian>
+            <Russian>Всі столиці і 80% секторів</Russian>
             <Korean>모든 대도시 및 80%의 거점</Korean>
         </Key>
         <Key ID="STR_PARAMS_VICTORYCONDITION_4">
             <Original>All sectors</Original>
             <German>Alle Sektoren</German>
-            <Russian>Все секторы</Russian>
+            <Russian>Всі сектори</Russian>
             <Korean>모든 거점</Korean>
         </Key>
         <Key ID="STR_VICTORY_TITLE">
             <Original>CAMPAIGN COMPLETED</Original>
             <German>KAMPAGNE ABGESCHLOSSEN</German>
-            <Russian>КАМПАНИЯ ВЫПОЛНЕНА</Russian>
+            <Russian>КАМПАНІЮ ВИКОНАНО</Russian>
             <Korean>군사작전 완료</Korean>
         </Key>
         <Key ID="STR_VICTORY_TEXT">
             <Original>You have liberated the area from the enemy oppression.</Original>
             <German>Du hast das Gebiet von der feindlichen Unterdrückung befreit.</German>
-            <Russian>Вы освободили территорию от угнетения врага.</Russian>
+            <Russian>Ви звільнили територію від пригнічення ворогом.</Russian>
             <Korean>당신은 적의 억압으로부터 이 지역을 해방시켰다.</Korean>
         </Key>
         <Key ID="STR_STATS_PLAYTIME">
             <Original>Playtime: %1 days, %2 hours, %3 minutes and %4 seconds</Original>
             <German>Spielzeit: %1 Tage, %2 Stunden, %3 Minuten und %4 Sekunden</German>
-            <Russian>Игровое время: %1 дней, %2 часов, %3 минут и %4 секунд</Russian>
+            <Russian>Ігровий час: %1 днів, %2 годин, %3 хвилини і %4 секунд</Russian>
             <Korean>걸린 시간: %1 일, %2 시간, %3 분 and %4 초</Korean>
         </Key>
         <Key ID="STR_STATS_OPFOR_K_INF">
@@ -6439,7 +6440,7 @@
             <French>Infanterie OPFOR tuée: %1</French>
             <German>OPFOR Infanterie getötet: %1</German>
             <Spanish>Infantería OPFOR eliminada: %1</Spanish>
-            <Russian>Пехоты OPFOR убито: %1</Russian>
+            <Russian>Піхоти OPFOR вбито: %1</Russian>
             <Italian>Fanteria OPFOR ha ucciso: %1</Italian>
             <Chinesesimp>被击杀的敌军步兵： %1</Chinesesimp>
             <Chinese>被擊殺的敵方步兵： %1</Chinese>
@@ -6452,7 +6453,7 @@
             <French>Infanterie OPFOR tuée par les joueurs: %1</French>
             <German>OPFOR Infanterie von Spielern getötet: %1</German>
             <Spanish>Infantería OPFOR eliminada por jugadores: %1</Spanish>
-            <Russian>Пехоты OPFOR убито игроками: %1</Russian>
+            <Russian>Піхоти OPFOR вбито гравцями: %1</Russian>
             <Italian>Fanteria OPFOR uccisa da: %1</Italian>
             <Chinesesimp>被玩家击杀的敌军步兵： %1</Chinesesimp>
             <Chinese>被玩家擊殺的敵方步兵： %1</Chinese>
@@ -6465,7 +6466,7 @@
             <French>Vehicules OPFOR détruits: %1</French>
             <German>OPFOR Fahrzeuge zerstört: %1</German>
             <Spanish>Vehículos OPFOR destruídos: %1</Spanish>
-            <Russian>Техники OPFOR уничтожено: %1</Russian>
+            <Russian>Техніки OPFOR знищено: %1</Russian>
             <Italian>Veicolo OPFOR distrutto: %1</Italian>
             <Chinesesimp>敌军被摧毁的载具： %1</Chinesesimp>
             <Chinese>敵軍被摧毀的載具： %1</Chinese>
@@ -6478,7 +6479,7 @@
             <French>Vehicules OPFOR détruits par les joueurs: %1</French>
             <German>OPFOR Fahrzeuge von Spielern zerstört: %1</German>
             <Spanish>Vehículos OPFOR destruídos por jugadores: %1</Spanish>
-            <Russian>Техники OPFOR уничтожено игроками: %1</Russian>
+            <Russian>Техніки OPFOR знищено гравцями: %1</Russian>
             <Italian>Veicolo OPFOR distrutto da: %1</Italian>
             <Chinesesimp>被玩家摧毁的敌军载具： %1</Chinesesimp>
             <Chinese>被玩家摧毀的敵軍載具： %1</Chinese>
@@ -6491,7 +6492,7 @@
             <French>Soldats BLUFOR recrutés: %1</French>
             <German>BLUFOR Soldaten rekrutiert: %1</German>
             <Spanish>Soldados BLUFOR reclutados: %1</Spanish>
-            <Russian>Солдат BLUFOR призвано: %1</Russian>
+            <Russian>Солдат BLUFOR мобілізовано: %1</Russian>
             <Italian>Soldato BLUFOR reclutato: %1</Italian>
             <Chinesesimp>我军招募的士兵： %1</Chinesesimp>
             <Chinese>我軍招募的士兵： %1</Chinese>
@@ -6504,7 +6505,7 @@
             <French>Infanterie BLUFOR tuée: %1</French>
             <German>BLUFOR Infanterie getötet: %1</German>
             <Spanish>Infantería BLUFOR eliminada: %1</Spanish>
-            <Russian>Пехоты BLUFOR убито: %1</Russian>
+            <Russian>Піхоти BLUFOR вбито: %1</Russian>
             <Italian>Fanteria BLUFOR ha ucciso: %1</Italian>
             <Chinesesimp>被击杀的我军步兵： %1</Chinesesimp>
             <Chinese>被擊殺的我方步兵： %1</Chinese>
@@ -6517,7 +6518,7 @@
             <French>Vehicules BLUFOR construits: %1</French>
             <German>BLUFOR Fahrzeuge gebaut: %1</German>
             <Spanish>Vehículos BLUFOR construidos: %1</Spanish>
-            <Russian>Техники BLUFOR построено: %1</Russian>
+            <Russian>Техніки BLUFOR побудовано: %1</Russian>
             <Italian>Veicolo BLUFOR creato: %1</Italian>
             <Chinesesimp>我军建造的载具： %1</Chinesesimp>
             <Chinese>我軍建造的載具： %1</Chinese>
@@ -6530,7 +6531,7 @@
             <French>Vehicules BLUFOR détruits: %1</French>
             <German>BLUFOR Fahrzeuge zerstört: %1</German>
             <Spanish>Vehículos BLUFOR destruídos: %1</Spanish>
-            <Russian>Техники BLUFOR уничтожено: %1</Russian>
+            <Russian>Техніки BLUFOR знищено: %1</Russian>
             <Italian>Veicolo BLUFOR distrutto: %1</Italian>
             <Chinesesimp>被摧毁的我军载具： %1</Chinesesimp>
             <Chinese>被摧毀的我方載具： %1</Chinese>
@@ -6543,7 +6544,7 @@
             <French>Joueurs morts: %1</French>
             <German>Spielertode: %1</German>
             <Spanish>Muertes del jugador: %1</Spanish>
-            <Russian>Смертей игроков: %1</Russian>
+            <Russian>Смертей гравців: %1</Russian>
             <Italian>Giocatori Deceduti: %1</Italian>
             <Chinesesimp>玩家死亡数： %1</Chinesesimp>
             <Chinese>玩家死亡數： %1</Chinese>
@@ -6556,7 +6557,7 @@
             <French>Tirs fratricides BLUFOR: %1</French>
             <German>BLUFOR Eigenbeschuss: %1</German>
             <Spanish>Incidentes de fuego amigo en BLUFOR: %1</Spanish>
-            <Russian>Случаев дружественного огоня у BLUFOR: %1</Russian>
+            <Russian>Випадків дружнього вогню у BLUFOR: %1</Russian>
             <Italian>Fuoco amico tra i BLUFOR: %1</Italian>
             <Chinesesimp>我军友军误击事件： %1</Chinesesimp>
             <Chinese>友軍誤擊事件： %1</Chinese>
@@ -6567,19 +6568,19 @@
         <Key ID="STR_STATS_GUE_K_INF">
             <Original>Resistance fighters killed: %1</Original>
             <German>Widerstandskämpfer getötet: %1</German>
-            <Russian>Убито бойцов сопротивления: %1</Russian>
+            <Russian>Вбито бійців спротиву: %1</Russian>
             <Korean>적군 전투기 격추 : %1</Korean>
         </Key>
         <Key ID="STR_STATS_GUE_TK_INF">
             <Original>Allied resistance fighters killed: %1</Original>
             <German>Verbündete Widerstandskämpfer getötet: %1</German>
-            <Russian>Убито союзнических бойцов сопротивления: %1</Russian>
+            <Russian>Вбито союзних бійців спротиву: %1</Russian>
             <Korean>아군 전투기 격추 : %1</Korean>
         </Key>
         <Key ID="STR_STATS_GUE_TK_INF_PL">
             <Original>Allied resistance fighters killed by players: %1</Original>
             <German>Verbündete Widerstandskämpfer von Spielern getötet: %1</German>
-            <Russian>Убито союзнических бойцов сопротивления игроками: %1</Russian>
+            <Russian>Вбито союзних бійців спротиву гравцями: %1</Russian>
             <Korean>플레이어에 의해 격추된 전투기 : %1</Korean>
         </Key>
         <Key ID="STR_STATS_CIV_K_INF">
@@ -6587,7 +6588,7 @@
             <French>Civils tués: %1</French>
             <German>Zivilisten getötet: %1</German>
             <Spanish>Civiles asesinados: %1</Spanish>
-            <Russian>Гражданских убито: %1</Russian>
+            <Russian>Цивільних вбито: %1</Russian>
             <Italian>Civile ha ucciso: %1</Italian>
             <Chinesesimp>被击杀的平民： %1</Chinesesimp>
             <Chinese>被擊殺的平民： %1</Chinese>
@@ -6600,7 +6601,7 @@
             <French>Civils tués par les joueurs: %1</French>
             <German>Zivilisten von Spielern getötet: %1</German>
             <Spanish>Civiles asesinados por jugadores: %1</Spanish>
-            <Russian>Гражданских убито игроками: %1</Russian>
+            <Russian>Цивільних вбито гравцями: %1</Russian>
             <Italian>Civile ucciso da: %1</Italian>
             <Chinesesimp>被玩家击杀的平民： %1</Chinesesimp>
             <Chinese>被玩家擊殺的平民： %1</Chinese>
@@ -6611,31 +6612,31 @@
         <Key ID="STR_STATS_CIV_B_INF">
             <Original>Civilians healed: %1</Original>
             <German>Zivilisten versorgt: %1</German>
-            <Russian>Гражданских вылечено: %1</Russian>
+            <Russian>Цивільних вилікувано: %1</Russian>
             <Korean>민간인 치료 : %1</Korean>
         </Key>
         <Key ID="STR_STATS_CIV_K_VEH">
             <Original>Civilian vehicles destroyed: %1</Original>
             <German>Zivile Fahrzeuge zerstört: %1</German>
-            <Russian>Транспорта гражданских уничтожено: %1</Russian>
+            <Russian>Транспорта цивільних знищено: %1</Russian>
             <Korean>파괴된 민간인 차량 : %1</Korean>
         </Key>
         <Key ID="STR_STATS_CIV_K_VEH_PL">
             <Original>Civilian vehicles destroyed by players: %1</Original>
             <German>Zivile Fahrzeuge von Spielern zerstört: %1</German>
-            <Russian>Транспорта гражданских уничтожено игроками: %1</Russian>
+            <Russian>Транспорта цивільних знищено гравцями: %1</Russian>
             <Korean>플레이어에 의해 파괴된 민간인 차량 : %1</Korean>
         </Key>
         <Key ID="STR_STATS_CIV_S_VEH">
             <Original>Civilian vehicles seized: %1</Original>
             <German>Zivile Fahrzeuge beschlagnahmt: %1</German>
-            <Russian>Транспорта гражданских захвачено: %1</Russian>
+            <Russian>Транспорта цивільних захоплено: %1</Russian>
             <Korean>민간인 차량 탈취 : %1</Korean>
         </Key>
         <Key ID="STR_STATS_CIV_K_BUILDINGS">
             <Original>Civilian buildings destroyed: %1</Original>
             <German>Zivile Gebäude zerstört: %1</German>
-            <Russian>Построек гражданских уничтожено: %1</Russian>
+            <Russian>Будівель цивільних знищено: %1</Russian>
             <Korean>파괴된 민간 건물 : %1</Korean>
         </Key>
         <Key ID="STR_STATS_VEH_RECYCLED">
@@ -6643,7 +6644,7 @@
             <French>Vehicules recyclés:</French>
             <German>Fahrzeuge wiederverwertet: %1</German>
             <Spanish>Vehículos reciclados: %1</Spanish>
-            <Russian>Техники утилизировано: %1</Russian>
+            <Russian>Техніки утилізовано: %1</Russian>
             <Italian>Veicolo riciclato: %1</Italian>
             <Chinesesimp>回收的载具： %1</Chinesesimp>
             <Chinese>回收的載具： %1</Chinese>
@@ -6654,37 +6655,37 @@
         <Key ID="STR_STATS_PROD_AMMO">
             <Original>Ammunitiond produced: %1</Original>
             <German>Munition hergestellt: %1</German>
-            <Russian>Произведено боеприпасов: %1</Russian>
+            <Russian>Вироблено боєприпасів: %1</Russian>
             <Korean>생산된 탄약 : %1</Korean>
         </Key>
         <Key ID="STR_STATS_SPENT_AMMO">
             <Original>Ammunitiond spent: %1</Original>
             <German>Munition verbraucht: %1</German>
-            <Russian>Боеприпасов потрачено: %1</Russian>
+            <Russian>Боєприпасів витрачено: %1</Russian>
             <Korean>사용된 탄약 : %1</Korean>
         </Key>
         <Key ID="STR_STATS_PROD_FUEL">
             <Original>Fuel produced: %1</Original>
             <German>Kraftstoff hergestellt: %1</German>
-            <Russian>Произведено топлива: %1</Russian>
+            <Russian>Вироблено палива: %1</Russian>
             <Korean>생산된 기름 : %1</Korean>
         </Key>
         <Key ID="STR_STATS_SPENT_FUEL">
             <Original>Fuel spent: %1</Original>
             <German>Kraftstoff verbraucht: %1</German>
-            <Russian>Топлива потрачено: %1</Russian>
+            <Russian>Палива витрачено: %1</Russian>
             <Korean>사용된 기름 : %1</Korean>
         </Key>
         <Key ID="STR_STATS_PROD_SUPPLY">
             <Original>Supplies produced: %1</Original>
             <German>Nachschub hergestellt: %1</German>
-            <Russian>Произведено припасов: %1</Russian>
+            <Russian>Вироблено припасів: %1</Russian>
             <Korean>생산된 보급품 : %1</Korean>
         </Key>
         <Key ID="STR_STATS_SPENT_SUPPLY">
             <Original>Supllies spent: %1</Original>
             <German>Nachschub verbraucht: %1</German>
-            <Russian>Припасов потрачено: %1</Russian>
+            <Russian>Припасів витрачено: %1</Russian>
             <Korean>사용된 보급품 : %1</Korean>
         </Key>
         <Key ID="STR_STATS_SECTORS_CAPTURED">
@@ -6692,7 +6693,7 @@
             <French>Secteurs libérés, delivrés: %1</French>
             <German>Sektoren befreit: %1</German>
             <Spanish>Sectores liberados: %1</Spanish>
-            <Russian>Секторов освобождено: %1</Russian>
+            <Russian>Секторів звільнено: %1</Russian>
             <Italian>Settore liberato: %1</Italian>
             <Chinesesimp>解放的战区： %1</Chinesesimp>
             <Chinese>解放的戰區： %1</Chinese>
@@ -6705,7 +6706,7 @@
             <French>Secteurs perdus: %1</French>
             <German>Sektoren verloren: %1</German>
             <Spanish>Sectores perdidos: %1</Spanish>
-            <Russian>Секторов потеряно: %1</Russian>
+            <Russian>Секторів втрачено: %1</Russian>
             <Italian>Settore perso: %1</Italian>
             <Chinesesimp>丢失的战区： %1</Chinesesimp>
             <Chinese>失去的戰區： %1</Chinese>
@@ -6718,7 +6719,7 @@
             <French>FOBs construites: %1</French>
             <German>FOBs gebaut: %1</German>
             <Spanish>FOBs construídas: %1</Spanish>
-            <Russian>FOB построено: %1</Russian>
+            <Russian>FOB побудовано: %1</Russian>
             <Italian>FOB costruita: %1</Italian>
             <Chinesesimp>建造的前哨： %1</Chinesesimp>
             <Chinese>建造的前線基地： %1</Chinese>
@@ -6731,7 +6732,7 @@
             <French>FOBs perdues: %1</French>
             <German>FOBs verloren: %1</German>
             <Spanish>FOB perdidas: %1</Spanish>
-            <Russian>FOB потеряно: %1</Russian>
+            <Russian>FOB втрачено: %1</Russian>
             <Italian>FOB persa: %1</Italian>
             <Chinesesimp>损失的前哨： %1</Chinesesimp>
             <Chinese>損失的前線基地： %1</Chinese>
@@ -6744,7 +6745,7 @@
             <French>Objectifs secondaires accomplis: %1</French>
             <German>Sekundärziele erreicht: %1</German>
             <Spanish>Objetivos secundarios conseguidos: %1</Spanish>
-            <Russian>Дополнительных заданий выполнено: %1</Russian>
+            <Russian>Додаткових завдань виконано: %1</Russian>
             <Italian>Obiettivo secondario completato: %1</Italian>
             <Chinesesimp>完成的次要目标： %1</Chinesesimp>
             <Chinese>完成的次要目標： %1</Chinese>
@@ -6757,7 +6758,7 @@
             <French>Prisonniers capturés: %1</French>
             <German>Gefangene gefasst: %1</German>
             <Spanish>Prisioneros capturados: %1</Spanish>
-            <Russian>Пленных захвачено: %1</Russian>
+            <Russian>Полонених захоплено: %1</Russian>
             <Italian>Prigionieri catturati: %1</Italian>
             <Chinesesimp>俘虏的战俘： %1</Chinesesimp>
             <Chinese>俘虜的戰俘： %1</Chinese>
@@ -6770,7 +6771,7 @@
             <French>Battlegroups hostiles appelés: %1</French>
             <German>Feindliche Kampfgruppen ausgerückt: %1</German>
             <Spanish>Grupos hostiles de combate llamados: %1</Spanish>
-            <Russian>Вражеских боевых групп вызвано: %1</Russian>
+            <Russian>Ворожих бойових груп викликано: %1</Russian>
             <Italian>Battaglione ostile contattato: %1</Italian>
             <Chinesesimp>敌军战斗组增援次数： %1</Chinesesimp>
             <Chinese>敵方戰鬥群增援次數： %1</Chinese>
@@ -6783,7 +6784,7 @@
             <French>Renforts hostiles appelés: %1</French>
             <German>Feindliche Verstärkungen ausgerückt: %1</German>
             <Spanish>Refuerzos hostiles llamados: %1</Spanish>
-            <Russian>Враждебных подкреплений вызвано %1:</Russian>
+            <Russian>Ворожих підкріплень викликано %1:</Russian>
             <Italian>Chiamati rinforzi ostili: %1</Italian>
             <Chinesesimp>敌军增援次数： %1</Chinesesimp>
             <Chinese>敵方增援次數： %1</Chinese>
@@ -6796,7 +6797,7 @@
             <French>Augmentation totale du niveau d'alerte: %1</French>
             <German>Gesamterhöhung der gegnerischen Kampfbereitschaft: %1</German>
             <Spanish>Disposición de combate total recaudada: %1</Spanish>
-            <Russian>Всего войск поднято по тревоге: %1</Russian>
+            <Russian>Всього війск піднято по тривозі: %1</Russian>
             <Italian>Disposizione al combattimento recuperata: %1</Italian>
             <Chinesesimp>总备战比例： %1</Chinesesimp>
             <Chinese>威脅度比例： %1</Chinese>
@@ -6809,7 +6810,7 @@
             <French>Explosions d'IED: %1</French>
             <German>IEDs ausgelöst: %1</German>
             <Spanish>IEDs detonados: %1</Spanish>
-            <Russian>Фугасов взорвано: %1</Russian>
+            <Russian>Фугасів взірвано: %1</Russian>
             <Italian>IED detonato: %1</Italian>
             <Chinesesimp>被引爆的IED： %1</Chinesesimp>
             <Chinese>被引爆的IED： %1</Chinese>
@@ -6822,7 +6823,7 @@
             <French>Pertes de Potato 01: %1</French>
             <German>Verluste von Potato 01: %1</German>
             <Spanish>Número de pérdidas de Potato 01: %1</Spanish>
-            <Russian>Количество потерянных Potato 01: %1</Russian>
+            <Russian>Кількість втрачених Potato 01: %1</Russian>
             <Italian>Numero di Potato 01 persi: %1</Italian>
             <Chinesesimp>损失的斯巴达01号： %1</Chinesesimp>
             <Turkish>Potato 01 kayıpları: %1</Turkish>
@@ -6834,7 +6835,7 @@
             <French>Lapins tués: %1</French>
             <German>Hasen getötet: %1</German>
             <Spanish>Conejos asesinados: %1</Spanish>
-            <Russian>Кроликов убито: %1</Russian>
+            <Russian>Кроликів вбито: %1</Russian>
             <Italian>Conigli uccisi: %1</Italian>
             <Chinesesimp>兔子屠杀数： %1</Chinesesimp>
             <Chinese>兔子屠殺數： %1</Chinese>
@@ -6847,7 +6848,7 @@
             <French>Merci beaucoup d'avoir joué à KP LIBERATION!</French>
             <German>Vielen Dank fürs Spielen von KP LIBERATION!</German>
             <Spanish>¡Muchas gracias por jugar KP LIBERATION!</Spanish>
-            <Russian>Большое спасибо за то что играли в KP LIBERATION!</Russian>
+            <Russian>Щиро дякуємо за те, що грали в KP LIBERATION!</Russian>
             <Italian>Mille Grazie per aver giocato KP LIBERATION!:</Italian>
             <Chinesesimp>感谢您游玩 KP LIBERATION！</Chinesesimp>
             <Chinese>感謝您遊玩 KP LIBERATION！</Chinese>
@@ -6860,7 +6861,7 @@
             <French>Nous espérons que vous avez pris autant de plaisir à y jouer, que nous à la créer.</French>
             <German>Wir hoffen, du hattest so viel Spaß am Spielen, wie wir dabei, es zu entwickeln.</German>
             <Spanish>Esperamos que hayas disfrutado tanto jugándola, como nosotros creándola.</Spanish>
-            <Russian>Мы надеемся, что вы насладились игрой в эту миссию так же, как и мы, когда создавали её.</Russian>
+            <Russian>Ми сподіваємося, що ви насолодилися грою в цю місію так само,як і ми, коли її створювали.</Russian>
             <Italian>Speriamo che ti sia divertito giocare, qunato noi a creare questa missione:</Italian>
             <Chinesesimp>一如我们如此热爱制作这个任务，也希望您能喜欢它。</Chinesesimp>
             <Chinese>就像我們如此熱愛於製作這個任務，我們也希望你能喜歡它。</Chinese>
@@ -6873,7 +6874,7 @@
             <French>(Appuyez sur Echap pour quitter)</French>
             <German>(Drücke ESC zum Beenden)</German>
             <Spanish>(Pulsa ESC para salir)</Spanish>
-            <Russian>(Нажмите клавишу ESC, чтобы выйти)</Russian>
+            <Russian>(Натисніть клавішу ESC, щоб вийти)</Russian>
             <Italian>(Premi ESC per uscire)</Italian>
             <Chinesesimp>（按ESC退出）</Chinesesimp>
             <Chinese>（按 ESC 退出）</Chinese>
@@ -6883,33 +6884,37 @@
         </Key>
         <Key ID="STR_CLEARANCE_ACTION">
             <Original>-- Clear FOB area</Original>
-            <Russian>-- Очистить зону FOB</Russian>
+            <Russian>-- Очистити зону FOB</Russian>
             <German>-- FOB Gebiet räumen</German>
             <Korean>-- 전초기지 주변 정리</Korean>
         </Key>
         <Key ID="STR_FOB_REPACKAGE_HINT">
             <Original>FOB repackaged.\nPossibly created clearance will be reverted upon server restart.</Original>
             <German>FOB eingepackt.\nEventuelle Gebietsräumung wird zum Serverneustart rückgängig gemacht.</German>
-            <Russian>FOB свернуто.\nВозможно, созданное разрешение будет отменено после перезапуска сервера.</Russian>
+            <Russian>FOB згорнуто.\nМожливо, створений дозвіл буде відмінено після перезапуску .</Russian>
             <Korean>FOB가 재포장됩니다. 이 상태로 서버 재시작시 이 부근의 건물이나 장비들은 사라집니다.</Korean>
         </Key>
         <Key ID="STR_FOG_PARAM">
             <Original>Dynamic fog (A3 Vanilla)</Original>
+            <Russian>Динамічний туман (A3 Vanilla)</Russian>
             <German>Dynamischer Nebel (A3 Vanilla)</German>
             <Korean>동적인 안개 (A3 Vanilla)</Korean>
         </Key>
         <Key ID="STR_PARAMS_FIRSTFOBVEHICLE">
             <Original>Start FOB provided as</Original>
+            <Russian>Початковий FOB визначено як</Russian>
             <German>Start-FOB bereitgestellt als</German>
             <Korean>시작시 전초기지는 다음과 같이 제공됩니다.</Korean>
         </Key>
         <Key ID="STR_PARAMS_FIRSTFOBVEHICLE_CONTAINTER">
             <Original>FOB Container</Original>
+            <Russian>Контейнер FOB</Russian>
             <German>FOB Container</German>
             <Korean>전초기지 설치박스</Korean>
         </Key>
         <Key ID="STR_PARAMS_FIRSTFOBVEHICLE_TRUCK">
             <Original>FOB Truck</Original>
+            <Russian>Ватнажівка FOB</Russian>
             <German>FOB LKW</German>
             <Korean>전초기지 설치트럭</Korean>
         </Key>
