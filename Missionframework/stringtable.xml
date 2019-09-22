@@ -2136,7 +2136,7 @@
             <French>Construction</French>
             <German>Konstruktionen</German>
             <Spanish>Construcción</Spanish>
-            <Russian>БУдівництво</Russian>
+            <Russian>Будівництво</Russian>
             <Italian>Costruzione</Italian>
             <Chinesesimp>建造</Chinesesimp>
             <Chinese>建造</Chinese>
@@ -4808,7 +4808,7 @@
             <French>Avec le pouvoir de la Liberté et de la Démocratie votre mission est de libérer Altis de l'oppression de l'OPFOR.</French>
             <German>Befreie das Gebiet von der feindlichen Unterdrückung mit der Kraft von Freiheit und Demokratie</German>
             <Spanish>Con el poder de la Libertad y la Democracia, debes liberar Altis de la opresión del OPFOR</Spanish>
-            <Russian>За допомогою сил "свобои" та "демократії" ви маєте звільнити Altis від пригнічення OPFOR.</Russian>
+            <Russian>За допомогою сил "свободи" та "демократії" ви маєте звільнити Altis від пригнічення OPFOR.</Russian>
             <Italian>Libera la regione dall'oppressione nemica! La strategia è la chiave! Buona fortuna soldati.</Italian>
             <Chinesesimp>从敌人手中解放这个地区！战略是制胜关键！士兵们祝你们好运。</Chinesesimp>
             <Chinese>從敵人手中解放此區域！戰略是致勝關鍵！士兵們，祝好運！</Chinese>
@@ -6918,35 +6918,29 @@
             <German>FOB LKW</German>
             <Korean>전초기지 설치트럭</Korean>
         </Key>
-        <Key ID="STR_SPLASH_UILOGO">
-            <Original>res\splash_libe2.paa</Original>
-            <Russian>res\ua-splash_libe2.paa</Russian>
-            <German>res\splash_libe2.paa</German>
-            <Korean>res\splash_libe2.paa</Korean>
-        </Key>
-        <Key ID="STR_LIBMENU_HTP_BTN">
-            <Original>res\btn_htp_spl_idl3.paa</Original>
-            <Russian>res\ua-btn_htp_spl_idl3.paa</Russian>
-            <German>res\btn_htp_spl_idl3.paa</German>
-            <Korean>res\btn_htp_spl_idl3.paa</Korean>
-        </Key>
-        <Key ID="STR_LIBMENU_HTPBTN_HOVER">
-            <Original>res\btn_htp_spl_hov3.paa</Original>
-            <Russian>res\ua-btn_htp_spl_hov3.paa</Russian>
-            <German>res\btn_htp_spl_hov3.paa</German>
-            <Korean>res\btn_htp_spl_hov3.paa</Korean>
-        </Key>
-        <Key ID="STR_LIBMENU_JOINBTN">
+        <Key ID="STR_BTNJOIN_NORMAL">
             <Original>res\btn_join_spl_idl3.paa</Original>
             <Russian>res\ua-btn_join_spl_idl3.paa</Russian>
             <German>res\btn_join_spl_idl3.paa</German>
             <Korean>res\btn_join_spl_idl3.paa</Korean>
         </Key>
-        <Key ID="STR_LIBMENU_JOINBTN_HOVER">
+        <Key ID="STR_BTNJOIN_HOVER">
             <Original>res\btn_join_spl_hov3.paa</Original>
             <Russian>res\ua-btn_join_spl_hov3.paa</Russian>
             <German>res\btn_join_spl_hov3.paa</German>
             <Korean>res\btn_join_spl_hov3.paa</Korean>
+        </Key>
+        <Key ID="STR_BTNHTP_NORMAL">
+            <Original>res\btn_htp_spl_idl3.paa</Original>
+            <Russian>res\ua-btn_htp_spl_idl3.paa</Russian>
+            <German>res\btn_htp_spl_idl3.paa</German>
+            <Korean>res\btn_htp_spl_idl3.paa</Korean>
+        </Key>
+        <Key ID="STR_BTNHTP_HOVER">
+            <Original>res\btn_htp_spl_hov3.paa</Original>
+            <Russian>res\ua-btn_htp_spl_hov3.paa</Russian>
+            <German>res\btn_htp_spl_hov3.paa</German>
+            <Korean>res\btn_htp_spl_hov3.paa</Korean>
         </Key>
     </Package>
 </Project>

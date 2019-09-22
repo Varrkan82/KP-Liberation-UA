@@ -63,7 +63,7 @@ class RscTitles
 			w = 0.35 * safezoneW;
 			y = 0.2 * safezoneH + safezoneY;
 			h = 0.6 * safezoneH;
-			text = "$STR_SPLASH_UILOGO";
+			text = "res\ua-splash.paa";
 		};
 		class VersionLabel {
 			idc = -1;

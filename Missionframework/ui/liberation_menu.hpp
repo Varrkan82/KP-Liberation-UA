@@ -16,7 +16,7 @@ class liberation_menu {
 		w = 0.25 * safezoneW;
 		y = 0.15 * safezoneH + safezoneY;
 		h = 0.43 * safezoneH;
-		text = "$STR_SPLASH_UILOGO";
+		text = "res\ua-splash.paa";
 	};
 	class Start {
 		idc = 321;
@@ -30,13 +30,13 @@ class liberation_menu {
 		size = 0.025 * safezoneH;
 		text = "";
 		action = "dostartgame=1;";
-		textureNoShortcut = "$STR_LIBMENU_JOINBTN";
-		animTextureNormal = "$STR_LIBMENU_JOINBTN";
-		animTextureDisabled = "$STR_LIBMENU_JOINBTN";
-		animTextureOver = "$STR_LIBMENU_JOINBTN_HOVER";
-		animTextureFocused = "$STR_LIBMENU_JOINBTN";
-		animTexturePressed = "$STR_LIBMENU_JOINBTN_HOVER";
-		animTextureDefault = "$STR_LIBMENU_JOINBTN";
+		textureNoShortcut = "$STR_BTNJOIN_NORMAL";
+		animTextureNormal = "$STR_BTNJOIN_NORMAL";
+		animTextureDisabled = "$STR_BTNJOIN_NORMAL";
+		animTextureOver = "$STR_BTNJOIN_HOVER";
+		animTextureFocused = "$STR_BTNJOIN_NORMAL";
+		animTexturePressed = "$STR_BTNJOIN_HOVER";
+		animTextureDefault = "$STR_BTNJOIN_NORMAL";
 		color[] = COLOR_WHITE;
 		color2[] = COLOR_WHITE;
 		colorActiveBackground[] = COLOR_WHITE;
@@ -72,12 +72,12 @@ class liberation_menu {
 	class Help : Start {
 		idc = 322;
 		y = (0.62 * safezoneH + safezoneY);
-		animTextureNormal = "$STR_LIBMENU_HTP_BTN";
-		animTextureDisabled = "$STR_LIBMENU_HTP_BTN";
-		animTextureOver = "$STR_LIBMENU_HTPBTN_HOVER";
-		animTextureFocused = "$STR_LIBMENU_HTP_BTN";
-		animTexturePressed = "$STR_LIBMENU_HTPBTN_HOVER";
-		animTextureDefault = "$STR_LIBMENU_HTP_BTN";
+		animTextureNormal = "$STR_BTNHTP_NORMAL";
+		animTextureDisabled = "$STR_BTNHTP_NORMAL";
+		animTextureOver = "$STR_BTNHTP_HOVER";
+		animTextureFocused = "$STR_BTNHTP_NORMAL";
+		animTexturePressed = "$STR_BTNHTP_HOVER";
+		animTextureDefault = "$STR_BTNHTP_NORMAL";
 		tooltipColorShade[] = COLOR_BROWN;
 		tooltipColorText[] = COLOR_WHITE;
 		tooltipColorBox[] = COLOR_GREEN;
