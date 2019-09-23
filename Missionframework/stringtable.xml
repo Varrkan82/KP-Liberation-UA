@@ -15,6 +15,7 @@
         <!-- Korean localization made by Panzer: https://github.com/PanzerKoLee -->
         <Key ID="STR_MISSION_TITLE">
             <Original>CTI 34 KP Liberation v0.96.6</Original>
+            <English>CTI 34 KP Liberation v0.96.6</English>
         </Key>
         <Key ID="STR_MISSION_VERSION">
             <Original>v0.96.6</Original>
@@ -89,7 +90,7 @@
             <French>CONSTRUCTION</French>
             <German>BAUMENÜ</German>
             <Spanish>MENU DE CONSTRUCCIÓN</Spanish>
-            <Russian>БУДЫВНИЦТВО</Russian>
+            <Russian>БУДІВНИЦТВО</Russian>
             <Italian>MENU COSTRUZIONI</Italian>
             <Chinesesimp>建造菜单</Chinesesimp>
             <Chinese>建造選單</Chinese>
@@ -1889,7 +1890,7 @@
             <French>Si le membre d'escouade sélectionné est assez près d'un point d'approvisionnement (spawn mobile ou FOB) il recevra un nouvel équipement complet.</French>
             <German>Wenn das gewählte Gruppenmitglied nahe genug bei einem Versorgungspunkt (mobiler Spawn oder FOB) ist, erhält es eine brandneue, vollständige Ausrüstung</German>
             <Spanish>Si el miembro de la escuadra se encuentra cerca de un punto de abastecimiento (spawn móvil o FOB) obtendrá el equipamiento completo nuevo</Spanish>
-            <Russian>Якщо обраний член загону знаходиться досить близько від точки поповнення запасів (мобілньа КШМ або FOB), його буде замінено новим, повныстю спорядженим.</Russian>
+            <Russian>Якщо обраний член загону знаходиться досить близько від точки поповнення запасів (мобілньа КШМ або FOB), його буде замінено новим, повністю спорядженим.</Russian>
             <Italian>Se il membro di una squadra è nei pressi di una FOB o Respwan Mobile potrà ricaricare il suo loadout.</Italian>
             <Chinesesimp>如果选择的班组成员距离补给点（机动复活点或前哨）够近时，他们将获得一套全新完整的装备。</Chinesesimp>
             <Chinese>如果選定的班級乘員距離補給點（機動重生點或前線基地）夠近時，他們將獲得一套全新的完整裝備。</Chinese>
@@ -4760,7 +4761,7 @@
         <Key ID="STR_LOGISTIC_TT_AMMO">
             <Original>Ammo value from here to the other destination. (only whole numbers)</Original>
             <German>Munitionsmenge von hier zum anderen Ziel. (nur ganzzahlig)</German>
-            <Russian>Боєприпасы звідси до іншого місця призначення. (Цілі числа)</Russian>
+            <Russian>Боєприпаси звідси до іншого місця призначення. (Цілі числа)</Russian>
             <Italian>Valore munizioni da qui all'altra destinazione. (solo numeri interi)</Italian>
             <Chinesesimp>从这里运往另一地点的弹药数量。（请用整数）</Chinesesimp>
             <Chinese>從這裡運往另一地點的彈藥數量。（請用整數）</Chinese>
@@ -4805,6 +4806,7 @@
         <!-- English adaptations in v0.95, need translations. -->
         <Key ID="STR_MISSION_DESCRIPTION">
             <Original>Liberate the region from the enemy oppression! Strategy will be key! Good luck soldiers.</Original>
+            <English>Liberate the region from the enemy oppression! Strategy will be key! Good luck soldiers.</English>
             <French>Avec le pouvoir de la Liberté et de la Démocratie votre mission est de libérer Altis de l'oppression de l'OPFOR.</French>
             <German>Befreie das Gebiet von der feindlichen Unterdrückung mit der Kraft von Freiheit und Demokratie</German>
             <Spanish>Con el poder de la Libertad y la Democracia, debes liberar Altis de la opresión del OPFOR</Spanish>
